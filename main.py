@@ -108,8 +108,11 @@ def organize_audio_files(base_dir):
         if file_hash in dialogue_map:
             entry = dialogue_map[file_hash]
             
+            # Use node name with order prefix for folder
+            node_name = entry['node']
+            
             # Create chapter and node directories
-            chapter_dir = audio_dir / entry['chapter'] / entry['node']
+            chapter_dir = audio_dir / entry['chapter'] / node_name
             chapter_dir.mkdir(parents=True, exist_ok=True)
             
             # Format new filename
@@ -123,7 +126,7 @@ def organize_audio_files(base_dir):
             # Move and rename file
             try:
                 shutil.move(str(audio_file), str(new_path))
-                print(f"✓ {audio_file.name} → {entry['chapter']}/{entry['node']}/{new_filename}")
+                print(f"✓ {audio_file.name} → {entry['chapter']}/{node_name}/{new_filename}")
                 processed += 1
             except Exception as e:
                 print(f"✗ Failed to move {audio_file.name}: {e}")
