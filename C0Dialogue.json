@@ -1,2477 +1,2525 @@
 {
-  "07c9f8b": {
-    "speaker": "Rest",
-    "line": "Uh, you coming up?",
-    "order": null
-  },
-  "0d9f9b5": {
-    "speaker": "Eve",
-    "line": "Need a sec. Stop worrying.",
-    "order": null
-  },
-  "0c4b61d": {
-    "speaker": "Rest",
-    "line": "They're waiting.",
-    "order": null
-  },
-  "04770f5": {
-    "speaker": "Eve",
-    "line": "Don't we like them waiting a little bit?",
-    "order": null
-  },
-  "074fc1c": {
-    "speaker": "Rest",
-    "line": "Yeah, but we don't like them bored.",
-    "order": null
-  },
-  "0dd2616": {
-    "speaker": "Eve",
-    "line": "Then don't be boring.",
-    "order": null
-  },
-  "00808a8": {
-    "speaker": "Eve",
-    "line": "That's Eve.",
-    "order": null
-  },
-  "0215c17": {
-    "speaker": "Eve",
-    "line": "I'm coming up now.",
-    "order": null
-  },
-  "07214c7": {
-    "speaker": "Eve",
-    "line": "Sorry to make you both worry.",
-    "order": null
-  },
-  "06af345": {
-    "speaker": "Rest",
-    "line": "...I wasn't worried.",
-    "order": null
-  },
-  "09e8b49": {
-    "speaker": "Grace",
-    "line": "I can only noodle a sixteen for so long.",
-    "order": null
-  },
-  "03b9558": {
-    "speaker": "Eve",
-    "line": "Sorry babe. Do a little flare or something. Make it snazzy.",
-    "order": null
-  },
-  "09434a2": {
-    "speaker": "Eve",
-    "line": "That's my guy.",
-    "order": null
-  },
-  "043f903": {
-    "speaker": "Grace",
-    "line": "Okay but seriously, you have to get the f up here.",
-    "order": null
-  },
-  "000c5f8": {
-    "speaker": "Eve",
-    "line": "Another second, alright? Pick the horses back up.",
-    "order": null
-  },
-  "042edf6": {
-    "speaker": "Eve",
-    "line": "Both of you.",
-    "order": null
-  },
-  "004d846": {
-    "speaker": "Eve",
-    "line": "Hey.",
-    "order": null
-  },
-  "02c7cd9": {
-    "speaker": "Unknown",
-    "line": "Hold on ONE sec.",
-    "order": null
-  },
-  "0536d7f": {
-    "speaker": "Rest",
-    "line": "Oh come on.",
-    "order": null
-  },
-  "0060301": {
-    "speaker": "Eve",
-    "line": "Guys, we'll be fine.",
-    "order": null
-  },
-  "01f2c49": {
-    "speaker": "Rest",
-    "line": "It's just—",
-    "order": null
-  },
-  "01cd28a": {
-    "speaker": "Eve",
-    "line": "We're gonna be okay, alright?",
-    "order": null
-  },
-  "0ff8d87": {
-    "speaker": "Rest",
-    "line": "We'll be fine. Let's—",
-    "order": null
-  },
-  "07879b3": {
-    "speaker": "Eve",
-    "line": "Let's make a memory.",
-    "order": null
-  },
-  "0f48860": {
-    "speaker": "Eve",
-    "line": "Hey.",
-    "order": null
-  },
-  "04dd3d9": {
-    "speaker": "Eve",
-    "line": "Guys, we'll be fine.",
-    "order": null
-  },
-  "02f0b4d": {
-    "speaker": "Rest",
-    "line": "It's just—",
-    "order": null
-  },
-  "08f67f5": {
-    "speaker": "Eve",
-    "line": "We're gonna be okay, okay?",
-    "order": null
-  },
-  "0657b13": {
-    "speaker": "Rest",
-    "line": "We'll be fine. Let's—",
-    "order": null
-  },
-  "0d3ced4": {
-    "speaker": "Eve",
-    "line": "Let's make a memory.",
-    "order": null
-  },
-  "0233aec": {
-    "speaker": "Quaver",
-    "line": "Oh my gosh.",
-    "order": null
-  },
-  "0cf9f36": {
-    "speaker": "Beat",
-    "line": "Oh, uh, hi.",
-    "order": null
-  },
-  "0309798": {
-    "speaker": "Quaver",
-    "line": "Are you a crazy person?",
-    "order": null
-  },
-  "0bd4ece": {
-    "speaker": "Unknown",
-    "line": "...What,",
-    "order": null
-  },
-  "0c2cc77": {
-    "speaker": "Beat",
-    "line": "Do I look crazy?",
-    "order": null
-  },
-  "0a023c6": {
-    "speaker": "Quaver",
-    "line": "Kind of!",
-    "order": null
-  },
-  "0f9c63a": {
-    "speaker": "Quaver",
-    "line": "You can't have that here!",
-    "order": null
-  },
-  "074b036": {
-    "speaker": "Unknown",
-    "line": "...no?",
-    "order": null
-  },
-  "0fa36e4": {
-    "speaker": "Beat",
-    "line": "That's a...weird response.",
-    "order": null
-  },
-  "041db5b": {
-    "speaker": "Quaver",
-    "line": "Why do you even have that stuff?",
-    "order": null
-  },
-  "0d487e4": {
-    "speaker": "Unknown",
-    "line": "That's one way to respond to \"hi.\"",
-    "order": null
-  },
-  "07387de": {
-    "speaker": "Quaver",
-    "line": "You gotta hide that!",
-    "order": null
-  },
-  "0a9e2e6": {
-    "speaker": "Beat",
-    "line": "What, the guitar?",
-    "order": null
-  },
-  "09b3577": {
-    "speaker": "Quaver",
-    "line": "And that amp.",
-    "order": null
-  },
-  "0441fd7": {
-    "speaker": "Quaver",
-    "line": "You gotta come with me right now.",
-    "order": null
-  },
-  "09ba58f": {
-    "speaker": "Quaver",
-    "line": "Right now!",
-    "order": null
-  },
-  "0d2f412": {
-    "speaker": "Beat",
-    "line": "Give me a sec!",
-    "order": null
-  },
-  "073d2af": {
-    "speaker": "Quaver",
-    "line": "No!",
-    "order": null
-  },
-  "0172816": {
-    "speaker": "Quaver",
-    "line": "Sorry for yelling but I can't believe you're so casual about this.",
-    "order": null
-  },
-  "0e2a305": {
-    "speaker": "Quaver",
-    "line": "You're so, so, so lucky that I'm the first one to see you.",
-    "order": null
-  },
-  "03cb6ec": {
-    "speaker": "Quaver",
-    "line": "...wait, I am the first person to see you with this stuff, right?",
-    "order": null
-  },
-  "0732df1": {
-    "speaker": "Beat",
-    "line": "Uh, well, I literally just woke up. So. Maybe?",
-    "order": null
-  },
-  "0966e2a": {
-    "speaker": "Quaver",
-    "line": "Were you sleeping here?",
-    "order": null
-  },
-  "0bfdfb0": {
-    "speaker": "Beat",
-    "line": "...I guess so.",
-    "order": null
-  },
-  "09f067a": {
-    "speaker": "Quaver",
-    "line": "You can't remember? Where did you get that guitar anyway?",
-    "order": null
-  },
-  "0736a46": {
-    "speaker": "Quaver",
-    "line": "I can't imagine you'd be capable of stealing from anywhere well-guarded.",
-    "order": null
-  },
-  "085473c": {
-    "speaker": "Quaver",
-    "line": "No offense.",
-    "order": null
-  },
-  "02cdb06": {
-    "speaker": "Beat",
-    "line": "...no offense to which part?",
-    "order": null
-  },
-  "061b5d1": {
-    "speaker": "Beat",
-    "line": "This is a lot, you know that?",
-    "order": null
-  },
-  "084cbad": {
-    "speaker": "Quaver",
-    "line": "It's a lot for me.",
-    "order": null
-  },
-  "0ffbfab": {
-    "speaker": "Beat",
-    "line": "Anyway, to answer the implied question, this guitar is mine.",
-    "order": null
-  },
-  "09ed935": {
-    "speaker": "Beat",
-    "line": "I didn't steal it.",
-    "order": null
-  },
-  "0265e72": {
-    "speaker": "Quaver",
-    "line": "Have you just been walking around like that all this time?",
-    "order": null
-  },
-  "06c09d0": {
-    "speaker": "Beat",
-    "line": "...yes?",
-    "order": null
-  },
-  "08a2af7": {
-    "speaker": "Quaver",
-    "line": "That's.",
-    "order": null
-  },
-  "0068b4e": {
-    "speaker": "Quaver",
-    "line": "Stupid!",
-    "order": null
-  },
-  "0c2fceb": {
-    "speaker": "Quaver",
-    "line": "...sorry. Are you...good?",
-    "order": null
-  },
-  "057f4f4": {
-    "speaker": "Beat",
-    "line": "What, like, as a person?",
-    "order": null
-  },
-  "0dfe5a0": {
-    "speaker": "Quaver",
-    "line": "At guitar.",
-    "order": null
-  },
-  "0154091": {
-    "speaker": "Beat",
-    "line": "Terrible.",
-    "order": null
-  },
-  "06acd89": {
-    "speaker": "Beat",
-    "line": "Also as a person.",
-    "order": null
-  },
-  "0db0c72": {
-    "speaker": "Quaver",
-    "line": "You seem fine to me!",
-    "order": null
-  },
-  "0812cfa": {
-    "speaker": "Quaver",
-    "line": "Other than the whole being-a-crazy-thief thing.",
-    "order": null
-  },
-  "02c9975": {
-    "speaker": "Quaver",
-    "line": "Well, here I am.",
-    "order": null
-  },
-  "004a704": {
-    "speaker": "Quaver",
-    "line": "Welcome home.",
-    "order": null
-  },
-  "0e8d979": {
-    "speaker": "Beat",
-    "line": "This whole thing is your house?",
-    "order": null
-  },
-  "0fa7c5c": {
-    "speaker": "Quaver",
-    "line": "Unfortunately.",
-    "order": null
-  },
-  "0808087": {
-    "speaker": "Quaver",
-    "line": "...ffffrick.",
-    "order": null
-  },
-  "0b00cfb": {
-    "speaker": "Quaver",
-    "line": "Partita locked me out.",
-    "order": null
-  },
-  "03752c1": {
-    "speaker": "Quaver",
-    "line": "...again.",
-    "order": null
-  },
-  "09a296d": {
-    "speaker": "Quaver",
-    "line": "That's a problem for two reasons! The other one being that once we're done waiting...",
-    "order": null
-  },
-  "0fd6f1d": {
-    "speaker": "Quaver",
-    "line": "...she's going to see you.",
-    "order": null
-  },
-  "023c5fd": {
-    "speaker": "Quaver",
-    "line": "Uggggh.",
-    "order": null
-  },
-  "02cb980": {
-    "speaker": "Quaver",
-    "line": "...hmm.",
-    "order": null
-  },
-  "0747efe": {
-    "speaker": "Quaver",
-    "line": "Ugh.",
-    "order": null
-  },
-  "0d4c838": {
-    "speaker": "Quaver",
-    "line": "Agh.",
-    "order": null
-  },
-  "0d4aea9": {
-    "speaker": "Beat",
-    "line": "Ayyo.",
-    "order": null
-  },
-  "0298dff": {
-    "speaker": "Quaver",
-    "line": "Woaah.",
-    "order": null
-  },
-  "02abf1a": {
-    "speaker": "Quaver",
-    "line": "You can really jump.",
-    "order": null
-  },
-  "063716d": {
-    "speaker": "Unknown",
-    "line": "Dude, hopping a fence isn't that impressive.",
-    "order": null
-  },
-  "083a465": {
-    "speaker": "Quaver",
-    "line": "I couldn't do that.",
-    "order": null
-  },
-  "0ac95a0": {
-    "speaker": "Beat",
-    "line": "Yeah, and you're two-thirds of my height.",
-    "order": null
-  },
-  "007c8de": {
-    "speaker": "Beat",
-    "line": "And two-thirds of your height is a bow.",
-    "order": null
-  },
-  "08cfd1f": {
-    "speaker": "Beat",
-    "line": "I don't think that's your fault.",
-    "order": null
-  },
-  "0dc17b7": {
-    "speaker": "Unknown",
-    "line": "I'm actually better at strength than cardio.",
-    "order": null
-  },
-  "0342f91": {
-    "speaker": "Quaver",
-    "line": "I know what those words mean but not the way you used them.",
-    "order": null
-  },
-  "034aa70": {
-    "speaker": "Beat",
-    "line": "Word of advice: start early with that stuff.",
-    "order": null
-  },
-  "0d54f89": {
-    "speaker": "Beat",
-    "line": "You'll thank me later.",
-    "order": null
-  },
-  "03e7935": {
-    "speaker": "Unknown",
-    "line": "You're only saying that because I'm taller than you.",
-    "order": null
-  },
-  "0dffa10": {
-    "speaker": "Quaver",
-    "line": "Don't be mean about it.",
-    "order": null
-  },
-  "089c5e8": {
-    "speaker": "Beat",
-    "line": "Hey, that's not forever!",
-    "order": null
-  },
-  "0089cbc": {
-    "speaker": "Beat",
-    "line": "...I...assume.",
-    "order": null
-  },
-  "0aa3ac9": {
-    "speaker": "Quaver",
-    "line": "Anyway, anyway, anyway we really have to hide this somewhere.",
-    "order": null
-  },
-  "0abae0c": {
-    "speaker": "Quaver",
-    "line": "Like. Now. Come on!",
-    "order": null
-  },
-  "0a95ba8": {
-    "speaker": "Quaver",
-    "line": "What's your cover story?",
-    "order": null
-  },
-  "07dd7bc": {
-    "speaker": "Unknown",
-    "line": "I'm...your...cousin?",
-    "order": null
-  },
-  "028ef54": {
-    "speaker": "Quaver",
-    "line": "Unfortunately everyone knows my family, here.",
-    "order": null
-  },
-  "04843d3": {
-    "speaker": "Beat",
-    "line": "Thus explains the big house.",
-    "order": null
-  },
-  "05d7176": {
-    "speaker": "Quaver",
-    "line": "Sort of.",
-    "order": null
-  },
-  "0920c4f": {
-    "speaker": "Beat",
-    "line": "So that's just not gonna work.",
-    "order": null
-  },
-  "0c0b22c": {
-    "speaker": "Beat",
-    "line": "There's no sides of your family that might be-",
-    "order": null
-  },
-  "0a6026e": {
-    "speaker": "Quaver",
-    "line": "Nnnnope.",
-    "order": null
-  },
-  "005ed3e": {
-    "speaker": "Beat",
-    "line": "Great.",
-    "order": null
-  },
-  "0832cbc": {
-    "speaker": "Unknown",
-    "line": "I'm, uh, your...classmate?",
-    "order": null
-  },
-  "00b36f7": {
-    "speaker": "Quaver",
-    "line": "There are so many problems with that.",
-    "order": null
-  },
-  "0ebb291": {
-    "speaker": "Quaver",
-    "line": "For one, you're twice as old as me.",
-    "order": null
-  },
-  "0400e6f": {
-    "speaker": "Beat",
-    "line": "I could be held back.",
-    "order": null
-  },
-  "0779b04": {
-    "speaker": "Quaver",
-    "line": "Also, I'm homeschooled.",
-    "order": null
-  },
-  "0fd8894": {
-    "speaker": "Unknown",
-    "line": "Sorry about that.",
-    "order": null
-  },
-  "08003d4": {
-    "speaker": "Quaver",
-    "line": "It's fine!",
-    "order": null
-  },
-  "0fcde26": {
-    "speaker": "Quaver",
-    "line": "I'm not doing badly.",
-    "order": null
-  },
-  "05bdc5a": {
-    "speaker": "Quaver",
-    "line": "There is some weird stuff in the textbooks, though.",
-    "order": null
-  },
-  "01e64a5": {
-    "speaker": "Unknown",
-    "line": "Not sorry about that at all.",
-    "order": null
-  },
-  "04c50f6": {
-    "speaker": "Quaver",
-    "line": "Are you jealous?",
-    "order": null
-  },
-  "07b628a": {
-    "speaker": "Quaver",
-    "line": "Because you shouldn't be.",
-    "order": null
-  },
-  "0620338": {
-    "speaker": "Quaver",
-    "line": "It's not that bad, but it's not... great.",
-    "order": null
-  },
-  "05bb038": {
-    "speaker": "Quaver",
-    "line": "My tutor is good, though.",
-    "order": null
-  },
-  "01d750d": {
-    "speaker": "Unknown",
-    "line": "What's the craziest obvious lie they've taught you?",
-    "order": null
-  },
-  "09a0015": {
-    "speaker": "Quaver",
-    "line": "Okay, not all homeschoolers are nutjobs.",
-    "order": null
-  },
-  "0241cc4": {
-    "speaker": "Beat",
-    "line": "Prove it.",
-    "order": null
-  },
-  "0ca4434": {
-    "speaker": "Quaver",
-    "line": "Come on.",
-    "order": null
-  },
-  "09c2723": {
-    "speaker": "Quaver",
-    "line": "I will admit that the tutor keeps having to point out where the book is just. Wrong.",
-    "order": null
-  },
-  "06364b5": {
-    "speaker": "Quaver",
-    "line": "Good textbooks are impossible to get nowadays.",
-    "order": null
-  },
-  "03ceb04": {
-    "speaker": "Beat",
-    "line": "How wrong is it?",
-    "order": null
-  },
-  "0bde207": {
-    "speaker": "Quaver",
-    "line": "Less than you'd think but more than you'd hope.",
-    "order": null
-  },
-  "03051d0": {
-    "speaker": "Unknown",
-    "line": "I'm your new friend from, uh, the town over.",
-    "order": null
-  },
-  "029b9a0": {
-    "speaker": "Quaver",
-    "line": "That doesn't make any sense.",
-    "order": null
-  },
-  "06a55b7": {
-    "speaker": "Quaver",
-    "line": "How would you even get here?",
-    "order": null
-  },
-  "0ba15c5": {
-    "speaker": "Beat",
-    "line": "I, uh, walked?",
-    "order": null
-  },
-  "005cca9": {
-    "speaker": "Quaver",
-    "line": "Through the wall",
-    "order": null
-  },
-  "083a64c": {
-    "speaker": "Quaver",
-    "line": "Also, why am I friends with you?",
-    "order": null
-  },
-  "0bf850a": {
-    "speaker": "Beat",
-    "line": "I'm just a friendly adult.",
-    "order": null
-  },
-  "02f8ba8": {
-    "speaker": "Quaver",
-    "line": "No.",
-    "order": null
-  },
-  "04a0b67": {
-    "speaker": "Beat",
-    "line": "It's not. Weird.",
-    "order": null
-  },
-  "0cf624b": {
-    "speaker": "Beat",
-    "line": "Yeah. Got it. I can see the problem.",
-    "order": null
-  },
-  "0bb4c79": {
-    "speaker": "Unknown",
-    "line": "...do I need a cover story?",
-    "order": null
-  },
-  "0d4c318": {
-    "speaker": "Quaver",
-    "line": "Yes!",
-    "order": null
-  },
-  "09e1357": {
-    "speaker": "Quaver",
-    "line": "What are you going to do if they ask questions?",
-    "order": null
-  },
-  "0c88e4c": {
-    "speaker": "Beat",
-    "line": "Who's they?",
-    "order": null
-  },
-  "0329fc5": {
-    "speaker": "Quaver",
-    "line": "Potentially a lot of people!",
-    "order": null
-  },
-  "0ae2577": {
-    "speaker": "Beat",
-    "line": "I could just...not...talk.",
-    "order": null
-  },
-  "0b51888": {
-    "speaker": "Quaver",
-    "line": "That's not going to work.",
-    "order": null
-  },
-  "0834683": {
-    "speaker": "Beat",
-    "line": "What do I do, then?",
-    "order": null
-  },
-  "0bb09d6": {
-    "speaker": "Quaver",
-    "line": "I guess just stay out of sight if you can. I don't think we have a good option.",
-    "order": null
-  },
-  "085f833": {
-    "speaker": "Quaver",
-    "line": "And don't make a big deal out of it if you do get caught.",
-    "order": null
-  },
-  "00b7a46": {
-    "speaker": "Quaver",
-    "line": "What's your cover story?",
-    "order": null
-  },
-  "03954b2": {
-    "speaker": "Quaver",
-    "line": "Unfortunately everyone knows my family, here.",
-    "order": null
-  },
-  "0c7c81b": {
-    "speaker": "Beat",
-    "line": "Thus explains the big house.",
-    "order": null
-  },
-  "0248b08": {
-    "speaker": "Quaver",
-    "line": "Sort of.",
-    "order": null
-  },
-  "0429db8": {
-    "speaker": "Beat",
-    "line": "So that's just not gonna work.",
-    "order": null
-  },
-  "0c9023a": {
-    "speaker": "Beat",
-    "line": "There's no sides of your family that might be-",
-    "order": null
-  },
-  "0c54ab4": {
-    "speaker": "Quaver",
-    "line": "Nnnnope.",
-    "order": null
-  },
-  "0dae527": {
-    "speaker": "Beat",
-    "line": "Great.",
-    "order": null
-  },
-  "0d5b8b8": {
-    "speaker": "Quaver",
-    "line": "There are so many problems with that.",
-    "order": null
-  },
-  "0bd853f": {
-    "speaker": "Quaver",
-    "line": "For one, you're twice as old as me.",
-    "order": null
-  },
-  "0f7bbeb": {
-    "speaker": "Beat",
-    "line": "I could be held back.",
-    "order": null
-  },
-  "0fc5d87": {
-    "speaker": "Quaver",
-    "line": "Also, I'm homeschooled.",
-    "order": null
-  },
-  "02c50b2": {
-    "speaker": "Quaver",
-    "line": "It's fine!",
-    "order": null
-  },
-  "0d4593d": {
-    "speaker": "Quaver",
-    "line": "I'm not doing badly.",
-    "order": null
-  },
-  "0d8d391": {
-    "speaker": "Quaver",
-    "line": "There is some weird stuff in the textbooks, though.",
-    "order": null
-  },
-  "092a0ed": {
-    "speaker": "Quaver",
-    "line": "Are you jealous?",
-    "order": null
-  },
-  "0a063be": {
-    "speaker": "Quaver",
-    "line": "Because you shouldn't be.",
-    "order": null
-  },
-  "048b1f5": {
-    "speaker": "Quaver",
-    "line": "It's not that bad, but it's not... great.",
-    "order": null
-  },
-  "0fbecbd": {
-    "speaker": "Quaver",
-    "line": "My tutor is good, though.",
-    "order": null
-  },
-  "097a46f": {
-    "speaker": "Quaver",
-    "line": "Okay, not all homeschoolers are nutjobs.",
-    "order": null
-  },
-  "0ee01ab": {
-    "speaker": "Beat",
-    "line": "Prove it.",
-    "order": null
-  },
-  "0ae4c2d": {
-    "speaker": "Quaver",
-    "line": "Come on.",
-    "order": null
-  },
-  "0b9a480": {
-    "speaker": "Quaver",
-    "line": "I will admit that the tutor keeps having to point out where the book is just. Wrong.",
-    "order": null
-  },
-  "002d830": {
-    "speaker": "Quaver",
-    "line": "Good textbooks are impossible to get nowadays.",
-    "order": null
-  },
-  "0aa599c": {
-    "speaker": "Beat",
-    "line": "How wrong is it?",
-    "order": null
-  },
-  "0763637": {
-    "speaker": "Quaver",
-    "line": "Less than you'd think but more than you'd hope.",
-    "order": null
-  },
-  "072bd55": {
-    "speaker": "Quaver",
-    "line": "That doesn't make any sense.",
-    "order": null
-  },
-  "0e3a525": {
-    "speaker": "Quaver",
-    "line": "How would you even get here?",
-    "order": null
-  },
-  "0782c06": {
-    "speaker": "Beat",
-    "line": "I, uh, walked?",
-    "order": null
-  },
-  "011414c": {
-    "speaker": "Quaver",
-    "line": "Through the wall",
-    "order": null
-  },
-  "0f636f6": {
-    "speaker": "Quaver",
-    "line": "Also, why am I friends with you?",
-    "order": null
-  },
-  "082434c": {
-    "speaker": "Beat",
-    "line": "I'm just a friendly adult.",
-    "order": null
-  },
-  "04ef25c": {
-    "speaker": "Quaver",
-    "line": "No.",
-    "order": null
-  },
-  "04c0a4a": {
-    "speaker": "Beat",
-    "line": "It's not. Weird.",
-    "order": null
-  },
-  "0f9ddf1": {
-    "speaker": "Beat",
-    "line": "Yeah. Got it. I can see the problem.",
-    "order": null
-  },
-  "0f2d594": {
-    "speaker": "Quaver",
-    "line": "Yes!",
-    "order": null
-  },
-  "0751a85": {
-    "speaker": "Quaver",
-    "line": "What are you going to do if they ask questions?",
-    "order": null
-  },
-  "0b6698c": {
-    "speaker": "Beat",
-    "line": "Who's they?",
-    "order": null
-  },
-  "0b8bb00": {
-    "speaker": "Quaver",
-    "line": "Potentially a lot of people!",
-    "order": null
-  },
-  "045ed68": {
-    "speaker": "Beat",
-    "line": "I could just...not...talk.",
-    "order": null
-  },
-  "08eb924": {
-    "speaker": "Quaver",
-    "line": "That's not going to work.",
-    "order": null
-  },
-  "0b19ef6": {
-    "speaker": "Beat",
-    "line": "What do I do, then?",
-    "order": null
-  },
-  "0daafd7": {
-    "speaker": "Quaver",
-    "line": "I guess just stay out of sight if you can. I don't think we have a good option.",
-    "order": null
-  },
-  "0584c50": {
-    "speaker": "Quaver",
-    "line": "And don't make a big deal out of it if you do get caught.",
-    "order": null
-  },
-  "0ddc63a": {
-    "speaker": "Quaver",
-    "line": "What's your cover story?",
-    "order": null
-  },
-  "036895c": {
-    "speaker": "Quaver",
-    "line": "Unfortunately everyone knows my family, here.",
-    "order": null
-  },
-  "094518a": {
-    "speaker": "Beat",
-    "line": "Thus explains the big house.",
-    "order": null
-  },
-  "00f5db9": {
-    "speaker": "Quaver",
-    "line": "Sort of.",
-    "order": null
-  },
-  "0c27284": {
-    "speaker": "Beat",
-    "line": "So that's just not gonna work.",
-    "order": null
-  },
-  "0308b8b": {
-    "speaker": "Beat",
-    "line": "There's no sides of your family that might be-",
-    "order": null
-  },
-  "04bc2ba": {
-    "speaker": "Quaver",
-    "line": "Nnnnope.",
-    "order": null
-  },
-  "0b069d9": {
-    "speaker": "Beat",
-    "line": "Great.",
-    "order": null
-  },
-  "01416c5": {
-    "speaker": "Quaver",
-    "line": "There are so many problems with that.",
-    "order": null
-  },
-  "0843181": {
-    "speaker": "Quaver",
-    "line": "For one, you're twice as old as me.",
-    "order": null
-  },
-  "02c17ce": {
-    "speaker": "Beat",
-    "line": "I could be held back.",
-    "order": null
-  },
-  "03619bc": {
-    "speaker": "Quaver",
-    "line": "Also, I'm homeschooled.",
-    "order": null
-  },
-  "089e135": {
-    "speaker": "Quaver",
-    "line": "It's fine!",
-    "order": null
-  },
-  "0a0b03d": {
-    "speaker": "Quaver",
-    "line": "I'm not doing badly.",
-    "order": null
-  },
-  "08c40dc": {
-    "speaker": "Quaver",
-    "line": "There is some weird stuff in the textbooks, though.",
-    "order": null
-  },
-  "04ed404": {
-    "speaker": "Quaver",
-    "line": "Are you jealous?",
-    "order": null
-  },
-  "01fd257": {
-    "speaker": "Quaver",
-    "line": "Because you shouldn't be.",
-    "order": null
-  },
-  "068b8e3": {
-    "speaker": "Quaver",
-    "line": "It's not that bad, but it's not... great.",
-    "order": null
-  },
-  "02289ea": {
-    "speaker": "Quaver",
-    "line": "My tutor is good, though.",
-    "order": null
-  },
-  "0f5912c": {
-    "speaker": "Quaver",
-    "line": "Okay, not all homeschoolers are nutjobs.",
-    "order": null
-  },
-  "073b718": {
-    "speaker": "Beat",
-    "line": "Prove it.",
-    "order": null
-  },
-  "0741f0b": {
-    "speaker": "Quaver",
-    "line": "Come on.",
-    "order": null
-  },
-  "0f8baa5": {
-    "speaker": "Quaver",
-    "line": "I will admit that the tutor keeps having to point out where the book is just. Wrong.",
-    "order": null
-  },
-  "09b865f": {
-    "speaker": "Quaver",
-    "line": "Good textbooks are impossible to get nowadays.",
-    "order": null
-  },
-  "0cd028e": {
-    "speaker": "Beat",
-    "line": "How wrong is it?",
-    "order": null
-  },
-  "0be05d3": {
-    "speaker": "Quaver",
-    "line": "Less than you'd think but more than you'd hope.",
-    "order": null
-  },
-  "0b563b4": {
-    "speaker": "Quaver",
-    "line": "That doesn't make any sense.",
-    "order": null
-  },
-  "05eea4c": {
-    "speaker": "Quaver",
-    "line": "How would you even get here?",
-    "order": null
-  },
-  "01870bc": {
-    "speaker": "Beat",
-    "line": "I, uh, walked?",
-    "order": null
-  },
-  "0521fa0": {
-    "speaker": "Quaver",
-    "line": "Through the wall",
-    "order": null
-  },
-  "01868ff": {
-    "speaker": "Quaver",
-    "line": "Also, why am I friends with you?",
-    "order": null
-  },
-  "0b7b8bf": {
-    "speaker": "Beat",
-    "line": "I'm just a friendly adult.",
-    "order": null
-  },
-  "0f70257": {
-    "speaker": "Quaver",
-    "line": "No.",
-    "order": null
-  },
-  "0338f40": {
-    "speaker": "Beat",
-    "line": "It's not. Weird.",
-    "order": null
-  },
-  "0426bba": {
-    "speaker": "Beat",
-    "line": "Yeah. Got it. I can see the problem.",
-    "order": null
-  },
-  "0a252c6": {
-    "speaker": "Quaver",
-    "line": "Yes!",
-    "order": null
-  },
-  "034897f": {
-    "speaker": "Quaver",
-    "line": "What are you going to do if they ask questions?",
-    "order": null
-  },
-  "019d59a": {
-    "speaker": "Beat",
-    "line": "Who's they?",
-    "order": null
-  },
-  "0589f68": {
-    "speaker": "Quaver",
-    "line": "Potentially a lot of people!",
-    "order": null
-  },
-  "05f8906": {
-    "speaker": "Beat",
-    "line": "I could just...not...talk.",
-    "order": null
-  },
-  "050cea2": {
-    "speaker": "Quaver",
-    "line": "That's not going to work.",
-    "order": null
-  },
-  "0b79c12": {
-    "speaker": "Beat",
-    "line": "What do I do, then?",
-    "order": null
-  },
-  "02876a5": {
-    "speaker": "Quaver",
-    "line": "I guess just stay out of sight if you can. I don't think we have a good option.",
-    "order": null
-  },
-  "0d761cb": {
-    "speaker": "Quaver",
-    "line": "And don't make a big deal out of it if you do get caught.",
-    "order": null
-  },
-  "09ba6a1": {
-    "speaker": "Quaver",
-    "line": "What's your cover story?",
-    "order": null
-  },
-  "037d0e5": {
-    "speaker": "Quaver",
-    "line": "Unfortunately everyone knows my family, here.",
-    "order": null
-  },
-  "0b03c5b": {
-    "speaker": "Beat",
-    "line": "Thus explains the big house.",
-    "order": null
-  },
-  "0e3674b": {
-    "speaker": "Quaver",
-    "line": "Sort of.",
-    "order": null
-  },
-  "08cc216": {
-    "speaker": "Beat",
-    "line": "So that's just not gonna work.",
-    "order": null
-  },
-  "0b23564": {
-    "speaker": "Beat",
-    "line": "There's no sides of your family that might be-",
-    "order": null
-  },
-  "0cecdcc": {
-    "speaker": "Quaver",
-    "line": "Nnnnope.",
-    "order": null
-  },
-  "0cd2d81": {
-    "speaker": "Beat",
-    "line": "Great.",
-    "order": null
-  },
-  "0fff64f": {
-    "speaker": "Quaver",
-    "line": "There are so many problems with that.",
-    "order": null
-  },
-  "0717836": {
-    "speaker": "Quaver",
-    "line": "For one, you're twice as old as me.",
-    "order": null
-  },
-  "0e8f77e": {
-    "speaker": "Beat",
-    "line": "I could be held back.",
-    "order": null
-  },
-  "0953e85": {
-    "speaker": "Quaver",
-    "line": "Also, I'm homeschooled.",
-    "order": null
-  },
-  "085819e": {
-    "speaker": "Quaver",
-    "line": "It's fine!",
-    "order": null
-  },
-  "08f7aac": {
-    "speaker": "Quaver",
-    "line": "I'm not doing badly.",
-    "order": null
-  },
-  "0264d28": {
-    "speaker": "Quaver",
-    "line": "There is some weird stuff in the textbooks, though.",
-    "order": null
-  },
-  "0954558": {
-    "speaker": "Quaver",
-    "line": "Are you jealous?",
-    "order": null
-  },
-  "0c107ad": {
-    "speaker": "Quaver",
-    "line": "Because you shouldn't be.",
-    "order": null
-  },
-  "059e17e": {
-    "speaker": "Quaver",
-    "line": "It's not that bad, but it's not... great.",
-    "order": null
-  },
-  "01b7fa3": {
-    "speaker": "Quaver",
-    "line": "My tutor is good, though.",
-    "order": null
-  },
-  "04ab7bc": {
-    "speaker": "Quaver",
-    "line": "Okay, not all homeschoolers are nutjobs.",
-    "order": null
-  },
-  "015667b": {
-    "speaker": "Beat",
-    "line": "Prove it.",
-    "order": null
-  },
-  "0958f2e": {
-    "speaker": "Quaver",
-    "line": "Come on.",
-    "order": null
-  },
-  "08a7f94": {
-    "speaker": "Quaver",
-    "line": "I will admit that the tutor keeps having to point out where the book is just. Wrong.",
-    "order": null
-  },
-  "0416f67": {
-    "speaker": "Quaver",
-    "line": "Good textbooks are impossible to get nowadays.",
-    "order": null
-  },
-  "0cc65a4": {
-    "speaker": "Beat",
-    "line": "How wrong is it?",
-    "order": null
-  },
-  "0a36365": {
-    "speaker": "Quaver",
-    "line": "Less than you'd think but more than you'd hope.",
-    "order": null
-  },
-  "01977c2": {
-    "speaker": "Quaver",
-    "line": "That doesn't make any sense.",
-    "order": null
-  },
-  "018f861": {
-    "speaker": "Quaver",
-    "line": "How would you even get here?",
-    "order": null
-  },
-  "05b5bb6": {
-    "speaker": "Beat",
-    "line": "I, uh, walked?",
-    "order": null
-  },
-  "0e53bc7": {
-    "speaker": "Quaver",
-    "line": "Through the wall",
-    "order": null
-  },
-  "091817f": {
-    "speaker": "Quaver",
-    "line": "Also, why am I friends with you?",
-    "order": null
-  },
-  "0e01b50": {
-    "speaker": "Beat",
-    "line": "I'm just a friendly adult.",
-    "order": null
-  },
-  "05f046f": {
-    "speaker": "Quaver",
-    "line": "No.",
-    "order": null
-  },
-  "09d9084": {
-    "speaker": "Beat",
-    "line": "It's not. Weird.",
-    "order": null
-  },
-  "04ca818": {
-    "speaker": "Beat",
-    "line": "Yeah. Got it. I can see the problem.",
-    "order": null
-  },
-  "05f92b6": {
-    "speaker": "Quaver",
-    "line": "Yes!",
-    "order": null
-  },
-  "0df566c": {
-    "speaker": "Quaver",
-    "line": "What are you going to do if they ask questions?",
-    "order": null
-  },
-  "0cea494": {
-    "speaker": "Beat",
-    "line": "Who's they?",
-    "order": null
-  },
-  "093381f": {
-    "speaker": "Quaver",
-    "line": "Potentially a lot of people!",
-    "order": null
-  },
-  "0608f11": {
-    "speaker": "Beat",
-    "line": "I could just...not...talk.",
-    "order": null
-  },
-  "0ee72ae": {
-    "speaker": "Quaver",
-    "line": "That's not going to work.",
-    "order": null
-  },
-  "00309fc": {
-    "speaker": "Beat",
-    "line": "What do I do, then?",
-    "order": null
-  },
-  "04ec02d": {
-    "speaker": "Quaver",
-    "line": "I guess just stay out of sight if you can. I don't think we have a good option.",
-    "order": null
-  },
-  "0156272": {
-    "speaker": "Quaver",
-    "line": "And don't make a big deal out of it if you do get caught.",
-    "order": null
-  },
-  "010af55": {
-    "speaker": "Quaver",
-    "line": "I need you to distract the guard.",
-    "order": null
-  },
-  "069b070": {
-    "speaker": "Beat",
-    "line": "H...how should-",
-    "order": null
-  },
-  "03d25d8": {
-    "speaker": "Quaver",
-    "line": "Just...talk at him.",
-    "order": null
-  },
-  "0a98524": {
-    "speaker": "Beat",
-    "line": "That'll work?",
-    "order": null
-  },
-  "07ea9bc": {
-    "speaker": "Quaver",
-    "line": "You're definitely distracting enough.",
-    "order": null
-  },
-  "08535cb": {
-    "speaker": "Beat",
-    "line": "I...I don't know how to take that.",
-    "order": null
-  },
-  "0c92823": {
-    "speaker": "Beat",
-    "line": "Oh I'm going to end up in jail tonight.",
-    "order": null
-  },
-  "04f19f0": {
-    "speaker": "Beat",
-    "line": "...Hiiiiiiii, again.",
-    "order": null
-  },
-  "09c6c17": {
-    "speaker": "Crest",
-    "line": "Oh! It's the new, uh, maid.",
-    "order": null
-  },
-  "0e4b432": {
-    "speaker": "Crest",
-    "line": "Uh, how are you doing?",
-    "order": null
-  },
-  "09f3f21": {
-    "speaker": "Beat",
-    "line": "I'm just. Great.",
-    "order": null
-  },
-  "085017b": {
-    "speaker": "Quaver",
-    "line": "Hello, there! Sorry to keep you waiting.",
-    "order": null
-  },
-  "01c895b": {
-    "speaker": "Crest",
-    "line": "Quaver, for the love of god, you can't leave without an adult.",
-    "order": null
-  },
-  "064cc39": {
-    "speaker": "Crest",
-    "line": "We've been over this a hundred times.",
-    "order": null
-  },
-  "036f274": {
-    "speaker": "Quaver",
-    "line": "She's my adult.",
-    "order": null
-  },
-  "0efba95": {
-    "speaker": "Crest",
-    "line": "I...I'm really sorry about her, ma'am...she's...",
-    "order": null
-  },
-  "045b5c2": {
-    "speaker": "Crest",
-    "line": "I mean, y'know, she's at that age.",
-    "order": null
-  },
-  "0a8e77d": {
-    "speaker": "Quaver",
-    "line": "I don't know what that means.",
-    "order": null
-  },
-  "0830d4a": {
-    "speaker": "Crest",
-    "line": "Look, are you even allowed to go out?",
-    "order": null
-  },
-  "0f2b72a": {
-    "speaker": "Crest",
-    "line": "There's a curfew, you know, a-a-aand-",
-    "order": null
-  },
-  "0d0cbde": {
-    "speaker": "Quaver",
-    "line": "We'll be back before sunset!",
-    "order": null
-  },
-  "0fb6ed2": {
-    "speaker": "Crest",
-    "line": "Buh. I mean, uh, that's- it's...",
-    "order": null
-  },
-  "0dbd9d4": {
-    "speaker": "Crest",
-    "line": "I don't mean this in any way.",
-    "order": null
-  },
-  "005c9d4": {
-    "speaker": "Crest",
-    "line": "You're probably a responsible type?",
-    "order": null
-  },
-  "0acc273": {
-    "speaker": "Crest",
-    "line": "But you look kind of...young?",
-    "order": null
-  },
-  "0a6927e": {
-    "speaker": "Crest",
-    "line": "Is that...am I being rude...to say that.",
-    "order": null
-  },
-  "0bdbaa8": {
-    "speaker": "Beat",
-    "line": "Dude, I think I'm older than you. Come on.",
-    "order": null
-  },
-  "006e45a": {
-    "speaker": "Quaver",
-    "line": "She's totally responsible!",
-    "order": null
-  },
-  "0be07ab": {
-    "speaker": "Crest",
-    "line": "I'm not really good with kids.",
-    "order": null
-  },
-  "01619cc": {
-    "speaker": "Crest",
-    "line": "Sorry.",
-    "order": null
-  },
-  "0f7cc14": {
-    "speaker": "Crest",
-    "line": "Look, this is probably okay.",
-    "order": null
-  },
-  "034a236": {
-    "speaker": "Crest",
-    "line": "Let's just get this over with.",
-    "order": null
-  },
-  "01fcf6d": {
-    "speaker": "Beat",
-    "line": "Uh...",
-    "order": null
-  },
-  "0683a55": {
-    "speaker": "Crest",
-    "line": "...where's this trip taking you?",
-    "order": null
-  },
-  "0f1e263": {
-    "speaker": "Quaver",
-    "line": "The... library!",
-    "order": null
-  },
-  "00bd063": {
-    "speaker": "Beat",
-    "line": "What? That's what we're doing?",
-    "order": null
-  },
-  "0652e30": {
-    "speaker": "Quaver",
-    "line": "Yes. That's what we're doing.",
-    "order": null
-  },
-  "0334c5f": {
-    "speaker": "Quaver",
-    "line": "Besides, there's a book I don't have at home that I really need for school.",
-    "order": null
-  },
-  "0d6e354": {
-    "speaker": "Quaver",
-    "line": "So I am going to the library. Downtown.",
-    "order": null
-  },
-  "024d343": {
-    "speaker": "Quaver",
-    "line": "Which is where books are. To get the book.",
-    "order": null
-  },
-  "05bdaff": {
-    "speaker": "Beat",
-    "line": "So I'm a chaperone on a study trip.",
-    "order": null
-  },
-  "0d49340": {
-    "speaker": "Crest",
-    "line": "I...Really, I'm sorry she's roped you into doing this.",
-    "order": null
-  },
-  "06b7bca": {
-    "speaker": "Crest",
-    "line": "It's nice of you.",
-    "order": null
-  },
-  "00ec888": {
-    "speaker": "Quaver",
-    "line": "No rope. She offered!",
-    "order": null
-  },
-  "081b186": {
-    "speaker": "Crest",
-    "line": "Sure she did. Um. Here's your wristband, newbie.",
-    "order": null
-  },
-  "052fcf1": {
-    "speaker": "Guard",
-    "line": "Ahhh.Have a safe trip.",
-    "order": null
-  },
-  "0810b8b": {
-    "speaker": "DC",
-    "line": "Sitrep now.",
-    "order": null
-  },
-  "09db456": {
-    "speaker": "Crest",
-    "line": "Oh, man, if anything ever needed a sitrep, I-",
-    "order": null
-  },
-  "0730bd1": {
-    "speaker": "DC",
-    "line": "Sit. Rep.",
-    "order": null
-  },
-  "0b9ee9a": {
-    "speaker": "Crest",
-    "line": "I don't even know where to start. Um. How do I even talk about it.",
-    "order": null
-  },
-  "0db3c48": {
-    "speaker": "Crest",
-    "line": "Interviewing the field agents tells me this is a kidnapping.",
-    "order": null
-  },
-  "0aba1e3": {
-    "speaker": "DC",
-    "line": "You weren't there yourself?",
-    "order": null
-  },
-  "0a9d183": {
-    "speaker": "Crest",
-    "line": "Uh, I got on site a bit after?",
-    "order": null
-  },
-  "00bdffa": {
-    "speaker": "Crest",
-    "line": "Several shots fired beforehand, difficult to say if the suspects had weapons or if it was from our side because of all the chaos, um-",
-    "order": null
-  },
-  "0d4b318": {
-    "speaker": "DC",
-    "line": "Casualties?",
-    "order": null
-  },
-  "0123e58": {
-    "speaker": "Crest",
-    "line": "Tons of injuries, can't give a number yet, no deaths that we know of as yet.",
-    "order": null
-  },
-  "049e7c5": {
-    "speaker": "Crest",
-    "line": "Also plenty of equipment, uh, as of. Yet. If you count that-",
-    "order": null
-  },
-  "03ad4dd": {
-    "speaker": "DC",
-    "line": "You don't.",
-    "order": null
-  },
-  "023ddd4": {
-    "speaker": "Crest",
-    "line": "I mean, um, it's in the report.",
-    "order": null
-  },
-  "0e76e7e": {
-    "speaker": "Rest",
-    "line": "I don't care about exactly what happened.",
-    "order": null
-  },
-  "07b4f04": {
-    "speaker": "Rest",
-    "line": "I just want to know how.",
-    "order": null
-  },
-  "003ad4b": {
-    "speaker": "Rest",
-    "line": "Can you please explain that to me?",
-    "order": null
-  },
-  "0603ede": {
-    "speaker": "Crest",
-    "line": "...it happened fast. What \"it\" is we don't really have a clear answer on, at least as far as what set it all off.",
-    "order": null
-  },
-  "0c997cb": {
-    "speaker": "Rest",
-    "line": "Mm. And you don't have that answer because you weren't even on site when it started.",
-    "order": null
-  },
-  "0591925": {
-    "speaker": "Crest",
-    "line": "Uh, I mean, the second I got there, it was-",
-    "order": null
-  },
-  "05a0c6a": {
-    "speaker": "Rest",
-    "line": "We have, I am led to believe, history's most advanced threat monitoring system.",
-    "order": null
-  },
-  "0f45a21": {
-    "speaker": "Rest",
-    "line": "And the site where it all started is, again, I am led to believe, supposedly one of our most secure.",
-    "order": null
-  },
-  "0ebcbe5": {
-    "speaker": "Rest",
-    "line": "And yet one officer was on site at the time...",
-    "order": null
-  },
-  "00dbca1": {
-    "speaker": "Rest",
-    "line": "...and it was someone whose salary wouldn't even pay for your shoes.",
-    "order": null
-  },
-  "0f0bf6a": {
-    "speaker": "Crest",
-    "line": "You...you...if-",
-    "order": null
-  },
-  "05e3179": {
-    "speaker": "Rest",
-    "line": "DC, you're with me.",
-    "order": null
-  },
-  "0e38a70": {
-    "speaker": "Rest",
-    "line": "...nobody else inside.",
-    "order": null
-  },
-  "0765c6c": {
-    "speaker": "Rest",
-    "line": "What's your read?",
-    "order": null
-  },
-  "01ab581": {
-    "speaker": "DC",
-    "line": "Impossible to have one this early. And that's even assuming any of Crest's report is accurate.",
-    "order": null
-  },
-  "04f8e3f": {
-    "speaker": "Rest",
-    "line": "You have doubts?",
-    "order": null
-  },
-  "0d1dd6a": {
-    "speaker": "DC",
-    "line": "Not about him. He's doing better than you're giving him credit for.",
-    "order": null
-  },
-  "0d4ca8d": {
-    "speaker": "DC",
-    "line": "It's the people under him. Frankly, they're afraid of you and it's coloring things.",
-    "order": null
-  },
-  "01644f3": {
-    "speaker": "Rest",
-    "line": "And you don't think Crest is afraid?",
-    "order": null
-  },
-  "02f93a4": {
-    "speaker": "DC",
-    "line": "Only of the situation. And, maybe, of doing a bad job.",
-    "order": null
-  },
-  "0da3a5e": {
-    "speaker": "Beat",
-    "line": "So what are we actually-",
-    "order": null
-  },
-  "0a26dce": {
-    "speaker": "Quaver",
-    "line": "What kind of guitar is this, anyway?",
-    "order": null
-  },
-  "08f7097": {
-    "speaker": "Beat",
-    "line": "What?",
-    "order": null
-  },
-  "05c2028": {
-    "speaker": "Quaver",
-    "line": "It doesn't look like-",
-    "order": null
-  },
-  "0eb3b41": {
-    "speaker": "Beat",
-    "line": "Don't take it out of the case without..come on..",
-    "order": null
-  },
-  "040788a": {
-    "speaker": "Quaver",
-    "line": "I'm being careful.",
-    "order": null
-  },
-  "0965af7": {
-    "speaker": "Beat",
-    "line": "You better be.",
-    "order": null
-  },
-  "0c9e741": {
-    "speaker": "Quaver",
-    "line": "I really haven't seen one like that before.",
-    "order": null
-  },
-  "04c9321": {
-    "speaker": "Beat",
-    "line": "Come on, you absolutely have. Everyone has.",
-    "order": null
-  },
-  "0c8acf6": {
-    "speaker": "Quaver",
-    "line": "I haven't! I promise!",
-    "order": null
-  },
-  "06932fb": {
-    "speaker": "Beat",
-    "line": "It's a Les Paul Standard.",
-    "order": null
-  },
-  "0c1f395": {
-    "speaker": "Beat",
-    "line": "That's like, debatably the guitar.",
-    "order": null
-  },
-  "0fc64bc": {
-    "speaker": "Beat",
-    "line": "Well, that or a Telecaster.",
-    "order": null
-  },
-  "0ea9162": {
-    "speaker": "Beat",
-    "line": "Or a Strat, if you're five.",
-    "order": null
-  },
-  "0ec7d51": {
-    "speaker": "Quaver",
-    "line": "I've never heard of any of these.",
-    "order": null
-  },
-  "0dca863": {
-    "speaker": "Beat",
-    "line": "And you are five. So that tracks.",
-    "order": null
-  },
-  "09d8787": {
-    "speaker": "Quaver",
-    "line": "I'm obviously not five!",
-    "order": null
-  },
-  "0c5fd6c": {
-    "speaker": "Beat",
-    "line": "Weird. Do you get up to this kind of thing often?",
-    "order": null
-  },
-  "00db3f1": {
-    "speaker": "Quaver",
-    "line": "I think about it a lot.",
-    "order": null
-  },
-  "041cf05": {
-    "speaker": "Beat",
-    "line": "It's astonishing how little I know what's going on right now.",
-    "order": null
-  },
-  "0a1b261": {
-    "speaker": "Quaver",
-    "line": "Don't worry about it.",
-    "order": null
-  },
-  "09f83fe": {
-    "speaker": "Beat",
-    "line": "Does that phrase ever work?",
-    "order": null
-  },
-  "0f18ecd": {
-    "speaker": "Beat",
-    "line": "Have you ever worried less when someone asked you to?",
-    "order": null
-  },
-  "0f3027e": {
-    "speaker": "Quaver",
-    "line": "...huh. No, I really haven't.",
-    "order": null
-  },
-  "0747313": {
-    "speaker": "Quaver",
-    "line": "Look. I haven't lied to you, but I haven't been...",
-    "order": null
-  },
-  "032ab42": {
-    "speaker": "Quaver",
-    "line": "...I am going to help you out.",
-    "order": null
-  },
-  "092fdb8": {
-    "speaker": "Beat",
-    "line": "I still don't really know what you're helping me out with.",
-    "order": null
-  },
-  "0b668ef": {
-    "speaker": "Quaver",
-    "line": "And me helping you out is gonna help me out...",
-    "order": null
-  },
-  "0bd9084": {
-    "speaker": "Quaver",
-    "line": "Is that okay?",
-    "order": null
-  },
-  "0b5b1ed": {
-    "speaker": "Beat",
-    "line": "That's... fine.",
-    "order": null
-  },
-  "06b614f": {
-    "speaker": "Quaver",
-    "line": "Give me a second to grab something.",
-    "order": null
-  },
-  "046c1e6": {
-    "speaker": "Quaver",
-    "line": "Uh... don't break anything, please.",
-    "order": null
-  },
-  "002570e": {
-    "speaker": "Beat",
-    "line": "Do I look like someone who would?",
-    "order": null
-  },
-  "029f082": {
-    "speaker": "Quaver",
-    "line": "I think... that's not really a thing you can look like.",
-    "order": null
-  },
-  "052fcb9": {
-    "speaker": "Beat",
-    "line": "Oh, it definitely is.",
-    "order": null
-  },
-  "0c95ba8": {
-    "speaker": "Crest",
-    "line": "Oh, hello!",
-    "order": null
-  },
-  "054a337": {
-    "speaker": "Crest",
-    "line": "Are you a new hire?",
-    "order": null
-  },
-  "02f236c": {
-    "speaker": "Beat",
-    "line": "Uh...",
-    "order": null
-  },
-  "0afcbdd": {
-    "speaker": "Crest",
-    "line": "Which branch of HAR-",
-    "order": null
-  },
-  "03b3fb1": {
-    "speaker": "Crest",
-    "line": "...on second thought, you don't really look the type.",
-    "order": null
-  },
-  "0199692": {
-    "speaker": "Crest",
-    "line": "Sorry. I actually don't know if it's offensive to ask if you're a maid",
-    "order": null
-  },
-  "0b267f1": {
-    "speaker": "Crest",
-    "line": "Is that offensive?",
-    "order": null
-  },
-  "0f2e238": {
-    "speaker": "Unknown",
-    "line": "No?",
-    "order": null
-  },
-  "07a96b1": {
-    "speaker": "Crest",
-    "line": "You're sure?",
-    "order": null
-  },
-  "09103a0": {
-    "speaker": "Beat",
-    "line": "Yeah, we're cool, dude.",
-    "order": null
-  },
-  "0a65d9c": {
-    "speaker": "Crest",
-    "line": "You're sure.",
-    "order": null
-  },
-  "0c86792": {
-    "speaker": "Crest",
-    "line": "I'm not making you uncomfortable in any way?",
-    "order": null
-  },
-  "0d85d4d": {
-    "speaker": "Beat",
-    "line": "I mean, you will be if you keep this up.",
-    "order": null
-  },
-  "04be03b": {
-    "speaker": "Crest",
-    "line": "I can back off!",
-    "order": null
-  },
-  "0c0b0cd": {
-    "speaker": "Crest",
-    "line": "I'll take the win.",
-    "order": null
-  },
-  "0a42245": {
-    "speaker": "Beat",
-    "line": "The win?",
-    "order": null
-  },
-  "08755f8": {
-    "speaker": "Crest",
-    "line": "This is the best I've done so far.",
-    "order": null
-  },
-  "0fea577": {
-    "speaker": "Beat",
-    "line": "At...talking?",
-    "order": null
-  },
-  "0595550": {
-    "speaker": "Crest",
-    "line": "Anyway, uh, I have to go. Nice talking with you, uh...",
-    "order": null
-  },
-  "0cef81f": {
-    "speaker": "Crest",
-    "line": "I didn't get your name.",
-    "order": null
-  },
-  "0fa728f": {
-    "speaker": "Beat",
-    "line": "You didn't!.",
-    "order": null
-  },
-  "053aaa0": {
-    "speaker": "Crest",
-    "line": "Right.",
-    "order": null
-  },
-  "0877774": {
-    "speaker": "Crest",
-    "line": "Uh. Good luck!",
-    "order": null
-  },
-  "0babba7": {
-    "speaker": "Unknown",
-    "line": "Yes.",
-    "order": null
-  },
-  "0c483ed": {
-    "speaker": "Crest",
-    "line": "I knew it.",
-    "order": null
-  },
-  "0826cb4": {
-    "speaker": "Crest",
-    "line": "Dammit.",
-    "order": null
-  },
-  "0348bbd": {
-    "speaker": "Crest",
-    "line": "I'm trying, you know!",
-    "order": null
-  },
-  "0524a9b": {
-    "speaker": "Crest",
-    "line": "I really am.",
-    "order": null
-  },
-  "065005d": {
-    "speaker": "Crest",
-    "line": "I'm just gonna.",
-    "order": null
-  },
-  "0fa234e": {
-    "speaker": "Crest",
-    "line": "Go.",
-    "order": null
-  },
-  "0873ee9": {
-    "speaker": "Unknown",
-    "line": "...a maid?",
-    "order": null
-  },
-  "0f4dbd9": {
-    "speaker": "Crest",
-    "line": "You're not...uh, I didn't mean to...",
-    "order": null
-  },
-  "0fdc54c": {
-    "speaker": "Beat",
-    "line": "I didn't say that.",
-    "order": null
-  },
-  "03a61ab": {
-    "speaker": "Beat",
-    "line": "I am. I am that. I am a maid.",
-    "order": null
-  },
-  "0376c35": {
-    "speaker": "Crest",
-    "line": "Oh, sometimes I wish I could be like you guys.",
-    "order": null
-  },
-  "025a262": {
-    "speaker": "Crest",
-    "line": "...oh, wait, is that sexist to say?",
-    "order": null
-  },
-  "08c4d04": {
-    "speaker": "Beat",
-    "line": "Is it sexist for you to be a maid?",
-    "order": null
-  },
-  "0a83496": {
-    "speaker": "Crest",
-    "line": "I-I-I-I didn't say that I...wanted to be a maid.",
-    "order": null
-  },
-  "094bf6b": {
-    "speaker": "Beat",
-    "line": "Do you like cleaning things?",
-    "order": null
-  },
-  "0204c3c": {
-    "speaker": "Crest",
-    "line": "Well, that's why I'm a cop!",
-    "order": null
-  },
-  "0df2f00": {
-    "speaker": "Beat",
-    "line": "That feels like a very misplaced sense of drive.",
-    "order": null
-  },
-  "0011de5": {
-    "speaker": "Crest",
-    "line": "No, no, uh, no, it's the same. ah...I'm cleaning up the streets.",
-    "order": null
-  },
-  "034c8a9": {
-    "speaker": "Beat",
-    "line": "Wow. Extremely, uh, cool. Very cool.",
-    "order": null
-  },
-  "0364518": {
-    "speaker": "Crest",
-    "line": "You really think so?",
-    "order": null
-  },
-  "0b4492e": {
-    "speaker": "Crest",
-    "line": "That's...very nice.",
-    "order": null
-  },
-  "0dcc064": {
-    "speaker": "Crest",
-    "line": "Oh, geez. I...I'm running late now.",
-    "order": null
-  },
-  "082eead": {
-    "speaker": "Crest",
-    "line": "Sorry. Gotta go!",
-    "order": null
-  },
-  "0c1592a": {
-    "speaker": "Unknown",
-    "line": "...what type do I seem like?",
-    "order": null
-  },
-  "01fd86c": {
-    "speaker": "Crest",
-    "line": "That's not fair!",
-    "order": null
-  },
-  "0957ca3": {
-    "speaker": "Crest",
-    "line": "You're trapping me.",
-    "order": null
-  },
-  "0e40b57": {
-    "speaker": "Crest",
-    "line": "You seem like a normal type.",
-    "order": null
-  },
-  "0481c6e": {
-    "speaker": "Crest",
-    "line": "I'm making this weirder, aren't I.",
-    "order": null
-  },
-  "0a901be": {
-    "speaker": "Beat",
-    "line": "Yes.",
-    "order": null
-  },
-  "05af863": {
-    "speaker": "Crest",
-    "line": "I'm gonna go.",
-    "order": null
-  },
-  "07467c4": {
-    "speaker": "Crest",
-    "line": "I think...maybe...it is.",
-    "order": null
-  },
-  "0eb47f0": {
-    "speaker": "Crest",
-    "line": "Ah, nuts, I screwed up, didn't I.",
-    "order": null
-  },
-  "0e50ad5": {
-    "speaker": "Crest",
-    "line": "Sorry. Well, good luck. First days are always awful.",
-    "order": null
-  },
-  "0601d56": {
-    "speaker": "Crest",
-    "line": "...oh! I mean, not yours! Yours will be great.",
-    "order": null
-  },
-  "08de1db": {
-    "speaker": "Crest",
-    "line": "I promise.",
-    "order": null
-  },
-  "0807363": {
-    "speaker": "Crest",
-    "line": "My first day was pretty bad, though.",
-    "order": null
-  },
-  "009c4b7": {
-    "speaker": "Crest",
-    "line": "But I think the maids...",
-    "order": null
-  },
-  "0b181c3": {
-    "speaker": "Crest",
-    "line": "I'm assuming again.",
-    "order": null
-  },
-  "0caa245": {
-    "speaker": "Crest",
-    "line": "Well, whatever your job is. What's your name?",
-    "order": null
-  },
-  "0147405": {
-    "speaker": "Crest",
-    "line": "The silent treatment.",
-    "order": null
-  },
-  "09b0e6b": {
-    "speaker": "Crest",
-    "line": "I probably deserve that.",
-    "order": null
-  },
-  "017d540": {
-    "speaker": "Crest",
-    "line": "I have to go do my rounds. Please don't let me ruin your day!",
-    "order": null
-  },
-  "0df2162": {
-    "speaker": "Beat",
-    "line": "What... the... hell.",
-    "order": null
-  },
-  "0390913": {
-    "speaker": "Quaver",
-    "line": "Hey... what are you doing?",
-    "order": null
-  },
-  "0efc91f": {
-    "speaker": "Beat",
-    "line": "I, uh, sorry. I was...looking for the bathroom.",
-    "order": null
-  },
-  "0f954aa": {
-    "speaker": "Quaver",
-    "line": "Oh, I can give you cover if you need to go-",
-    "order": null
-  },
-  "01ee1f6": {
-    "speaker": "Beat",
-    "line": "...I don't...",
-    "order": null
-  },
-  "051325b": {
-    "speaker": "Beat",
-    "line": "...nevermind. I was lying. I got distracted.",
-    "order": null
-  },
-  "0067279": {
-    "speaker": "Quaver",
-    "line": "Why are you here?",
-    "order": null
-  },
-  "0e7c389": {
-    "speaker": "Beat",
-    "line": "I went exploring! Nice room, by the way.",
-    "order": null
-  },
-  "0ff7e06": {
-    "speaker": "Quaver",
-    "line": "Why would you go exploring?",
-    "order": null
-  },
-  "0733292": {
-    "speaker": "Beat",
-    "line": "I mean.",
-    "order": null
-  },
-  "069e60c": {
-    "speaker": "Quaver",
-    "line": "Thanks for waiting. Sorry I took so long.",
-    "order": null
-  },
-  "032722e": {
-    "speaker": "Beat",
-    "line": "You took a bit.",
-    "order": null
-  },
-  "0cf83ba": {
-    "speaker": "Quaver",
-    "line": "Uh.... Sorry. I forgot the code.",
-    "order": null
-  },
-  "01617f7": {
-    "speaker": "Beat",
-    "line": "So, uh. You had a cop in your house.",
-    "order": null
-  },
-  "03f227a": {
-    "speaker": "Quaver",
-    "line": "Oh, was Crest here?",
-    "order": null
-  },
-  "04bda1a": {
-    "speaker": "Beat",
-    "line": "You're friends with that guy?",
-    "order": null
-  },
-  "0a2cce9": {
-    "speaker": "Quaver",
-    "line": "Friendly. If it was him.",
-    "order": null
-  },
-  "0e1d782": {
-    "speaker": "Beat",
-    "line": "It could be another cop?",
-    "order": null
-  },
-  "0c1bb2d": {
-    "speaker": "Quaver",
-    "line": "Could be.",
-    "order": null
-  },
-  "058769f": {
-    "speaker": "Beat",
-    "line": "Is this the twilight zone?",
-    "order": null
-  },
-  "017e540": {
-    "speaker": "Quaver",
-    "line": "Describe him.",
-    "order": null
-  },
-  "0bceca6": {
-    "speaker": "Beat",
-    "line": "He kind of puffs himself out like a cornered cat.",
-    "order": null
-  },
-  "0dbec6e": {
-    "speaker": "Quaver",
-    "line": "That's mean. But it sounds right.",
-    "order": null
-  },
-  "03b4167": {
-    "speaker": "Beat",
-    "line": "He looks like the kind of guy who's never been slapped.",
-    "order": null
-  },
-  "07f11a9": {
-    "speaker": "Quaver",
-    "line": "That's Crest. Absolutely.",
-    "order": null
-  },
-  "0733c0a": {
-    "speaker": "Beat",
-    "line": "Great. The twilight zone has toothpaste police.",
-    "order": null
-  },
-  "0b45546": {
-    "speaker": "Beat",
-    "line": "Why do you know multiple cops?",
-    "order": null
-  },
-  "02c8061": {
-    "speaker": "Quaver",
-    "line": "Speaking of...",
-    "order": null
+  "Ch0TheStage": {
+    "004d846": {
+      "speaker": "Eve",
+      "line": "Hey.",
+      "order": null
+    },
+    "02c7cd9": {
+      "speaker": "Unknown",
+      "line": "Hold on ONE sec.",
+      "order": null
+    },
+    "0536d7f": {
+      "speaker": "Rest",
+      "line": "Oh come on.",
+      "order": null
+    },
+    "0060301": {
+      "speaker": "Eve",
+      "line": "Guys, we'll be fine.",
+      "order": null
+    },
+    "01f2c49": {
+      "speaker": "Rest",
+      "line": "It's just\u2014",
+      "order": null
+    },
+    "01cd28a": {
+      "speaker": "Eve",
+      "line": "We're gonna be okay, alright?",
+      "order": null
+    },
+    "0ff8d87": {
+      "speaker": "Rest",
+      "line": "We'll be fine. Let's\u2014",
+      "order": null
+    },
+    "07879b3": {
+      "speaker": "Eve",
+      "line": "Let's make a memory.",
+      "order": null
+    }
+  },
+  "Ch0TheStage_OnEnter": {
+    "0f48860": {
+      "speaker": "Eve",
+      "line": "Hey.",
+      "order": null
+    },
+    "04dd3d9": {
+      "speaker": "Eve",
+      "line": "Guys, we'll be fine.",
+      "order": null
+    },
+    "02f0b4d": {
+      "speaker": "Rest",
+      "line": "It's just\u2014",
+      "order": null
+    },
+    "08f67f5": {
+      "speaker": "Eve",
+      "line": "We're gonna be okay, okay?",
+      "order": null
+    },
+    "0657b13": {
+      "speaker": "Rest",
+      "line": "We'll be fine. Let's\u2014",
+      "order": null
+    },
+    "0d3ced4": {
+      "speaker": "Eve",
+      "line": "Let's make a memory.",
+      "order": null
+    }
+  },
+  "Chapter0Start": {
+    "07c9f8b": {
+      "speaker": "Rest",
+      "line": "Uh, you coming up?",
+      "order": null
+    },
+    "0d9f9b5": {
+      "speaker": "Eve",
+      "line": "Need a sec. Stop worrying.",
+      "order": null
+    },
+    "0c4b61d": {
+      "speaker": "Rest",
+      "line": "They're waiting.",
+      "order": null
+    },
+    "04770f5": {
+      "speaker": "Eve",
+      "line": "Don't we like them waiting a little bit?",
+      "order": null
+    },
+    "074fc1c": {
+      "speaker": "Rest",
+      "line": "Yeah, but we don't like them bored.",
+      "order": null
+    },
+    "0dd2616": {
+      "speaker": "Eve",
+      "line": "Then don't be boring.",
+      "order": null
+    }
+  },
+  "CheckMirror": {
+    "00808a8": {
+      "speaker": "Eve",
+      "line": "That's Eve.",
+      "order": null
+    },
+    "0215c17": {
+      "speaker": "Eve",
+      "line": "I'm coming up now.",
+      "order": null
+    },
+    "07214c7": {
+      "speaker": "Eve",
+      "line": "Sorry to make you both worry.",
+      "order": null
+    },
+    "06af345": {
+      "speaker": "Rest",
+      "line": "...I wasn't worried.",
+      "order": null
+    }
+  },
+  "CommunityGateGuardFinish": {
+    "085017b": {
+      "speaker": "Quaver",
+      "line": "Hello, there! Sorry to keep you waiting.",
+      "order": null
+    },
+    "01c895b": {
+      "speaker": "Crest",
+      "line": "Quaver, for the love of god, you can't leave without an adult.",
+      "order": null
+    },
+    "064cc39": {
+      "speaker": "Crest",
+      "line": "We've been over this a hundred times.",
+      "order": null
+    },
+    "036f274": {
+      "speaker": "Quaver",
+      "line": "She's my adult.",
+      "order": null
+    },
+    "0efba95": {
+      "speaker": "Crest",
+      "line": "I...I'm really sorry about her, ma'am...she's...",
+      "order": null
+    },
+    "045b5c2": {
+      "speaker": "Crest",
+      "line": "I mean, y'know, she's at that age.",
+      "order": null
+    },
+    "0a8e77d": {
+      "speaker": "Quaver",
+      "line": "I don't know what that means.",
+      "order": null
+    },
+    "0830d4a": {
+      "speaker": "Crest",
+      "line": "Look, are you even allowed to go out?",
+      "order": null
+    },
+    "0f2b72a": {
+      "speaker": "Crest",
+      "line": "There's a curfew, you know, a-a-aand-",
+      "order": null
+    },
+    "0d0cbde": {
+      "speaker": "Quaver",
+      "line": "We'll be back before sunset!",
+      "order": null
+    },
+    "0fb6ed2": {
+      "speaker": "Crest",
+      "line": "Buh. I mean, uh, that's- it's...",
+      "order": null
+    },
+    "0dbd9d4": {
+      "speaker": "Crest",
+      "line": "I don't mean this in any way.",
+      "order": null
+    },
+    "005c9d4": {
+      "speaker": "Crest",
+      "line": "You're probably a responsible type?",
+      "order": null
+    },
+    "0acc273": {
+      "speaker": "Crest",
+      "line": "But you look kind of...young?",
+      "order": null
+    },
+    "0a6927e": {
+      "speaker": "Crest",
+      "line": "Is that...am I being rude...to say that.",
+      "order": null
+    },
+    "0bdbaa8": {
+      "speaker": "Beat",
+      "line": "Dude, I think I'm older than you. Come on.",
+      "order": null
+    },
+    "006e45a": {
+      "speaker": "Quaver",
+      "line": "She's totally responsible!",
+      "order": null
+    },
+    "0be07ab": {
+      "speaker": "Crest",
+      "line": "I'm not really good with kids.",
+      "order": null
+    },
+    "01619cc": {
+      "speaker": "Crest",
+      "line": "Sorry.",
+      "order": null
+    },
+    "0f7cc14": {
+      "speaker": "Crest",
+      "line": "Look, this is probably okay.",
+      "order": null
+    },
+    "034a236": {
+      "speaker": "Crest",
+      "line": "Let's just get this over with.",
+      "order": null
+    },
+    "01fcf6d": {
+      "speaker": "Beat",
+      "line": "Uh...",
+      "order": null
+    },
+    "0683a55": {
+      "speaker": "Crest",
+      "line": "...where's this trip taking you?",
+      "order": null
+    },
+    "0f1e263": {
+      "speaker": "Quaver",
+      "line": "The... library!",
+      "order": null
+    },
+    "00bd063": {
+      "speaker": "Beat",
+      "line": "What? That's what we're doing?",
+      "order": null
+    },
+    "0652e30": {
+      "speaker": "Quaver",
+      "line": "Yes. That's what we're doing.",
+      "order": null
+    },
+    "0334c5f": {
+      "speaker": "Quaver",
+      "line": "Besides, there's a book I don't have at home that I really need for school.",
+      "order": null
+    },
+    "0d6e354": {
+      "speaker": "Quaver",
+      "line": "So I am going to the library. Downtown.",
+      "order": null
+    },
+    "024d343": {
+      "speaker": "Quaver",
+      "line": "Which is where books are. To get the book.",
+      "order": null
+    },
+    "05bdaff": {
+      "speaker": "Beat",
+      "line": "So I'm a chaperone on a study trip.",
+      "order": null
+    },
+    "0d49340": {
+      "speaker": "Crest",
+      "line": "I...Really, I'm sorry she's roped you into doing this.",
+      "order": null
+    },
+    "06b7bca": {
+      "speaker": "Crest",
+      "line": "It's nice of you.",
+      "order": null
+    },
+    "00ec888": {
+      "speaker": "Quaver",
+      "line": "No rope. She offered!",
+      "order": null
+    },
+    "081b186": {
+      "speaker": "Crest",
+      "line": "Sure she did. Um. Here's your wristband, newbie.",
+      "order": null
+    },
+    "052fcf1": {
+      "speaker": "Guard",
+      "line": "Ahhh.Have a safe trip.",
+      "order": null
+    }
+  },
+  "ExitHouse": {
+    "041cf05": {
+      "speaker": "Beat",
+      "line": "It's astonishing how little I know what's going on right now.",
+      "order": null
+    },
+    "0a1b261": {
+      "speaker": "Quaver",
+      "line": "Don't worry about it.",
+      "order": null
+    },
+    "09f83fe": {
+      "speaker": "Beat",
+      "line": "Does that phrase ever work?",
+      "order": null
+    },
+    "0f18ecd": {
+      "speaker": "Beat",
+      "line": "Have you ever worried less when someone asked you to?",
+      "order": null
+    },
+    "0f3027e": {
+      "speaker": "Quaver",
+      "line": "...huh. No, I really haven't.",
+      "order": null
+    },
+    "0747313": {
+      "speaker": "Quaver",
+      "line": "Look. I haven't lied to you, but I haven't been...",
+      "order": null
+    },
+    "032ab42": {
+      "speaker": "Quaver",
+      "line": "...I am going to help you out.",
+      "order": null
+    },
+    "092fdb8": {
+      "speaker": "Beat",
+      "line": "I still don't really know what you're helping me out with.",
+      "order": null
+    },
+    "0b668ef": {
+      "speaker": "Quaver",
+      "line": "And me helping you out is gonna help me out...",
+      "order": null
+    },
+    "0bd9084": {
+      "speaker": "Quaver",
+      "line": "Is that okay?",
+      "order": null
+    },
+    "0b5b1ed": {
+      "speaker": "Beat",
+      "line": "That's... fine.",
+      "order": null
+    }
+  },
+  "GuardNodePanic": {
+    "0c92823": {
+      "speaker": "Beat",
+      "line": "Oh I'm going to end up in jail tonight.",
+      "order": null
+    },
+    "04f19f0": {
+      "speaker": "Beat",
+      "line": "...Hiiiiiiii, again.",
+      "order": null
+    },
+    "09c6c17": {
+      "speaker": "Crest",
+      "line": "Oh! It's the new, uh, maid.",
+      "order": null
+    },
+    "0e4b432": {
+      "speaker": "Crest",
+      "line": "Uh, how are you doing?",
+      "order": null
+    },
+    "09f3f21": {
+      "speaker": "Beat",
+      "line": "I'm just. Great.",
+      "order": null
+    }
+  },
+  "HouseQuaverReturns": {
+    "032722e": {
+      "speaker": "Beat",
+      "line": "You took a bit.",
+      "order": null
+    },
+    "0cf83ba": {
+      "speaker": "Quaver",
+      "line": "Uh.... Sorry. I forgot the code.",
+      "order": null
+    },
+    "01617f7": {
+      "speaker": "Beat",
+      "line": "So, uh. You had a cop in your house.",
+      "order": null
+    },
+    "03f227a": {
+      "speaker": "Quaver",
+      "line": "Oh, was Crest here?",
+      "order": null
+    },
+    "04bda1a": {
+      "speaker": "Beat",
+      "line": "You're friends with that guy?",
+      "order": null
+    },
+    "0a2cce9": {
+      "speaker": "Quaver",
+      "line": "Friendly. If it was him.",
+      "order": null
+    },
+    "0e1d782": {
+      "speaker": "Beat",
+      "line": "It could be another cop?",
+      "order": null
+    },
+    "0c1bb2d": {
+      "speaker": "Quaver",
+      "line": "Could be.",
+      "order": null
+    },
+    "058769f": {
+      "speaker": "Beat",
+      "line": "Is this the twilight zone?",
+      "order": null
+    },
+    "017e540": {
+      "speaker": "Quaver",
+      "line": "Describe him.",
+      "order": null
+    },
+    "0bceca6": {
+      "speaker": "Beat",
+      "line": "He kind of puffs himself out like a cornered cat.",
+      "order": null
+    },
+    "0dbec6e": {
+      "speaker": "Quaver",
+      "line": "That's mean. But it sounds right.",
+      "order": null
+    },
+    "03b4167": {
+      "speaker": "Beat",
+      "line": "He looks like the kind of guy who's never been slapped.",
+      "order": null
+    },
+    "07f11a9": {
+      "speaker": "Quaver",
+      "line": "That's Crest. Absolutely.",
+      "order": null
+    },
+    "0733c0a": {
+      "speaker": "Beat",
+      "line": "Great. The twilight zone has toothpaste police.",
+      "order": null
+    },
+    "0b45546": {
+      "speaker": "Beat",
+      "line": "Why do you know multiple cops?",
+      "order": null
+    },
+    "02c8061": {
+      "speaker": "Quaver",
+      "line": "Speaking of...",
+      "order": null
+    }
+  },
+  "HouseTeaTalk": {
+    "06b614f": {
+      "speaker": "Quaver",
+      "line": "Give me a second to grab something.",
+      "order": null
+    },
+    "046c1e6": {
+      "speaker": "Quaver",
+      "line": "Uh... don't break anything, please.",
+      "order": null
+    },
+    "002570e": {
+      "speaker": "Beat",
+      "line": "Do I look like someone who would?",
+      "order": null
+    },
+    "029f082": {
+      "speaker": "Quaver",
+      "line": "I think... that's not really a thing you can look like.",
+      "order": null
+    },
+    "052fcb9": {
+      "speaker": "Beat",
+      "line": "Oh, it definitely is.",
+      "order": null
+    },
+    "0c95ba8": {
+      "speaker": "Crest",
+      "line": "Oh, hello!",
+      "order": null
+    },
+    "054a337": {
+      "speaker": "Crest",
+      "line": "Are you a new hire?",
+      "order": null
+    },
+    "02f236c": {
+      "speaker": "Beat",
+      "line": "Uh...",
+      "order": null
+    },
+    "0afcbdd": {
+      "speaker": "Crest",
+      "line": "Which branch of HAR-",
+      "order": null
+    },
+    "03b3fb1": {
+      "speaker": "Crest",
+      "line": "...on second thought, you don't really look the type.",
+      "order": null
+    },
+    "0199692": {
+      "speaker": "Crest",
+      "line": "Sorry. I actually don't know if it's offensive to ask if you're a maid",
+      "order": null
+    },
+    "0b267f1": {
+      "speaker": "Crest",
+      "line": "Is that offensive?",
+      "order": null
+    },
+    "0f2e238": {
+      "speaker": "Unknown",
+      "line": "No?",
+      "order": null
+    },
+    "07a96b1": {
+      "speaker": "Crest",
+      "line": "You're sure?",
+      "order": null
+    },
+    "09103a0": {
+      "speaker": "Beat",
+      "line": "Yeah, we're cool, dude.",
+      "order": null
+    },
+    "0a65d9c": {
+      "speaker": "Crest",
+      "line": "You're sure.",
+      "order": null
+    },
+    "0c86792": {
+      "speaker": "Crest",
+      "line": "I'm not making you uncomfortable in any way?",
+      "order": null
+    },
+    "0d85d4d": {
+      "speaker": "Beat",
+      "line": "I mean, you will be if you keep this up.",
+      "order": null
+    },
+    "04be03b": {
+      "speaker": "Crest",
+      "line": "I can back off!",
+      "order": null
+    },
+    "0c0b0cd": {
+      "speaker": "Crest",
+      "line": "I'll take the win.",
+      "order": null
+    },
+    "0a42245": {
+      "speaker": "Beat",
+      "line": "The win?",
+      "order": null
+    },
+    "08755f8": {
+      "speaker": "Crest",
+      "line": "This is the best I've done so far.",
+      "order": null
+    },
+    "0fea577": {
+      "speaker": "Beat",
+      "line": "At...talking?",
+      "order": null
+    },
+    "0595550": {
+      "speaker": "Crest",
+      "line": "Anyway, uh, I have to go. Nice talking with you, uh...",
+      "order": null
+    },
+    "0cef81f": {
+      "speaker": "Crest",
+      "line": "I didn't get your name.",
+      "order": null
+    },
+    "0fa728f": {
+      "speaker": "Beat",
+      "line": "You didn't!.",
+      "order": null
+    },
+    "053aaa0": {
+      "speaker": "Crest",
+      "line": "Right.",
+      "order": null
+    },
+    "0877774": {
+      "speaker": "Crest",
+      "line": "Uh. Good luck!",
+      "order": null
+    },
+    "0babba7": {
+      "speaker": "Unknown",
+      "line": "Yes.",
+      "order": null
+    },
+    "0c483ed": {
+      "speaker": "Crest",
+      "line": "I knew it.",
+      "order": null
+    },
+    "0826cb4": {
+      "speaker": "Crest",
+      "line": "Dammit.",
+      "order": null
+    },
+    "0348bbd": {
+      "speaker": "Crest",
+      "line": "I'm trying, you know!",
+      "order": null
+    },
+    "0524a9b": {
+      "speaker": "Crest",
+      "line": "I really am.",
+      "order": null
+    },
+    "065005d": {
+      "speaker": "Crest",
+      "line": "I'm just gonna.",
+      "order": null
+    },
+    "0fa234e": {
+      "speaker": "Crest",
+      "line": "Go.",
+      "order": null
+    },
+    "0873ee9": {
+      "speaker": "Unknown",
+      "line": "...a maid?",
+      "order": null
+    },
+    "0f4dbd9": {
+      "speaker": "Crest",
+      "line": "You're not...uh, I didn't mean to...",
+      "order": null
+    },
+    "0fdc54c": {
+      "speaker": "Beat",
+      "line": "I didn't say that.",
+      "order": null
+    },
+    "03a61ab": {
+      "speaker": "Beat",
+      "line": "I am. I am that. I am a maid.",
+      "order": null
+    },
+    "0376c35": {
+      "speaker": "Crest",
+      "line": "Oh, sometimes I wish I could be like you guys.",
+      "order": null
+    },
+    "025a262": {
+      "speaker": "Crest",
+      "line": "...oh, wait, is that sexist to say?",
+      "order": null
+    },
+    "08c4d04": {
+      "speaker": "Beat",
+      "line": "Is it sexist for you to be a maid?",
+      "order": null
+    },
+    "0a83496": {
+      "speaker": "Crest",
+      "line": "I-I-I-I didn't say that I...wanted to be a maid.",
+      "order": null
+    },
+    "094bf6b": {
+      "speaker": "Beat",
+      "line": "Do you like cleaning things?",
+      "order": null
+    },
+    "0204c3c": {
+      "speaker": "Crest",
+      "line": "Well, that's why I'm a cop!",
+      "order": null
+    },
+    "0df2f00": {
+      "speaker": "Beat",
+      "line": "That feels like a very misplaced sense of drive.",
+      "order": null
+    },
+    "0011de5": {
+      "speaker": "Crest",
+      "line": "No, no, uh, no, it's the same. ah...I'm cleaning up the streets.",
+      "order": null
+    },
+    "034c8a9": {
+      "speaker": "Beat",
+      "line": "Wow. Extremely, uh, cool. Very cool.",
+      "order": null
+    },
+    "0364518": {
+      "speaker": "Crest",
+      "line": "You really think so?",
+      "order": null
+    },
+    "0b4492e": {
+      "speaker": "Crest",
+      "line": "That's...very nice.",
+      "order": null
+    },
+    "0dcc064": {
+      "speaker": "Crest",
+      "line": "Oh, geez. I...I'm running late now.",
+      "order": null
+    },
+    "082eead": {
+      "speaker": "Crest",
+      "line": "Sorry. Gotta go!",
+      "order": null
+    },
+    "0c1592a": {
+      "speaker": "Unknown",
+      "line": "...what type do I seem like?",
+      "order": null
+    },
+    "01fd86c": {
+      "speaker": "Crest",
+      "line": "That's not fair!",
+      "order": null
+    },
+    "0957ca3": {
+      "speaker": "Crest",
+      "line": "You're trapping me.",
+      "order": null
+    },
+    "0e40b57": {
+      "speaker": "Crest",
+      "line": "You seem like a normal type.",
+      "order": null
+    },
+    "0481c6e": {
+      "speaker": "Crest",
+      "line": "I'm making this weirder, aren't I.",
+      "order": null
+    },
+    "0a901be": {
+      "speaker": "Beat",
+      "line": "Yes.",
+      "order": null
+    },
+    "05af863": {
+      "speaker": "Crest",
+      "line": "I'm gonna go.",
+      "order": null
+    },
+    "07467c4": {
+      "speaker": "Crest",
+      "line": "I think...maybe...it is.",
+      "order": null
+    },
+    "0eb47f0": {
+      "speaker": "Crest",
+      "line": "Ah, nuts, I screwed up, didn't I.",
+      "order": null
+    },
+    "0e50ad5": {
+      "speaker": "Crest",
+      "line": "Sorry. Well, good luck. First days are always awful.",
+      "order": null
+    },
+    "0601d56": {
+      "speaker": "Crest",
+      "line": "...oh! I mean, not yours! Yours will be great.",
+      "order": null
+    },
+    "08de1db": {
+      "speaker": "Crest",
+      "line": "I promise.",
+      "order": null
+    },
+    "0807363": {
+      "speaker": "Crest",
+      "line": "My first day was pretty bad, though.",
+      "order": null
+    },
+    "009c4b7": {
+      "speaker": "Crest",
+      "line": "But I think the maids...",
+      "order": null
+    },
+    "0b181c3": {
+      "speaker": "Crest",
+      "line": "I'm assuming again.",
+      "order": null
+    },
+    "0caa245": {
+      "speaker": "Crest",
+      "line": "Well, whatever your job is. What's your name?",
+      "order": null
+    },
+    "0147405": {
+      "speaker": "Crest",
+      "line": "The silent treatment.",
+      "order": null
+    },
+    "09b0e6b": {
+      "speaker": "Crest",
+      "line": "I probably deserve that.",
+      "order": null
+    },
+    "017d540": {
+      "speaker": "Crest",
+      "line": "I have to go do my rounds. Please don't let me ruin your day!",
+      "order": null
+    },
+    "0df2162": {
+      "speaker": "Beat",
+      "line": "What... the... hell.",
+      "order": null
+    }
+  },
+  "HouseTimesUpBase": {
+    "0390913": {
+      "speaker": "Quaver",
+      "line": "Hey... what are you doing?",
+      "order": null
+    },
+    "0efc91f": {
+      "speaker": "Beat",
+      "line": "I, uh, sorry. I was...looking for the bathroom.",
+      "order": null
+    },
+    "0f954aa": {
+      "speaker": "Quaver",
+      "line": "Oh, I can give you cover if you need to go-",
+      "order": null
+    },
+    "01ee1f6": {
+      "speaker": "Beat",
+      "line": "...I don't...",
+      "order": null
+    },
+    "051325b": {
+      "speaker": "Beat",
+      "line": "...nevermind. I was lying. I got distracted.",
+      "order": null
+    },
+    "0067279": {
+      "speaker": "Quaver",
+      "line": "Why are you here?",
+      "order": null
+    },
+    "0e7c389": {
+      "speaker": "Beat",
+      "line": "I went exploring! Nice room, by the way.",
+      "order": null
+    },
+    "0ff7e06": {
+      "speaker": "Quaver",
+      "line": "Why would you go exploring?",
+      "order": null
+    },
+    "0733292": {
+      "speaker": "Beat",
+      "line": "I mean.",
+      "order": null
+    },
+    "069e60c": {
+      "speaker": "Quaver",
+      "line": "Thanks for waiting. Sorry I took so long.",
+      "order": null
+    }
+  },
+  "QuaverExplainsDistraction": {
+    "010af55": {
+      "speaker": "Quaver",
+      "line": "I need you to distract the guard.",
+      "order": null
+    },
+    "069b070": {
+      "speaker": "Beat",
+      "line": "H...how should-",
+      "order": null
+    },
+    "03d25d8": {
+      "speaker": "Quaver",
+      "line": "Just...talk at him.",
+      "order": null
+    },
+    "0a98524": {
+      "speaker": "Beat",
+      "line": "That'll work?",
+      "order": null
+    },
+    "07ea9bc": {
+      "speaker": "Quaver",
+      "line": "You're definitely distracting enough.",
+      "order": null
+    },
+    "08535cb": {
+      "speaker": "Beat",
+      "line": "I...I don't know how to take that.",
+      "order": null
+    }
+  },
+  "RestBackYardDillyDally": {
+    "09ba58f": {
+      "speaker": "Quaver",
+      "line": "Right now!",
+      "order": null
+    },
+    "0d2f412": {
+      "speaker": "Beat",
+      "line": "Give me a sec!",
+      "order": null
+    },
+    "073d2af": {
+      "speaker": "Quaver",
+      "line": "No!",
+      "order": null
+    }
+  },
+  "RestBackyard1": {
+    "0233aec": {
+      "speaker": "Quaver",
+      "line": "Oh my gosh.",
+      "order": null
+    },
+    "0cf9f36": {
+      "speaker": "Beat",
+      "line": "Oh, uh, hi.",
+      "order": null
+    },
+    "0309798": {
+      "speaker": "Quaver",
+      "line": "Are you a crazy person?",
+      "order": null
+    },
+    "0bd4ece": {
+      "speaker": "Unknown",
+      "line": "...What,",
+      "order": null
+    },
+    "0c2cc77": {
+      "speaker": "Beat",
+      "line": "Do I look crazy?",
+      "order": null
+    },
+    "0a023c6": {
+      "speaker": "Quaver",
+      "line": "Kind of!",
+      "order": null
+    },
+    "0f9c63a": {
+      "speaker": "Quaver",
+      "line": "You can't have that here!",
+      "order": null
+    },
+    "074b036": {
+      "speaker": "Unknown",
+      "line": "...no?",
+      "order": null
+    },
+    "0fa36e4": {
+      "speaker": "Beat",
+      "line": "That's a...weird response.",
+      "order": null
+    },
+    "041db5b": {
+      "speaker": "Quaver",
+      "line": "Why do you even have that stuff?",
+      "order": null
+    },
+    "0d487e4": {
+      "speaker": "Unknown",
+      "line": "That's one way to respond to \"hi.\"",
+      "order": null
+    },
+    "07387de": {
+      "speaker": "Quaver",
+      "line": "You gotta hide that!",
+      "order": null
+    },
+    "0a9e2e6": {
+      "speaker": "Beat",
+      "line": "What, the guitar?",
+      "order": null
+    },
+    "09b3577": {
+      "speaker": "Quaver",
+      "line": "And that amp.",
+      "order": null
+    },
+    "0441fd7": {
+      "speaker": "Quaver",
+      "line": "You gotta come with me right now.",
+      "order": null
+    }
+  },
+  "RestBackyard3": {
+    "02cb980": {
+      "speaker": "Quaver",
+      "line": "...hmm.",
+      "order": null
+    },
+    "0747efe": {
+      "speaker": "Quaver",
+      "line": "Ugh.",
+      "order": null
+    },
+    "0d4c838": {
+      "speaker": "Quaver",
+      "line": "Agh.",
+      "order": null
+    }
+  },
+  "RestBackyardAfterGate": {
+    "0d4aea9": {
+      "speaker": "Beat",
+      "line": "Ayyo.",
+      "order": null
+    },
+    "0298dff": {
+      "speaker": "Quaver",
+      "line": "Woaah.",
+      "order": null
+    },
+    "02abf1a": {
+      "speaker": "Quaver",
+      "line": "You can really jump.",
+      "order": null
+    },
+    "063716d": {
+      "speaker": "Unknown",
+      "line": "Dude, hopping a fence isn't that impressive.",
+      "order": null
+    },
+    "083a465": {
+      "speaker": "Quaver",
+      "line": "I couldn't do that.",
+      "order": null
+    },
+    "0ac95a0": {
+      "speaker": "Beat",
+      "line": "Yeah, and you're two-thirds of my height.",
+      "order": null
+    },
+    "007c8de": {
+      "speaker": "Beat",
+      "line": "And two-thirds of your height is a bow.",
+      "order": null
+    },
+    "08cfd1f": {
+      "speaker": "Beat",
+      "line": "I don't think that's your fault.",
+      "order": null
+    },
+    "0dc17b7": {
+      "speaker": "Unknown",
+      "line": "I'm actually better at strength than cardio.",
+      "order": null
+    },
+    "0342f91": {
+      "speaker": "Quaver",
+      "line": "I know what those words mean but not the way you used them.",
+      "order": null
+    },
+    "034aa70": {
+      "speaker": "Beat",
+      "line": "Word of advice: start early with that stuff.",
+      "order": null
+    },
+    "0d54f89": {
+      "speaker": "Beat",
+      "line": "You'll thank me later.",
+      "order": null
+    },
+    "03e7935": {
+      "speaker": "Unknown",
+      "line": "You're only saying that because I'm taller than you.",
+      "order": null
+    },
+    "0dffa10": {
+      "speaker": "Quaver",
+      "line": "Don't be mean about it.",
+      "order": null
+    },
+    "089c5e8": {
+      "speaker": "Beat",
+      "line": "Hey, that's not forever!",
+      "order": null
+    },
+    "0089cbc": {
+      "speaker": "Beat",
+      "line": "...I...assume.",
+      "order": null
+    },
+    "0aa3ac9": {
+      "speaker": "Quaver",
+      "line": "Anyway, anyway, anyway we really have to hide this somewhere.",
+      "order": null
+    },
+    "0abae0c": {
+      "speaker": "Quaver",
+      "line": "Like. Now. Come on!",
+      "order": null
+    }
+  },
+  "RestBackyardBeforeGate": {
+    "02c9975": {
+      "speaker": "Quaver",
+      "line": "Well, here I am.",
+      "order": null
+    },
+    "004a704": {
+      "speaker": "Quaver",
+      "line": "Welcome home.",
+      "order": null
+    },
+    "0e8d979": {
+      "speaker": "Beat",
+      "line": "This whole thing is your house?",
+      "order": null
+    },
+    "0fa7c5c": {
+      "speaker": "Quaver",
+      "line": "Unfortunately.",
+      "order": null
+    },
+    "0808087": {
+      "speaker": "Quaver",
+      "line": "...ffffrick.",
+      "order": null
+    },
+    "0b00cfb": {
+      "speaker": "Quaver",
+      "line": "Partita locked me out.",
+      "order": null
+    },
+    "03752c1": {
+      "speaker": "Quaver",
+      "line": "...again.",
+      "order": null
+    },
+    "09a296d": {
+      "speaker": "Quaver",
+      "line": "That's a problem for two reasons! The other one being that once we're done waiting...",
+      "order": null
+    },
+    "0fd6f1d": {
+      "speaker": "Quaver",
+      "line": "...she's going to see you.",
+      "order": null
+    },
+    "023c5fd": {
+      "speaker": "Quaver",
+      "line": "Uggggh.",
+      "order": null
+    }
+  },
+  "RestBackyardHidingSpot1": {
+    "0a95ba8": {
+      "speaker": "Quaver",
+      "line": "What's your cover story?",
+      "order": null
+    },
+    "07dd7bc": {
+      "speaker": "Unknown",
+      "line": "I'm...your...cousin?",
+      "order": null
+    },
+    "028ef54": {
+      "speaker": "Quaver",
+      "line": "Unfortunately everyone knows my family, here.",
+      "order": null
+    },
+    "04843d3": {
+      "speaker": "Beat",
+      "line": "Thus explains the big house.",
+      "order": null
+    },
+    "05d7176": {
+      "speaker": "Quaver",
+      "line": "Sort of.",
+      "order": null
+    },
+    "0920c4f": {
+      "speaker": "Beat",
+      "line": "So that's just not gonna work.",
+      "order": null
+    },
+    "0c0b22c": {
+      "speaker": "Beat",
+      "line": "There's no sides of your family that might be-",
+      "order": null
+    },
+    "0a6026e": {
+      "speaker": "Quaver",
+      "line": "Nnnnope.",
+      "order": null
+    },
+    "005ed3e": {
+      "speaker": "Beat",
+      "line": "Great.",
+      "order": null
+    },
+    "0832cbc": {
+      "speaker": "Unknown",
+      "line": "I'm, uh, your...classmate?",
+      "order": null
+    },
+    "00b36f7": {
+      "speaker": "Quaver",
+      "line": "There are so many problems with that.",
+      "order": null
+    },
+    "0ebb291": {
+      "speaker": "Quaver",
+      "line": "For one, you're twice as old as me.",
+      "order": null
+    },
+    "0400e6f": {
+      "speaker": "Beat",
+      "line": "I could be held back.",
+      "order": null
+    },
+    "0779b04": {
+      "speaker": "Quaver",
+      "line": "Also, I'm homeschooled.",
+      "order": null
+    },
+    "0fd8894": {
+      "speaker": "Unknown",
+      "line": "Sorry about that.",
+      "order": null
+    },
+    "08003d4": {
+      "speaker": "Quaver",
+      "line": "It's fine!",
+      "order": null
+    },
+    "0fcde26": {
+      "speaker": "Quaver",
+      "line": "I'm not doing badly.",
+      "order": null
+    },
+    "05bdc5a": {
+      "speaker": "Quaver",
+      "line": "There is some weird stuff in the textbooks, though.",
+      "order": null
+    },
+    "01e64a5": {
+      "speaker": "Unknown",
+      "line": "Not sorry about that at all.",
+      "order": null
+    },
+    "04c50f6": {
+      "speaker": "Quaver",
+      "line": "Are you jealous?",
+      "order": null
+    },
+    "07b628a": {
+      "speaker": "Quaver",
+      "line": "Because you shouldn't be.",
+      "order": null
+    },
+    "0620338": {
+      "speaker": "Quaver",
+      "line": "It's not that bad, but it's not... great.",
+      "order": null
+    },
+    "05bb038": {
+      "speaker": "Quaver",
+      "line": "My tutor is good, though.",
+      "order": null
+    },
+    "01d750d": {
+      "speaker": "Unknown",
+      "line": "What's the craziest obvious lie they've taught you?",
+      "order": null
+    },
+    "09a0015": {
+      "speaker": "Quaver",
+      "line": "Okay, not all homeschoolers are nutjobs.",
+      "order": null
+    },
+    "0241cc4": {
+      "speaker": "Beat",
+      "line": "Prove it.",
+      "order": null
+    },
+    "0ca4434": {
+      "speaker": "Quaver",
+      "line": "Come on.",
+      "order": null
+    },
+    "09c2723": {
+      "speaker": "Quaver",
+      "line": "I will admit that the tutor keeps having to point out where the book is just. Wrong.",
+      "order": null
+    },
+    "06364b5": {
+      "speaker": "Quaver",
+      "line": "Good textbooks are impossible to get nowadays.",
+      "order": null
+    },
+    "03ceb04": {
+      "speaker": "Beat",
+      "line": "How wrong is it?",
+      "order": null
+    },
+    "0bde207": {
+      "speaker": "Quaver",
+      "line": "Less than you'd think but more than you'd hope.",
+      "order": null
+    },
+    "03051d0": {
+      "speaker": "Unknown",
+      "line": "I'm your new friend from, uh, the town over.",
+      "order": null
+    },
+    "029b9a0": {
+      "speaker": "Quaver",
+      "line": "That doesn't make any sense.",
+      "order": null
+    },
+    "06a55b7": {
+      "speaker": "Quaver",
+      "line": "How would you even get here?",
+      "order": null
+    },
+    "0ba15c5": {
+      "speaker": "Beat",
+      "line": "I, uh, walked?",
+      "order": null
+    },
+    "005cca9": {
+      "speaker": "Quaver",
+      "line": "Through the wall",
+      "order": null
+    },
+    "083a64c": {
+      "speaker": "Quaver",
+      "line": "Also, why am I friends with you?",
+      "order": null
+    },
+    "0bf850a": {
+      "speaker": "Beat",
+      "line": "I'm just a friendly adult.",
+      "order": null
+    },
+    "02f8ba8": {
+      "speaker": "Quaver",
+      "line": "No.",
+      "order": null
+    },
+    "04a0b67": {
+      "speaker": "Beat",
+      "line": "It's not. Weird.",
+      "order": null
+    },
+    "0cf624b": {
+      "speaker": "Beat",
+      "line": "Yeah. Got it. I can see the problem.",
+      "order": null
+    },
+    "0bb4c79": {
+      "speaker": "Unknown",
+      "line": "...do I need a cover story?",
+      "order": null
+    },
+    "0d4c318": {
+      "speaker": "Quaver",
+      "line": "Yes!",
+      "order": null
+    },
+    "09e1357": {
+      "speaker": "Quaver",
+      "line": "What are you going to do if they ask questions?",
+      "order": null
+    },
+    "0c88e4c": {
+      "speaker": "Beat",
+      "line": "Who's they?",
+      "order": null
+    },
+    "0329fc5": {
+      "speaker": "Quaver",
+      "line": "Potentially a lot of people!",
+      "order": null
+    },
+    "0ae2577": {
+      "speaker": "Beat",
+      "line": "I could just...not...talk.",
+      "order": null
+    },
+    "0b51888": {
+      "speaker": "Quaver",
+      "line": "That's not going to work.",
+      "order": null
+    },
+    "0834683": {
+      "speaker": "Beat",
+      "line": "What do I do, then?",
+      "order": null
+    },
+    "0bb09d6": {
+      "speaker": "Quaver",
+      "line": "I guess just stay out of sight if you can. I don't think we have a good option.",
+      "order": null
+    },
+    "085f833": {
+      "speaker": "Quaver",
+      "line": "And don't make a big deal out of it if you do get caught.",
+      "order": null
+    }
+  },
+  "RestBackyardHidingSpot2": {
+    "00b7a46": {
+      "speaker": "Quaver",
+      "line": "What's your cover story?",
+      "order": null
+    },
+    "03954b2": {
+      "speaker": "Quaver",
+      "line": "Unfortunately everyone knows my family, here.",
+      "order": null
+    },
+    "0c7c81b": {
+      "speaker": "Beat",
+      "line": "Thus explains the big house.",
+      "order": null
+    },
+    "0248b08": {
+      "speaker": "Quaver",
+      "line": "Sort of.",
+      "order": null
+    },
+    "0429db8": {
+      "speaker": "Beat",
+      "line": "So that's just not gonna work.",
+      "order": null
+    },
+    "0c9023a": {
+      "speaker": "Beat",
+      "line": "There's no sides of your family that might be-",
+      "order": null
+    },
+    "0c54ab4": {
+      "speaker": "Quaver",
+      "line": "Nnnnope.",
+      "order": null
+    },
+    "0dae527": {
+      "speaker": "Beat",
+      "line": "Great.",
+      "order": null
+    },
+    "0d5b8b8": {
+      "speaker": "Quaver",
+      "line": "There are so many problems with that.",
+      "order": null
+    },
+    "0bd853f": {
+      "speaker": "Quaver",
+      "line": "For one, you're twice as old as me.",
+      "order": null
+    },
+    "0f7bbeb": {
+      "speaker": "Beat",
+      "line": "I could be held back.",
+      "order": null
+    },
+    "0fc5d87": {
+      "speaker": "Quaver",
+      "line": "Also, I'm homeschooled.",
+      "order": null
+    },
+    "02c50b2": {
+      "speaker": "Quaver",
+      "line": "It's fine!",
+      "order": null
+    },
+    "0d4593d": {
+      "speaker": "Quaver",
+      "line": "I'm not doing badly.",
+      "order": null
+    },
+    "0d8d391": {
+      "speaker": "Quaver",
+      "line": "There is some weird stuff in the textbooks, though.",
+      "order": null
+    },
+    "092a0ed": {
+      "speaker": "Quaver",
+      "line": "Are you jealous?",
+      "order": null
+    },
+    "0a063be": {
+      "speaker": "Quaver",
+      "line": "Because you shouldn't be.",
+      "order": null
+    },
+    "048b1f5": {
+      "speaker": "Quaver",
+      "line": "It's not that bad, but it's not... great.",
+      "order": null
+    },
+    "0fbecbd": {
+      "speaker": "Quaver",
+      "line": "My tutor is good, though.",
+      "order": null
+    },
+    "097a46f": {
+      "speaker": "Quaver",
+      "line": "Okay, not all homeschoolers are nutjobs.",
+      "order": null
+    },
+    "0ee01ab": {
+      "speaker": "Beat",
+      "line": "Prove it.",
+      "order": null
+    },
+    "0ae4c2d": {
+      "speaker": "Quaver",
+      "line": "Come on.",
+      "order": null
+    },
+    "0b9a480": {
+      "speaker": "Quaver",
+      "line": "I will admit that the tutor keeps having to point out where the book is just. Wrong.",
+      "order": null
+    },
+    "002d830": {
+      "speaker": "Quaver",
+      "line": "Good textbooks are impossible to get nowadays.",
+      "order": null
+    },
+    "0aa599c": {
+      "speaker": "Beat",
+      "line": "How wrong is it?",
+      "order": null
+    },
+    "0763637": {
+      "speaker": "Quaver",
+      "line": "Less than you'd think but more than you'd hope.",
+      "order": null
+    },
+    "072bd55": {
+      "speaker": "Quaver",
+      "line": "That doesn't make any sense.",
+      "order": null
+    },
+    "0e3a525": {
+      "speaker": "Quaver",
+      "line": "How would you even get here?",
+      "order": null
+    },
+    "0782c06": {
+      "speaker": "Beat",
+      "line": "I, uh, walked?",
+      "order": null
+    },
+    "011414c": {
+      "speaker": "Quaver",
+      "line": "Through the wall",
+      "order": null
+    },
+    "0f636f6": {
+      "speaker": "Quaver",
+      "line": "Also, why am I friends with you?",
+      "order": null
+    },
+    "082434c": {
+      "speaker": "Beat",
+      "line": "I'm just a friendly adult.",
+      "order": null
+    },
+    "04ef25c": {
+      "speaker": "Quaver",
+      "line": "No.",
+      "order": null
+    },
+    "04c0a4a": {
+      "speaker": "Beat",
+      "line": "It's not. Weird.",
+      "order": null
+    },
+    "0f9ddf1": {
+      "speaker": "Beat",
+      "line": "Yeah. Got it. I can see the problem.",
+      "order": null
+    },
+    "0f2d594": {
+      "speaker": "Quaver",
+      "line": "Yes!",
+      "order": null
+    },
+    "0751a85": {
+      "speaker": "Quaver",
+      "line": "What are you going to do if they ask questions?",
+      "order": null
+    },
+    "0b6698c": {
+      "speaker": "Beat",
+      "line": "Who's they?",
+      "order": null
+    },
+    "0b8bb00": {
+      "speaker": "Quaver",
+      "line": "Potentially a lot of people!",
+      "order": null
+    },
+    "045ed68": {
+      "speaker": "Beat",
+      "line": "I could just...not...talk.",
+      "order": null
+    },
+    "08eb924": {
+      "speaker": "Quaver",
+      "line": "That's not going to work.",
+      "order": null
+    },
+    "0b19ef6": {
+      "speaker": "Beat",
+      "line": "What do I do, then?",
+      "order": null
+    },
+    "0daafd7": {
+      "speaker": "Quaver",
+      "line": "I guess just stay out of sight if you can. I don't think we have a good option.",
+      "order": null
+    },
+    "0584c50": {
+      "speaker": "Quaver",
+      "line": "And don't make a big deal out of it if you do get caught.",
+      "order": null
+    }
+  },
+  "RestBackyardHidingSpot3": {
+    "0ddc63a": {
+      "speaker": "Quaver",
+      "line": "What's your cover story?",
+      "order": null
+    },
+    "036895c": {
+      "speaker": "Quaver",
+      "line": "Unfortunately everyone knows my family, here.",
+      "order": null
+    },
+    "094518a": {
+      "speaker": "Beat",
+      "line": "Thus explains the big house.",
+      "order": null
+    },
+    "00f5db9": {
+      "speaker": "Quaver",
+      "line": "Sort of.",
+      "order": null
+    },
+    "0c27284": {
+      "speaker": "Beat",
+      "line": "So that's just not gonna work.",
+      "order": null
+    },
+    "0308b8b": {
+      "speaker": "Beat",
+      "line": "There's no sides of your family that might be-",
+      "order": null
+    },
+    "04bc2ba": {
+      "speaker": "Quaver",
+      "line": "Nnnnope.",
+      "order": null
+    },
+    "0b069d9": {
+      "speaker": "Beat",
+      "line": "Great.",
+      "order": null
+    },
+    "01416c5": {
+      "speaker": "Quaver",
+      "line": "There are so many problems with that.",
+      "order": null
+    },
+    "0843181": {
+      "speaker": "Quaver",
+      "line": "For one, you're twice as old as me.",
+      "order": null
+    },
+    "02c17ce": {
+      "speaker": "Beat",
+      "line": "I could be held back.",
+      "order": null
+    },
+    "03619bc": {
+      "speaker": "Quaver",
+      "line": "Also, I'm homeschooled.",
+      "order": null
+    },
+    "089e135": {
+      "speaker": "Quaver",
+      "line": "It's fine!",
+      "order": null
+    },
+    "0a0b03d": {
+      "speaker": "Quaver",
+      "line": "I'm not doing badly.",
+      "order": null
+    },
+    "08c40dc": {
+      "speaker": "Quaver",
+      "line": "There is some weird stuff in the textbooks, though.",
+      "order": null
+    },
+    "04ed404": {
+      "speaker": "Quaver",
+      "line": "Are you jealous?",
+      "order": null
+    },
+    "01fd257": {
+      "speaker": "Quaver",
+      "line": "Because you shouldn't be.",
+      "order": null
+    },
+    "068b8e3": {
+      "speaker": "Quaver",
+      "line": "It's not that bad, but it's not... great.",
+      "order": null
+    },
+    "02289ea": {
+      "speaker": "Quaver",
+      "line": "My tutor is good, though.",
+      "order": null
+    },
+    "0f5912c": {
+      "speaker": "Quaver",
+      "line": "Okay, not all homeschoolers are nutjobs.",
+      "order": null
+    },
+    "073b718": {
+      "speaker": "Beat",
+      "line": "Prove it.",
+      "order": null
+    },
+    "0741f0b": {
+      "speaker": "Quaver",
+      "line": "Come on.",
+      "order": null
+    },
+    "0f8baa5": {
+      "speaker": "Quaver",
+      "line": "I will admit that the tutor keeps having to point out where the book is just. Wrong.",
+      "order": null
+    },
+    "09b865f": {
+      "speaker": "Quaver",
+      "line": "Good textbooks are impossible to get nowadays.",
+      "order": null
+    },
+    "0cd028e": {
+      "speaker": "Beat",
+      "line": "How wrong is it?",
+      "order": null
+    },
+    "0be05d3": {
+      "speaker": "Quaver",
+      "line": "Less than you'd think but more than you'd hope.",
+      "order": null
+    },
+    "0b563b4": {
+      "speaker": "Quaver",
+      "line": "That doesn't make any sense.",
+      "order": null
+    },
+    "05eea4c": {
+      "speaker": "Quaver",
+      "line": "How would you even get here?",
+      "order": null
+    },
+    "01870bc": {
+      "speaker": "Beat",
+      "line": "I, uh, walked?",
+      "order": null
+    },
+    "0521fa0": {
+      "speaker": "Quaver",
+      "line": "Through the wall",
+      "order": null
+    },
+    "01868ff": {
+      "speaker": "Quaver",
+      "line": "Also, why am I friends with you?",
+      "order": null
+    },
+    "0b7b8bf": {
+      "speaker": "Beat",
+      "line": "I'm just a friendly adult.",
+      "order": null
+    },
+    "0f70257": {
+      "speaker": "Quaver",
+      "line": "No.",
+      "order": null
+    },
+    "0338f40": {
+      "speaker": "Beat",
+      "line": "It's not. Weird.",
+      "order": null
+    },
+    "0426bba": {
+      "speaker": "Beat",
+      "line": "Yeah. Got it. I can see the problem.",
+      "order": null
+    },
+    "0a252c6": {
+      "speaker": "Quaver",
+      "line": "Yes!",
+      "order": null
+    },
+    "034897f": {
+      "speaker": "Quaver",
+      "line": "What are you going to do if they ask questions?",
+      "order": null
+    },
+    "019d59a": {
+      "speaker": "Beat",
+      "line": "Who's they?",
+      "order": null
+    },
+    "0589f68": {
+      "speaker": "Quaver",
+      "line": "Potentially a lot of people!",
+      "order": null
+    },
+    "05f8906": {
+      "speaker": "Beat",
+      "line": "I could just...not...talk.",
+      "order": null
+    },
+    "050cea2": {
+      "speaker": "Quaver",
+      "line": "That's not going to work.",
+      "order": null
+    },
+    "0b79c12": {
+      "speaker": "Beat",
+      "line": "What do I do, then?",
+      "order": null
+    },
+    "02876a5": {
+      "speaker": "Quaver",
+      "line": "I guess just stay out of sight if you can. I don't think we have a good option.",
+      "order": null
+    },
+    "0d761cb": {
+      "speaker": "Quaver",
+      "line": "And don't make a big deal out of it if you do get caught.",
+      "order": null
+    }
+  },
+  "RestBackyardHidingSpot4": {
+    "09ba6a1": {
+      "speaker": "Quaver",
+      "line": "What's your cover story?",
+      "order": null
+    },
+    "037d0e5": {
+      "speaker": "Quaver",
+      "line": "Unfortunately everyone knows my family, here.",
+      "order": null
+    },
+    "0b03c5b": {
+      "speaker": "Beat",
+      "line": "Thus explains the big house.",
+      "order": null
+    },
+    "0e3674b": {
+      "speaker": "Quaver",
+      "line": "Sort of.",
+      "order": null
+    },
+    "08cc216": {
+      "speaker": "Beat",
+      "line": "So that's just not gonna work.",
+      "order": null
+    },
+    "0b23564": {
+      "speaker": "Beat",
+      "line": "There's no sides of your family that might be-",
+      "order": null
+    },
+    "0cecdcc": {
+      "speaker": "Quaver",
+      "line": "Nnnnope.",
+      "order": null
+    },
+    "0cd2d81": {
+      "speaker": "Beat",
+      "line": "Great.",
+      "order": null
+    },
+    "0fff64f": {
+      "speaker": "Quaver",
+      "line": "There are so many problems with that.",
+      "order": null
+    },
+    "0717836": {
+      "speaker": "Quaver",
+      "line": "For one, you're twice as old as me.",
+      "order": null
+    },
+    "0e8f77e": {
+      "speaker": "Beat",
+      "line": "I could be held back.",
+      "order": null
+    },
+    "0953e85": {
+      "speaker": "Quaver",
+      "line": "Also, I'm homeschooled.",
+      "order": null
+    },
+    "085819e": {
+      "speaker": "Quaver",
+      "line": "It's fine!",
+      "order": null
+    },
+    "08f7aac": {
+      "speaker": "Quaver",
+      "line": "I'm not doing badly.",
+      "order": null
+    },
+    "0264d28": {
+      "speaker": "Quaver",
+      "line": "There is some weird stuff in the textbooks, though.",
+      "order": null
+    },
+    "0954558": {
+      "speaker": "Quaver",
+      "line": "Are you jealous?",
+      "order": null
+    },
+    "0c107ad": {
+      "speaker": "Quaver",
+      "line": "Because you shouldn't be.",
+      "order": null
+    },
+    "059e17e": {
+      "speaker": "Quaver",
+      "line": "It's not that bad, but it's not... great.",
+      "order": null
+    },
+    "01b7fa3": {
+      "speaker": "Quaver",
+      "line": "My tutor is good, though.",
+      "order": null
+    },
+    "04ab7bc": {
+      "speaker": "Quaver",
+      "line": "Okay, not all homeschoolers are nutjobs.",
+      "order": null
+    },
+    "015667b": {
+      "speaker": "Beat",
+      "line": "Prove it.",
+      "order": null
+    },
+    "0958f2e": {
+      "speaker": "Quaver",
+      "line": "Come on.",
+      "order": null
+    },
+    "08a7f94": {
+      "speaker": "Quaver",
+      "line": "I will admit that the tutor keeps having to point out where the book is just. Wrong.",
+      "order": null
+    },
+    "0416f67": {
+      "speaker": "Quaver",
+      "line": "Good textbooks are impossible to get nowadays.",
+      "order": null
+    },
+    "0cc65a4": {
+      "speaker": "Beat",
+      "line": "How wrong is it?",
+      "order": null
+    },
+    "0a36365": {
+      "speaker": "Quaver",
+      "line": "Less than you'd think but more than you'd hope.",
+      "order": null
+    },
+    "01977c2": {
+      "speaker": "Quaver",
+      "line": "That doesn't make any sense.",
+      "order": null
+    },
+    "018f861": {
+      "speaker": "Quaver",
+      "line": "How would you even get here?",
+      "order": null
+    },
+    "05b5bb6": {
+      "speaker": "Beat",
+      "line": "I, uh, walked?",
+      "order": null
+    },
+    "0e53bc7": {
+      "speaker": "Quaver",
+      "line": "Through the wall",
+      "order": null
+    },
+    "091817f": {
+      "speaker": "Quaver",
+      "line": "Also, why am I friends with you?",
+      "order": null
+    },
+    "0e01b50": {
+      "speaker": "Beat",
+      "line": "I'm just a friendly adult.",
+      "order": null
+    },
+    "05f046f": {
+      "speaker": "Quaver",
+      "line": "No.",
+      "order": null
+    },
+    "09d9084": {
+      "speaker": "Beat",
+      "line": "It's not. Weird.",
+      "order": null
+    },
+    "04ca818": {
+      "speaker": "Beat",
+      "line": "Yeah. Got it. I can see the problem.",
+      "order": null
+    },
+    "05f92b6": {
+      "speaker": "Quaver",
+      "line": "Yes!",
+      "order": null
+    },
+    "0df566c": {
+      "speaker": "Quaver",
+      "line": "What are you going to do if they ask questions?",
+      "order": null
+    },
+    "0cea494": {
+      "speaker": "Beat",
+      "line": "Who's they?",
+      "order": null
+    },
+    "093381f": {
+      "speaker": "Quaver",
+      "line": "Potentially a lot of people!",
+      "order": null
+    },
+    "0608f11": {
+      "speaker": "Beat",
+      "line": "I could just...not...talk.",
+      "order": null
+    },
+    "0ee72ae": {
+      "speaker": "Quaver",
+      "line": "That's not going to work.",
+      "order": null
+    },
+    "00309fc": {
+      "speaker": "Beat",
+      "line": "What do I do, then?",
+      "order": null
+    },
+    "04ec02d": {
+      "speaker": "Quaver",
+      "line": "I guess just stay out of sight if you can. I don't think we have a good option.",
+      "order": null
+    },
+    "0156272": {
+      "speaker": "Quaver",
+      "line": "And don't make a big deal out of it if you do get caught.",
+      "order": null
+    }
+  },
+  "RestBackyardWalktalk": {
+    "0172816": {
+      "speaker": "Quaver",
+      "line": "Sorry for yelling but I can't believe you're so casual about this.",
+      "order": null
+    },
+    "0e2a305": {
+      "speaker": "Quaver",
+      "line": "You're so, so, so lucky that I'm the first one to see you.",
+      "order": null
+    },
+    "03cb6ec": {
+      "speaker": "Quaver",
+      "line": "...wait, I am the first person to see you with this stuff, right?",
+      "order": null
+    },
+    "0732df1": {
+      "speaker": "Beat",
+      "line": "Uh, well, I literally just woke up. So. Maybe?",
+      "order": null
+    },
+    "0966e2a": {
+      "speaker": "Quaver",
+      "line": "Were you sleeping here?",
+      "order": null
+    },
+    "0bfdfb0": {
+      "speaker": "Beat",
+      "line": "...I guess so.",
+      "order": null
+    },
+    "09f067a": {
+      "speaker": "Quaver",
+      "line": "You can't remember? Where did you get that guitar anyway?",
+      "order": null
+    },
+    "0736a46": {
+      "speaker": "Quaver",
+      "line": "I can't imagine you'd be capable of stealing from anywhere well-guarded.",
+      "order": null
+    },
+    "085473c": {
+      "speaker": "Quaver",
+      "line": "No offense.",
+      "order": null
+    },
+    "02cdb06": {
+      "speaker": "Beat",
+      "line": "...no offense to which part?",
+      "order": null
+    },
+    "061b5d1": {
+      "speaker": "Beat",
+      "line": "This is a lot, you know that?",
+      "order": null
+    },
+    "084cbad": {
+      "speaker": "Quaver",
+      "line": "It's a lot for me.",
+      "order": null
+    },
+    "0ffbfab": {
+      "speaker": "Beat",
+      "line": "Anyway, to answer the implied question, this guitar is mine.",
+      "order": null
+    },
+    "09ed935": {
+      "speaker": "Beat",
+      "line": "I didn't steal it.",
+      "order": null
+    },
+    "0265e72": {
+      "speaker": "Quaver",
+      "line": "Have you just been walking around like that all this time?",
+      "order": null
+    },
+    "06c09d0": {
+      "speaker": "Beat",
+      "line": "...yes?",
+      "order": null
+    },
+    "08a2af7": {
+      "speaker": "Quaver",
+      "line": "That's.",
+      "order": null
+    },
+    "0068b4e": {
+      "speaker": "Quaver",
+      "line": "Stupid!",
+      "order": null
+    },
+    "0c2fceb": {
+      "speaker": "Quaver",
+      "line": "...sorry. Are you...good?",
+      "order": null
+    },
+    "057f4f4": {
+      "speaker": "Beat",
+      "line": "What, like, as a person?",
+      "order": null
+    },
+    "0dfe5a0": {
+      "speaker": "Quaver",
+      "line": "At guitar.",
+      "order": null
+    },
+    "0154091": {
+      "speaker": "Beat",
+      "line": "Terrible.",
+      "order": null
+    },
+    "06acd89": {
+      "speaker": "Beat",
+      "line": "Also as a person.",
+      "order": null
+    },
+    "0db0c72": {
+      "speaker": "Quaver",
+      "line": "You seem fine to me!",
+      "order": null
+    },
+    "0812cfa": {
+      "speaker": "Quaver",
+      "line": "Other than the whole being-a-crazy-thief thing.",
+      "order": null
+    }
+  },
+  "TheBandHasHorses": {
+    "09e8b49": {
+      "speaker": "Grace",
+      "line": "I can only noodle a sixteen for so long.",
+      "order": null
+    },
+    "03b9558": {
+      "speaker": "Eve",
+      "line": "Sorry babe. Do a little flare or something. Make it snazzy.",
+      "order": null
+    },
+    "09434a2": {
+      "speaker": "Eve",
+      "line": "That's my guy.",
+      "order": null
+    },
+    "043f903": {
+      "speaker": "Grace",
+      "line": "Okay but seriously, you have to get the f up here.",
+      "order": null
+    },
+    "000c5f8": {
+      "speaker": "Eve",
+      "line": "Another second, alright? Pick the horses back up.",
+      "order": null
+    },
+    "042edf6": {
+      "speaker": "Eve",
+      "line": "Both of you.",
+      "order": null
+    }
+  },
+  "mopedRealScene": {
+    "0da3a5e": {
+      "speaker": "Beat",
+      "line": "So what are we actually-",
+      "order": null
+    },
+    "0a26dce": {
+      "speaker": "Quaver",
+      "line": "What kind of guitar is this, anyway?",
+      "order": null
+    },
+    "08f7097": {
+      "speaker": "Beat",
+      "line": "What?",
+      "order": null
+    },
+    "05c2028": {
+      "speaker": "Quaver",
+      "line": "It doesn't look like-",
+      "order": null
+    },
+    "0eb3b41": {
+      "speaker": "Beat",
+      "line": "Don't take it out of the case without..come on..",
+      "order": null
+    },
+    "040788a": {
+      "speaker": "Quaver",
+      "line": "I'm being careful.",
+      "order": null
+    },
+    "0965af7": {
+      "speaker": "Beat",
+      "line": "You better be.",
+      "order": null
+    },
+    "0c9e741": {
+      "speaker": "Quaver",
+      "line": "I really haven't seen one like that before.",
+      "order": null
+    },
+    "04c9321": {
+      "speaker": "Beat",
+      "line": "Come on, you absolutely have. Everyone has.",
+      "order": null
+    },
+    "0c8acf6": {
+      "speaker": "Quaver",
+      "line": "I haven't! I promise!",
+      "order": null
+    },
+    "06932fb": {
+      "speaker": "Beat",
+      "line": "It's a Les Paul Standard.",
+      "order": null
+    },
+    "0c1f395": {
+      "speaker": "Beat",
+      "line": "That's like, debatably the guitar.",
+      "order": null
+    },
+    "0fc64bc": {
+      "speaker": "Beat",
+      "line": "Well, that or a Telecaster.",
+      "order": null
+    },
+    "0ea9162": {
+      "speaker": "Beat",
+      "line": "Or a Strat, if you're five.",
+      "order": null
+    },
+    "0ec7d51": {
+      "speaker": "Quaver",
+      "line": "I've never heard of any of these.",
+      "order": null
+    },
+    "0dca863": {
+      "speaker": "Beat",
+      "line": "And you are five. So that tracks.",
+      "order": null
+    },
+    "09d8787": {
+      "speaker": "Quaver",
+      "line": "I'm obviously not five!",
+      "order": null
+    },
+    "0c5fd6c": {
+      "speaker": "Beat",
+      "line": "Weird. Do you get up to this kind of thing often?",
+      "order": null
+    },
+    "00db3f1": {
+      "speaker": "Quaver",
+      "line": "I think about it a lot.",
+      "order": null
+    }
+  },
+  "post_setpiece_harm": {
+    "0810b8b": {
+      "speaker": "DC",
+      "line": "Sitrep now.",
+      "order": null
+    },
+    "09db456": {
+      "speaker": "Crest",
+      "line": "Oh, man, if anything ever needed a sitrep, I-",
+      "order": null
+    },
+    "0730bd1": {
+      "speaker": "DC",
+      "line": "Sit. Rep.",
+      "order": null
+    },
+    "0b9ee9a": {
+      "speaker": "Crest",
+      "line": "I don't even know where to start. Um. How do I even talk about it.",
+      "order": null
+    },
+    "0db3c48": {
+      "speaker": "Crest",
+      "line": "Interviewing the field agents tells me this is a kidnapping.",
+      "order": null
+    },
+    "0aba1e3": {
+      "speaker": "DC",
+      "line": "You weren't there yourself?",
+      "order": null
+    },
+    "0a9d183": {
+      "speaker": "Crest",
+      "line": "Uh, I got on site a bit after?",
+      "order": null
+    },
+    "00bdffa": {
+      "speaker": "Crest",
+      "line": "Several shots fired beforehand, difficult to say if the suspects had weapons or if it was from our side because of all the chaos, um-",
+      "order": null
+    },
+    "0d4b318": {
+      "speaker": "DC",
+      "line": "Casualties?",
+      "order": null
+    },
+    "0123e58": {
+      "speaker": "Crest",
+      "line": "Tons of injuries, can't give a number yet, no deaths that we know of as yet.",
+      "order": null
+    },
+    "049e7c5": {
+      "speaker": "Crest",
+      "line": "Also plenty of equipment, uh, as of. Yet. If you count that-",
+      "order": null
+    },
+    "03ad4dd": {
+      "speaker": "DC",
+      "line": "You don't.",
+      "order": null
+    },
+    "023ddd4": {
+      "speaker": "Crest",
+      "line": "I mean, um, it's in the report.",
+      "order": null
+    },
+    "0e76e7e": {
+      "speaker": "Rest",
+      "line": "I don't care about exactly what happened.",
+      "order": null
+    },
+    "07b4f04": {
+      "speaker": "Rest",
+      "line": "I just want to know how.",
+      "order": null
+    },
+    "003ad4b": {
+      "speaker": "Rest",
+      "line": "Can you please explain that to me?",
+      "order": null
+    },
+    "0603ede": {
+      "speaker": "Crest",
+      "line": "...it happened fast. What \"it\" is we don't really have a clear answer on, at least as far as what set it all off.",
+      "order": null
+    },
+    "0c997cb": {
+      "speaker": "Rest",
+      "line": "Mm. And you don't have that answer because you weren't even on site when it started.",
+      "order": null
+    },
+    "0591925": {
+      "speaker": "Crest",
+      "line": "Uh, I mean, the second I got there, it was-",
+      "order": null
+    },
+    "05a0c6a": {
+      "speaker": "Rest",
+      "line": "We have, I am led to believe, history's most advanced threat monitoring system.",
+      "order": null
+    },
+    "0f45a21": {
+      "speaker": "Rest",
+      "line": "And the site where it all started is, again, I am led to believe, supposedly one of our most secure.",
+      "order": null
+    },
+    "0ebcbe5": {
+      "speaker": "Rest",
+      "line": "And yet one officer was on site at the time...",
+      "order": null
+    },
+    "00dbca1": {
+      "speaker": "Rest",
+      "line": "...and it was someone whose salary wouldn't even pay for your shoes.",
+      "order": null
+    },
+    "0f0bf6a": {
+      "speaker": "Crest",
+      "line": "You...you...if-",
+      "order": null
+    },
+    "05e3179": {
+      "speaker": "Rest",
+      "line": "DC, you're with me.",
+      "order": null
+    },
+    "0e38a70": {
+      "speaker": "Rest",
+      "line": "...nobody else inside.",
+      "order": null
+    },
+    "0765c6c": {
+      "speaker": "Rest",
+      "line": "What's your read?",
+      "order": null
+    },
+    "01ab581": {
+      "speaker": "DC",
+      "line": "Impossible to have one this early. And that's even assuming any of Crest's report is accurate.",
+      "order": null
+    },
+    "04f8e3f": {
+      "speaker": "Rest",
+      "line": "You have doubts?",
+      "order": null
+    },
+    "0d1dd6a": {
+      "speaker": "DC",
+      "line": "Not about him. He's doing better than you're giving him credit for.",
+      "order": null
+    },
+    "0d4ca8d": {
+      "speaker": "DC",
+      "line": "It's the people under him. Frankly, they're afraid of you and it's coloring things.",
+      "order": null
+    },
+    "01644f3": {
+      "speaker": "Rest",
+      "line": "And you don't think Crest is afraid?",
+      "order": null
+    },
+    "02f93a4": {
+      "speaker": "DC",
+      "line": "Only of the situation. And, maybe, of doing a bad job.",
+      "order": null
+    }
   }
 }
