@@ -3,4450 +3,4450 @@
     "053ce02": {
       "speaker": "ReporteronTV",
       "line": "It's impossible to say for sure, but sources tell us with certainty...",
-      "order": null
+      "order": 1
     },
     "0e3736e": {
       "speaker": "ReporteronTV",
       "line": "...the latest in a series of high-profile HARM arrests are Treble and Clef.",
-      "order": null
+      "order": 2
     },
     "0e6bee8": {
       "speaker": "ReporteronTV",
       "line": "This is the seventh such arrest of the once popular duo, and the most serious one yet.",
-      "order": null
+      "order": 3
     },
     "082a478": {
       "speaker": "ReporteronTV",
       "line": "They're suspected to be connected to the massive act of highway terrorism last night.",
-      "order": null
+      "order": 4
     }
   },
   "C1_QuaverRescueRequest": {
     "093b11f": {
       "speaker": "Beat",
       "line": "Holy shit.",
-      "order": null
+      "order": 1
     },
     "068cdc2": {
       "speaker": "Quaver",
       "line": "Did they get arrested because of us?",
-      "order": null
+      "order": 2
     },
     "069c37e": {
       "speaker": "Beat",
       "line": "Could you say that any louder?",
-      "order": null
+      "order": 3
     },
     "0072cb5": {
       "speaker": "Beat",
       "line": "And look at those guys. I have both my arms and you're, like, three feet tall.",
-      "order": null
+      "order": 4
     },
     "00edf0d": {
       "speaker": "Quaver",
       "line": "That's only because I haven't finished growing yet.",
-      "order": null
+      "order": 5
     }
   },
   "C1_Setpiece_Transition_To": {
     "095a1a7": {
       "speaker": "Quaver",
       "line": "People should be on the train by now.",
-      "order": null
+      "order": 1
     },
     "0a2697e": {
       "speaker": "Quaver",
       "line": "Penny should have made it here with us.",
-      "order": null
+      "order": 2
     },
     "0f38191": {
       "speaker": "Quaver",
       "line": "It's almost like-",
-      "order": null
+      "order": 3
     },
     "0254b8b": {
       "speaker": "Clef",
       "line": "Shut up. Do you hear that?",
-      "order": null
+      "order": 4
     },
     "0c0640e": {
       "speaker": "Beat",
       "line": "No.",
-      "order": null
+      "order": 5
     },
     "016e4b7": {
       "speaker": "Clef",
       "line": "Hold on a second.",
-      "order": null
+      "order": 6
     },
     "0d00112": {
       "speaker": "Treble",
       "line": "it's like...bees? i hear it too, guys. she's not crazy... this time.",
-      "order": null
+      "order": 7
     },
     "0386c36": {
       "speaker": "Beat",
       "line": "Are you sure about that?",
-      "order": null
+      "order": 8
     },
     "070e62e": {
       "speaker": "Clef",
       "line": "THEY'RE SHOOTING AT US?",
-      "order": null
+      "order": 9
     },
     "01d0da0": {
       "speaker": "Treble",
       "line": "they shot at me, at least",
-      "order": null
+      "order": 10
     },
     "0ac5020": {
       "speaker": "Beat",
       "line": "It's not like this is the first time!",
-      "order": null
+      "order": 11
     },
     "0cc52e6": {
       "speaker": "Clef",
       "line": "WE HAVE A KID WITH US.",
-      "order": null
+      "order": 12
     },
     "0102f40": {
       "speaker": "Beat",
       "line": "It's not like this is the first time!",
-      "order": null
+      "order": 13
     },
     "0361b38": {
       "speaker": "Quaver",
       "line": "I don't think they're lethal. The casings are rubber, so-",
-      "order": null
+      "order": 14
     },
     "0b2a7bf": {
       "speaker": "Clef",
       "line": "WOW. I'M SO RELIEVED.",
-      "order": null
+      "order": 15
     },
     "098e618": {
       "speaker": "Clef",
       "line": "Now, when I'm PELTED WITH BULLETS,",
-      "order": null
+      "order": 16
     },
     "0578e81": {
       "speaker": "Clef",
       "line": "Covered in BRUISES,",
-      "order": null
+      "order": 17
     },
     "0f8e599": {
       "speaker": "Clef",
       "line": "Probably BLEEDING,",
-      "order": null
+      "order": 18
     },
     "01e9e55": {
       "speaker": "Clef",
       "line": "at least I'll still be alive to feel it!",
-      "order": null
+      "order": 19
     },
     "0680ff0": {
       "speaker": "Treble",
       "line": "beat you're doing great by the way",
-      "order": null
+      "order": 20
     },
     "0c5b45d": {
       "speaker": "Beat",
       "line": "Do we have a plan that's not just...me?",
-      "order": null
+      "order": 21
     },
     "0305729": {
       "speaker": "Clef",
       "line": "We play instruments.",
-      "order": null
+      "order": 22
     },
     "0e81f44": {
       "speaker": "Treble",
       "line": "i got...concerns.",
-      "order": null
+      "order": 23
     },
     "0dbce4d": {
       "speaker": "Clef",
       "line": "WHO CARES?",
-      "order": null
+      "order": 24
     },
     "0f8b639": {
       "speaker": "Clef",
       "line": "It clearly worked for these two back on the highway-",
-      "order": null
+      "order": 25
     },
     "05fcc04": {
       "speaker": "Beat",
       "line": "You said that was stupid!",
-      "order": null
+      "order": 26
     },
     "0cf2895": {
       "speaker": "Clef",
       "line": "What's the worst that could happen?",
-      "order": null
+      "order": 27
     },
     "013070a": {
       "speaker": "Beat",
       "line": "...we die?",
-      "order": null
+      "order": 28
     },
     "0398ec4": {
       "speaker": "Clef",
       "line": "Not if we...",
-      "order": null
+      "order": 29
     },
     "045a6ce": {
       "speaker": "Clef",
       "line": "...don't!",
-      "order": null
+      "order": 30
     },
     "0b5d288": {
       "speaker": "Clef",
       "line": "Who has a better idea?",
-      "order": null
+      "order": 31
     },
     "06b88d7": {
       "speaker": "Beat",
       "line": "Well, I don't yet, but-",
-      "order": null
+      "order": 32
     },
     "085b6d7": {
       "speaker": "Clef",
       "line": "NO FURTHER QUESTIONS THEN.",
-      "order": null
+      "order": 33
     },
     "0f61116": {
       "speaker": "Treble",
       "line": "she's not gonna stop.",
-      "order": null
+      "order": 34
     },
     "0f79648": {
       "speaker": "Treble",
       "line": "so.",
-      "order": null
+      "order": 35
     },
     "08cc23a": {
       "speaker": "Clef",
       "line": "WHY IS NOBODY ELSE SETTING THEIR STUFF UP?",
-      "order": null
+      "order": 36
     },
     "00de1d5": {
       "speaker": "Quaver",
       "line": "Give me a second!",
-      "order": null
+      "order": 37
     },
     "0180e17": {
       "speaker": "Clef",
       "line": "I'll give you three.",
-      "order": null
+      "order": 38
     }
   },
   "C1_Start": {
     "0813116": {
       "speaker": "Interviewer",
       "line": "...now, I don't mean to bring the mood down, but...it must have been so hard, growing up without parents.",
-      "order": null
+      "order": 1
     },
     "015c3b2": {
       "speaker": "Interviewer",
       "line": "You two have overcome so much together.",
-      "order": null
+      "order": 2
     },
     "0d84128": {
       "speaker": "Interviewer",
       "line": "How has that struggle impacted you two?",
-      "order": null
+      "order": 3
     },
     "06a2670": {
       "speaker": "Past Clef",
       "line": "Well, you have parents, and we're doing better than you.",
-      "order": null
+      "order": 4
     },
     "05a11d9": {
       "speaker": "Interviewee1",
       "line": "Yeah, they're, uh, a mega fresh shot of air. Shot of fresh air. Just a shot of air.",
-      "order": null
+      "order": 5
     },
     "01d1f43": {
       "speaker": "Interviewee2",
       "line": "I'm a grown-ass dude, and these dudes are kids, and they're doing this? Cool,",
-      "order": null
+      "order": 6
     },
     "06d23db": {
       "speaker": "Interviewee3",
       "line": "I wish I was a kid again",
-      "order": null
+      "order": 7
     },
     "03712eb": {
       "speaker": "Narrator",
       "line": "Treble and Clef's rise is almost as unbelievable as their sound.",
-      "order": null
+      "order": 8
     },
     "0b12f0a": {
       "speaker": "Narrator",
       "line": "But, while it seems impossible to imagine now, their lives used to be anything but glamorous.",
-      "order": null
+      "order": 9
     },
     "08dab61": {
       "speaker": "Narrator",
       "line": "The two of them grew up without parents and without a home. Unloved, unhoused, and unknown...",
-      "order": null
+      "order": 10
     },
     "0bb6fe2": {
       "speaker": "Narrator",
       "line": "They were doomed to be permanent underdogs.",
-      "order": null
+      "order": 11
     },
     "04fa47b": {
       "speaker": "Narrator",
       "line": "But it turns out the only thing they were missing...was understanding. Themselves.",
-      "order": null
+      "order": 12
     },
     "0a11acd": {
       "speaker": "Narrator",
       "line": "You see, Treble and Clef weren't just twins. They were twin prodigies.",
-      "order": null
+      "order": 13
     }
   },
   "C1_Start_Twins_Arrested": {
     "0b65f86": {
       "speaker": "Guard2",
       "line": "Uh. Yes?",
-      "order": null
+      "order": 1
     },
     "08ec60e": {
       "speaker": "Guard2",
       "line": "Eh.",
-      "order": null
+      "order": 2
     },
     "0d788cd": {
       "speaker": "Treble",
       "line": "wow",
-      "order": null
+      "order": 3
     },
     "027a0f6": {
       "speaker": "Guard2",
       "line": "They were okay.",
-      "order": null
+      "order": 4
     },
     "0733706": {
       "speaker": "Treble",
       "line": "honestly i'd rather you hated us",
-      "order": null
+      "order": 5
     },
     "0fb248f": {
       "speaker": "Guard2",
       "line": "Were. They should have known better.",
-      "order": null
+      "order": 6
     },
     "0dd3eb2": {
       "speaker": "Clef",
       "line": "You say \"they\" like we're not right HERE.",
-      "order": null
+      "order": 7
     },
     "0c5cc46": {
       "speaker": "Guard2",
       "line": "They just got out of prison from their last stint.",
-      "order": null
+      "order": 8
     },
     "0ec711e": {
       "speaker": "Clef",
       "line": "YEAH? Well, if you're working here so much, you, same thing!",
-      "order": null
+      "order": 9
     },
     "0880dfe": {
       "speaker": "Treble",
       "line": "i have a migrane can you wait before you start doing this",
-      "order": null
+      "order": 10
     }
   },
   "ClefBeatRound2": {
     "0c726ff": {
       "speaker": "Clef",
       "line": "We didn't get to finish the conversation earlier.",
-      "order": null
+      "order": 1
     },
     "0e892d0": {
       "speaker": "Beat",
       "line": "Not my fault.",
-      "order": null
+      "order": 2
     },
     "033296d": {
       "speaker": "Clef",
       "line": "What is with your attitude?",
-      "order": null
+      "order": 3
     },
     "0398051": {
       "speaker": "Beat",
       "line": "Besides being in prison?",
-      "order": null
+      "order": 4
     },
     "09f6f00": {
       "speaker": "Clef",
       "line": "That's the attitude I mean.",
-      "order": null
+      "order": 5
     },
     "06ff86d": {
       "speaker": "Clef",
       "line": "I've been dealing with this shit way longer than you!",
-      "order": null
+      "order": 6
     },
     "09caead": {
       "speaker": "Clef",
       "line": "I've been in this longer than you.",
-      "order": null
+      "order": 7
     },
     "0d8e7f4": {
       "speaker": "Clef",
       "line": "And instead of ANY kind of respect for that..",
-      "order": null
+      "order": 8
     },
     "067d653": {
       "speaker": "Clef",
       "line": "...you come in here acting like you're the protagonist of the universe.",
-      "order": null
+      "order": 9
     },
     "0210fbf": {
       "speaker": "Clef",
       "line": "You can't keep just doing shit because you feel like it.",
-      "order": null
+      "order": 10
     },
     "081f430": {
       "speaker": "Beat",
       "line": "Do you think I \"feel like\" any of this?",
-      "order": null
+      "order": 11
     }
   },
   "ClefBeatRound2Aftermath": {
     "014b3fc": {
       "speaker": "ClefPostFight",
       "line": "Ugh.",
-      "order": null
+      "order": 1
     },
     "0ca975d": {
       "speaker": "GuardPostFight",
       "line": "The hell are you two up to?",
-      "order": null
+      "order": 2
     },
     "06c9f95": {
       "speaker": "BeatPostFight",
       "line": "Sh-",
-      "order": null
+      "order": 3
     },
     "05f55dc": {
       "speaker": "ClefPostFight",
       "line": "We found the place like this.",
-      "order": null
+      "order": 4
     },
     "0c4cac2": {
       "speaker": "BeatPostFight",
       "line": "Uh-",
-      "order": null
+      "order": 5
     },
     "0d01b9b": {
       "speaker": "ClefPostFight",
       "line": "Dunno what happened.",
-      "order": null
+      "order": 6
     },
     "09d503e": {
       "speaker": "ClefPostFight",
       "line": "Anyway, I think we were late to work?",
-      "order": null
+      "order": 7
     },
     "08ba0cc": {
       "speaker": "GuardPostFight",
       "line": "...",
-      "order": null
+      "order": 8
     },
     "0d70be4": {
       "speaker": "ClefPostFight",
       "line": "Can we go now?",
-      "order": null
+      "order": 9
     },
     "09cc0c9": {
       "speaker": "GuardPostFight",
       "line": "Be quick about it.",
-      "order": null
+      "order": 10
     },
     "0d0e98c": {
       "speaker": "Beat",
       "line": "Look, I'm sorry, alright-",
-      "order": null
+      "order": 11
     },
     "0a10d8a": {
       "speaker": "Clef",
       "line": "You don't have to say anything.",
-      "order": null
+      "order": 12
     },
     "01703d0": {
       "speaker": "Clef",
       "line": "I... lost my mind.",
-      "order": null
+      "order": 13
     },
     "0eccee2": {
       "speaker": "Beat",
       "line": "I'm just trying to help.",
-      "order": null
+      "order": 14
     },
     "0b67f3e": {
       "speaker": "Clef",
       "line": "I know.",
-      "order": null
+      "order": 15
     },
     "0555e83": {
       "speaker": "Clef",
       "line": "So, um...",
-      "order": null
+      "order": 16
     },
     "0a823c4": {
       "speaker": "Clef",
       "line": "I...can be annoying.",
-      "order": null
+      "order": 17
     }
   },
   "Interrogation_Beat": {
     "016118d": {
       "speaker": "DC",
       "line": "So, those other three you came in with?",
-      "order": null
+      "order": 1
     },
     "0cd53f2": {
       "speaker": "DC",
       "line": "I know them. Some of them real well.",
-      "order": null
+      "order": 2
     },
     "0b33e1b": {
       "speaker": "DC",
       "line": "I can guess at why any of them would be in there.",
-      "order": null
+      "order": 3
     },
     "01e0c19": {
       "speaker": "Beat",
       "line": "Even the ten year old?",
-      "order": null
+      "order": 4
     },
     "095fd3b": {
       "speaker": "DC",
       "line": "She's actually twelve.",
-      "order": null
+      "order": 5
     },
     "01d8ada": {
       "speaker": "Beat",
       "line": "I know. I know her.",
-      "order": null
+      "order": 6
     },
     "0584704": {
       "speaker": "DC",
       "line": "Do you? What, did they put you up to it?",
-      "order": null
+      "order": 7
     },
     "0ec2679": {
       "speaker": "DC",
       "line": "Or was it...you?",
-      "order": null
+      "order": 8
     },
     "0e643bf": {
       "speaker": "DC",
       "line": "Was this premeditated?",
-      "order": null
+      "order": 9
     },
     "060c674": {
       "speaker": "Beat",
       "line": "Oh, come on, man. Seriously?",
-      "order": null
+      "order": 10
     },
     "07c3835": {
       "speaker": "DC",
       "line": "\"Seriously\" what?",
-      "order": null
+      "order": 11
     },
     "002c14a": {
       "speaker": "Beat",
       "line": "I know what you're doing.",
-      "order": null
+      "order": 12
     },
     "0124574": {
       "speaker": "DC",
       "line": "Well, pretend I don't.",
-      "order": null
+      "order": 13
     },
     "0a98848": {
       "speaker": "Beat",
       "line": "The false confession thing.",
-      "order": null
+      "order": 14
     },
     "0528d22": {
       "speaker": "Beat",
       "line": "There's a whole playbook of this stuff.",
-      "order": null
+      "order": 15
     },
     "031ed3d": {
       "speaker": "DC",
       "line": "Uh-huh.",
-      "order": null
+      "order": 16
     },
     "0398573": {
       "speaker": "Beat",
       "line": "See, the question is bad.",
-      "order": null
+      "order": 17
     },
     "0cb45a3": {
       "speaker": "Beat",
       "line": "Answering in either direction is like saying \"yes, I did it.\"",
-      "order": null
+      "order": 18
     },
     "0033288": {
       "speaker": "Beat",
       "line": "\"When did you start beating your wife?\"",
-      "order": null
+      "order": 19
     },
     "0d249cf": {
       "speaker": "Beat",
       "line": "That kind of thing.",
-      "order": null
+      "order": 20
     },
     "0efd2c3": {
       "speaker": "Beat",
       "line": "So even if I didn't do it, either way I'm saying I did.",
-      "order": null
+      "order": 21
     },
     "066476d": {
       "speaker": "Beat",
       "line": "Which is why, you know, you should never talk to cops.",
-      "order": null
+      "order": 22
     },
     "0ed005a": {
       "speaker": "DC",
       "line": "Well, two things about that.",
-      "order": null
+      "order": 23
     },
     "0f9c88e": {
       "speaker": "DC",
       "line": "One: talk or not, you're not leaving until I let you.",
-      "order": null
+      "order": 24
     },
     "0826bdc": {
       "speaker": "DC",
       "line": "Two: I don't need to get a false confession.",
-      "order": null
+      "order": 25
     },
     "035e8fd": {
       "speaker": "DC",
       "line": "I have goddamn evidence.",
-      "order": null
+      "order": 26
     },
     "0ad4812": {
       "speaker": "Beat",
       "line": "Do you though?",
-      "order": null
+      "order": 27
     },
     "0c29571": {
       "speaker": "DC",
       "line": "This isn't about if you think the law is right.",
-      "order": null
+      "order": 28
     },
     "09482b7": {
       "speaker": "DC",
       "line": "This is about you breaking it.",
-      "order": null
+      "order": 29
     },
     "0e6062b": {
       "speaker": "Beat",
       "line": "...oh my god, you really have nothing?",
-      "order": null
+      "order": 30
     },
     "0817940": {
       "speaker": "DC",
       "line": "You trespassed on HARM property. That's more than enough.",
-      "order": null
+      "order": 31
     },
     "0f57286": {
       "speaker": "Beat",
       "line": "That's IT? Oh, man, I was right!",
-      "order": null
+      "order": 32
     },
     "08eb80f": {
       "speaker": "DC",
       "line": "Even barely touching the ground here is a felony.",
-      "order": null
+      "order": 33
     },
     "0802160": {
       "speaker": "Beat",
       "line": "Oh, sure, whatever, like I believe that.",
-      "order": null
+      "order": 34
     },
     "0b9e74f": {
       "speaker": "Beat",
       "line": "I actually didn't expect your case to be this thin.",
-      "order": null
+      "order": 35
     },
     "0b799f7": {
       "speaker": "Beat",
       "line": "I know how this stuff works.",
-      "order": null
+      "order": 36
     },
     "05f214b": {
       "speaker": "DC",
       "line": "So you've told me.",
-      "order": null
+      "order": 37
     },
     "0d7f3ec": {
       "speaker": "Beat",
       "line": "There's no way what you're saying is true.",
-      "order": null
+      "order": 38
     },
     "0d27c13": {
       "speaker": "Beat",
       "line": "Sure, I was near the building. But it's unmarked, and I wasn't warned.",
-      "order": null
+      "order": 39
     },
     "0bda4b0": {
       "speaker": "Beat",
       "line": "I know my rights-",
-      "order": null
+      "order": 40
     },
     "01afdc0": {
       "speaker": "DC",
       "line": "You don't have rights.",
-      "order": null
+      "order": 41
     },
     "0868dc2": {
       "speaker": "DC",
       "line": "The second you got processed, you became state property.",
-      "order": null
+      "order": 42
     },
     "0ba8947": {
       "speaker": "DC",
       "line": "Like a paperweight made of bones.",
-      "order": null
+      "order": 43
     },
     "0c6e326": {
       "speaker": "DC",
       "line": "We literally own you, and I cannot stress enough that I mean \"literally\" literally.",
-      "order": null
+      "order": 44
     },
     "080f252": {
       "speaker": "Beat",
       "line": "Tip of my tongue.",
-      "order": null
+      "order": 45
     },
     "05694d8": {
       "speaker": "Beat",
       "line": "Something like that.",
-      "order": null
+      "order": 46
     },
     "05e81b5": {
       "speaker": "Beat",
       "line": "At least close to that.",
-      "order": null
+      "order": 47
     },
     "0312266": {
       "speaker": "Beat",
       "line": "Right, yeah. Chicago guy?",
-      "order": null
+      "order": 48
     },
     "0b38ada": {
       "speaker": "Beat",
       "line": "I'm pretty sure that was the guy's name.",
-      "order": null
+      "order": 49
     },
     "0c10975": {
       "speaker": "Beat",
       "line": "...no, that wasn't it.",
-      "order": null
+      "order": 50
     },
     "0670c84": {
       "speaker": "Beat",
       "line": "Whatever. It's in my brain somewhere.",
-      "order": null
+      "order": 51
     },
     "0c63dc0": {
       "speaker": "Beat",
       "line": "The point is, that technique is trademarked.",
-      "order": null
+      "order": 52
     },
     "024438a": {
       "speaker": "Beat",
       "line": "Like, corporatized.",
-      "order": null
+      "order": 53
     },
     "078dffb": {
       "speaker": "DC",
       "line": "Okay, wow, someone sounds like she read up.",
-      "order": null
+      "order": 54
     },
     "09b1efe": {
       "speaker": "Beat",
       "line": "I know a thing or two-",
-      "order": null
+      "order": 55
     },
     "0225e06": {
       "speaker": "DC",
       "line": "Sounds like. See, I have no idea what you're talking about.",
-      "order": null
+      "order": 56
     },
     "03ede66": {
       "speaker": "DC",
       "line": "I feel like I'm talking to a book.",
-      "order": null
+      "order": 57
     },
     "023ae4e": {
       "speaker": "DC",
       "line": "...look, we're getting nowhere.",
-      "order": null
+      "order": 58
     },
     "0cc43bc": {
       "speaker": "DCLean",
       "line": "I'll let you go for now if you answer this question.",
-      "order": null
+      "order": 59
     },
     "0f090de": {
       "speaker": "DC",
       "line": "Who are you?",
-      "order": null
+      "order": 60
     },
     "01cbb1f": {
       "speaker": "Beat",
       "line": "What?",
-      "order": null
+      "order": 61
     },
     "090cc34": {
       "speaker": "DCBeat",
       "line": "Come on, this isn't a hard one.",
-      "order": null
+      "order": 62
     },
     "0cb96ef": {
       "speaker": "DCBeat",
       "line": "We don't even have your name.",
-      "order": null
+      "order": 63
     },
     "01ad038": {
       "speaker": "Beat",
       "line": "Nobody asked.",
-      "order": null
+      "order": 64
     },
     "0d26bc2": {
       "speaker": "DC",
       "line": "That's because we're not supposed to need to ask.",
-      "order": null
+      "order": 65
     },
     "07805ee": {
       "speaker": "DC",
       "line": "We know everyone who comes through here intimately.",
-      "order": null
+      "order": 66
     },
     "081eb7b": {
       "speaker": "Beat",
       "line": "Intimately how-",
-      "order": null
+      "order": 67
     },
     "06c2457": {
       "speaker": "DC",
       "line": "Exactly how you'd think. Maybe even more than you'd think.",
-      "order": null
+      "order": 68
     },
     "02b3e9c": {
       "speaker": "DC",
       "line": "So. Who are you?",
-      "order": null
+      "order": 69
     },
     "0322e12": {
       "speaker": "ob1DC",
       "line": "Okay, fine. Don't say there wasn't an olive branch.",
-      "order": null
+      "order": 70
     },
     "04b49ad": {
       "speaker": "ob1DC",
       "line": "Have fun sitting there.",
-      "order": null
+      "order": 71
     },
     "0667298": {
       "speaker": "obBlackGuard",
       "line": "It's time to go.",
-      "order": null
+      "order": 72
     },
     "03f3f47": {
       "speaker": "obBlackBeat",
       "line": "No lunch?",
-      "order": null
+      "order": 73
     },
     "0563a19": {
       "speaker": "obBlackGuard",
       "line": "You're hardly starving. Get up.",
-      "order": null
+      "order": 74
     },
     "0514975": {
       "speaker": "obBlackGuard",
       "line": "You have to be back at work in fifteen minutes.",
-      "order": null
+      "order": 75
     }
   },
   "Interrogation_Clef": {
     "0d51f39": {
       "speaker": "DC",
       "line": "Hello, again.",
-      "order": null
+      "order": 1
     },
     "08c4315": {
       "speaker": "Clef",
       "line": "What did you say to Treb, you psycho?",
-      "order": null
+      "order": 2
     },
     "0922292": {
       "speaker": "DC",
       "line": "You know you're basically wearing a shock collar, right?",
-      "order": null
+      "order": 3
     },
     "0963a00": {
       "speaker": "DC",
       "line": "Like the kind dogs wear.",
-      "order": null
+      "order": 4
     },
     "0429087": {
       "speaker": "Clef",
       "line": "It'd be worth it.",
-      "order": null
+      "order": 5
     },
     "08e5149": {
       "speaker": "DC",
       "line": "You don't know what \"it\" even is- Calm down.",
-      "order": null
+      "order": 6
     },
     "0afc0f1": {
       "speaker": "DC",
       "line": "Always so quick to jump into things.",
-      "order": null
+      "order": 7
     },
     "0740ce7": {
       "speaker": "DC",
       "line": "Look. We don't like each other.",
-      "order": null
+      "order": 8
     },
     "050dd2b": {
       "speaker": "DC",
       "line": "That's fine. We can still find common ground.",
-      "order": null
+      "order": 9
     },
     "0dd9dfe": {
       "speaker": "DC",
       "line": "What I said to your brother was pretty simple:",
-      "order": null
+      "order": 10
     },
     "0cc8d8a": {
       "speaker": "DC",
       "line": "I told him I don't believe a word of the reports surrounding your arrest.",
-      "order": null
+      "order": 11
     },
     "005944a": {
       "speaker": "DC",
       "line": "I don't think you've been involved in anything.",
-      "order": null
+      "order": 12
     },
     "085ec9e": {
       "speaker": "Clef",
       "line": "...of...course...we- of course we were.",
-      "order": null
+      "order": 13
     },
     "009e0a6": {
       "speaker": "Clef",
       "line": "You know me. I'm-",
-      "order": null
+      "order": 14
     },
     "0871ca5": {
       "speaker": "DC",
       "line": "You're not a very good liar.",
-      "order": null
+      "order": 15
     },
     "047f1c9": {
       "speaker": "DC",
       "line": "What, are you covering for someone?",
-      "order": null
+      "order": 16
     },
     "0336d78": {
       "speaker": "DC",
       "line": "You got in a fight with one of your new cellmates when she arrived.",
-      "order": null
+      "order": 17
     },
     "090ec5b": {
       "speaker": "DC",
       "line": "She's actually the person I'm wondering about.",
-      "order": null
+      "order": 18
     },
     "093bb33": {
       "speaker": "DC",
       "line": "What can you tell me about her?",
-      "order": null
+      "order": 19
     },
     "0e20ba2": {
       "speaker": "Clef",
       "line": "She's nothing.",
-      "order": null
+      "order": 20
     },
     "0efc652": {
       "speaker": "DC",
       "line": "Because you don't want her to-",
-      "order": null
+      "order": 21
     },
     "0b71320": {
       "speaker": "Clef",
       "line": "Because \"nothing\" is all I know.",
-      "order": null
+      "order": 22
     },
     "0f645da": {
       "speaker": "Clef",
       "line": "That's...that's the truth.",
-      "order": null
+      "order": 23
     },
     "07497b7": {
       "speaker": "Clef",
       "line": "You'll think I'm lying anyway, but I'm not.",
-      "order": null
+      "order": 24
     },
     "03df2fb": {
       "speaker": "DC",
       "line": "So why the fight?",
-      "order": null
+      "order": 25
     },
     "0566a0d": {
       "speaker": "Clef",
       "line": "I... don't know, I got mad at her.",
-      "order": null
+      "order": 26
     },
     "0a80d89": {
       "speaker": "DC",
       "line": "Why? What did she do?",
-      "order": null
+      "order": 27
     },
     "04efa7d": {
       "speaker": "Clef",
       "line": "She has a stupid face.",
-      "order": null
+      "order": 28
     }
   },
   "Interrogation_Quaver": {
     "0f7d4b1": {
       "speaker": "DC",
       "line": "...hhh, God.",
-      "order": null
+      "order": 1
     },
     "04e1be0": {
       "speaker": "DC",
       "line": "I remember when you were half your age.",
-      "order": null
+      "order": 2
     },
     "0cb5889": {
       "speaker": "DC",
       "line": "It makes me feel... mine.",
-      "order": null
+      "order": 3
     },
     "00b8414": {
       "speaker": "Quaver",
       "line": "What's wrong? Interrogate me.",
-      "order": null
+      "order": 4
     },
     "05c0c01": {
       "speaker": "Quaver",
       "line": "I know you didn't hesitate with my friends",
-      "order": null
+      "order": 5
     },
     "0335f7b": {
       "speaker": "DC",
       "line": "Kid, you're breaking my heart.",
-      "order": null
+      "order": 6
     },
     "0d7f368": {
       "speaker": "Quaver",
       "line": "I'm surprised you still have one.",
-      "order": null
+      "order": 7
     },
     "04d9732": {
       "speaker": "DC",
       "line": "Yeesh... you really think that about me?",
-      "order": null
+      "order": 8
     },
     "07cac26": {
       "speaker": "Quaver",
       "line": "Yep.",
-      "order": null
+      "order": 9
     },
     "0303af0": {
       "speaker": "DC",
       "line": "You don't mean that. Are you really sure about all this?",
-      "order": null
+      "order": 10
     },
     "0bea28c": {
       "speaker": "Quaver",
       "line": "That's a weird question to ask a perp.",
-      "order": null
+      "order": 11
     },
     "07bc434": {
       "speaker": "DC",
       "line": "Ugh. Every once in a while you make it really obvious you're a child.",
-      "order": null
+      "order": 12
     },
     "002c5f7": {
       "speaker": "DC",
       "line": "Which is why I won't bullshit you: you shouldn't even be in here.",
-      "order": null
+      "order": 13
     },
     "0bd4a91": {
       "speaker": "DC",
       "line": "Them processing you at all is already a triple bypass bureaucratic heart attack.",
-      "order": null
+      "order": 14
     },
     "0d9289a": {
       "speaker": "Quaver",
       "line": "Am I really the first kid to get thrown into a HARM facility?",
-      "order": null
+      "order": 15
     },
     "0f22bdb": {
       "speaker": "DC",
       "line": "I can't tell you that.",
-      "order": null
+      "order": 16
     },
     "00809fd": {
       "speaker": "DC",
       "line": "What I can tell you is that I'd be using stronger language if you weren't twelve.",
-      "order": null
+      "order": 17
     },
     "0a921fa": {
       "speaker": "DC",
       "line": "Why are you running with those guys, anyway?",
-      "order": null
+      "order": 18
     },
     "0e57817": {
       "speaker": "DC",
       "line": "They're bad news. You've seen it.",
-      "order": null
+      "order": 19
     },
     "0ba77c5": {
       "speaker": "DC",
       "line": "Treble and Clef are notorious enough to not need a recap.",
-      "order": null
+      "order": 20
     },
     "06c2d5a": {
       "speaker": "DC",
       "line": "And your friend with the pink hair got into a fist fight within five seconds of getting here.",
-      "order": null
+      "order": 21
     },
     "06815b5": {
       "speaker": "DC",
       "line": "They're just...not a good crowd of folks. I don't like to see a little kid get hurt. That's all.",
-      "order": null
+      "order": 22
     },
     "049df48": {
       "speaker": "Quaver",
       "line": "They're my crowd of folks.",
-      "order": null
+      "order": 23
     }
   },
   "Interrogation_Treble": {
     "0f9e269": {
       "speaker": "DC",
       "line": "Treble.",
-      "order": null
+      "order": 1
     },
     "0921f6e": {
       "speaker": "Treble",
       "line": "cop.",
-      "order": null
+      "order": 2
     },
     "0c5f4ed": {
       "speaker": "DC",
       "line": "Oh, wow.",
-      "order": null
+      "order": 3
     },
     "00d90c8": {
       "speaker": "DC",
       "line": "I guess that's about the level of respect I should expect.",
-      "order": null
+      "order": 4
     },
     "0c53add": {
       "speaker": "DC",
       "line": "Why the relapse? You two were good for a while there.",
-      "order": null
+      "order": 5
     },
     "033511e": {
       "speaker": "DC",
       "line": "Wanna know my theory?",
-      "order": null
+      "order": 6
     },
     "04b9143": {
       "speaker": "Treble",
       "line": "...",
-      "order": null
+      "order": 7
     },
     "08578a7": {
       "speaker": "DC",
       "line": "You're uncharacteristically un-chatty. Fine by me.",
-      "order": null
+      "order": 8
     },
     "0976647": {
       "speaker": "DC",
       "line": "I'll do the chatting for both of us, then.",
-      "order": null
+      "order": 9
     },
     "0908ee8": {
       "speaker": "DC",
       "line": "That work for you?",
-      "order": null
+      "order": 10
     },
     "0e99f0e": {
       "speaker": "DC",
       "line": "Great. Fall asleep in the chair for all I care.",
-      "order": null
+      "order": 11
     },
     "0a6242d": {
       "speaker": "DC",
       "line": "I'll just level with you: I don't think you or Clef actually did anything.",
-      "order": null
+      "order": 12
     },
     "0b550d6": {
       "speaker": "DC",
       "line": "At least not since the last time you got out.",
-      "order": null
+      "order": 13
     },
     "00b6b96": {
       "speaker": "Treble",
       "line": "then why are we here",
-      "order": null
+      "order": 14
     },
     "0d663e9": {
       "speaker": "DC",
       "line": "He talks!",
-      "order": null
+      "order": 15
     },
     "0d9da48": {
       "speaker": "DC",
       "line": "That depends on what you mean by \"here.\"",
-      "order": null
+      "order": 16
     },
     "00eceb9": {
       "speaker": "DC",
       "line": "You're in prison because, frankly, everyone thinks you did this.",
-      "order": null
+      "order": 17
     },
     "0c674f0": {
       "speaker": "DC",
       "line": "Nobody's surprised by it. Nobody's looking at it.",
-      "order": null
+      "order": 18
     },
     "0013313": {
       "speaker": "Treble",
       "line": "what is \"this,\" exactly",
-      "order": null
+      "order": 19
     },
     "03239b9": {
       "speaker": "DC",
       "line": "Let me finish, friend.",
-      "order": null
+      "order": 20
     },
     "02b8525": {
       "speaker": "DC",
       "line": "Anyway, that's why you're in prison.",
-      "order": null
+      "order": 21
     },
     "076d2df": {
       "speaker": "DC",
       "line": "But you're in here because I want you to help me prove my theory.",
-      "order": null
+      "order": 22
     },
     "00e27bc": {
       "speaker": "DC",
       "line": "Maybe you can?",
-      "order": null
+      "order": 23
     },
     "0beb966": {
       "speaker": "DC",
       "line": "Don't... mistake this for sympathy.",
-      "order": null
+      "order": 24
     },
     "00d9e48": {
       "speaker": "DC",
       "line": "I think you're in the right place right now.",
-      "order": null
+      "order": 25
     },
     "02f0e99": {
       "speaker": "DC",
       "line": "If I had it my way, you'd never have gotten out of prison.",
-      "order": null
+      "order": 26
     },
     "0ef58be": {
       "speaker": "DC",
       "line": "But maybe... we can help each other out.",
-      "order": null
+      "order": 27
     },
     "0b41f24": {
       "speaker": "DC",
       "line": "I know the little kid, and I know your sister.",
-      "order": null
+      "order": 28
     },
     "09b832e": {
       "speaker": "DC",
       "line": "Who's the other one?",
-      "order": null
+      "order": 29
     },
     "0a9ccc1": {
       "speaker": "DC",
       "line": "Hmm.",
-      "order": null
+      "order": 30
     },
     "0af5f94": {
       "speaker": "DC",
       "line": "You know, everyone sees you two and thinks you're keeping your sister in check.",
-      "order": null
+      "order": 31
     },
     "0a3046d": {
       "speaker": "DC",
       "line": "I don't think that's actually true.",
-      "order": null
+      "order": 32
     }
   },
   "IntroBrawlTutorial": {
     "0ccfd19": {
       "speaker": "Clef",
       "line": "Wait, the highway thing was you?",
-      "order": null
+      "order": 1
     },
     "0750c01": {
       "speaker": "Beat",
       "line": "Why would you tell them-",
-      "order": null
+      "order": 2
     }
   },
   "IntroBrawlTutorialPrep": {
     "01ce1aa": {
       "speaker": "Treble",
       "line": "wow.",
-      "order": null
+      "order": 1
     },
     "0295fc3": {
       "speaker": "Clef",
       "line": "You aren't very smart.",
-      "order": null
+      "order": 2
     },
     "03196a1": {
       "speaker": "Treble",
       "line": "i say this respectfully:",
-      "order": null
+      "order": 3
     },
     "02ada84": {
       "speaker": "Treble",
       "line": "what made you think it was possible to get us out of here?",
-      "order": null
+      "order": 4
     },
     "0d4b1d7": {
       "speaker": "Beat",
       "line": "She said she had a good idea.",
-      "order": null
+      "order": 5
     },
     "0886159": {
       "speaker": "Clef",
       "line": "Why would you listen to that?",
-      "order": null
+      "order": 6
     },
     "07cf233": {
       "speaker": "Beat",
       "line": "Because she would do it if I didn't come with her!",
-      "order": null
+      "order": 7
     },
     "0b04f95": {
       "speaker": "Clef",
       "line": "You could stop her! She's like five years old.",
-      "order": null
+      "order": 8
     },
     "0e3fabe": {
       "speaker": "Beat",
       "line": "She's...older than that.",
-      "order": null
+      "order": 9
     },
     "0e2d499": {
       "speaker": "Quaver",
       "line": "They changed the building setup. It's not my fault.",
-      "order": null
+      "order": 10
     },
     "00b8114": {
       "speaker": "Beat",
       "line": "It's your fault that you knew the building setup to begin with.",
-      "order": null
+      "order": 11
     },
     "01ccedc": {
       "speaker": "Quaver",
       "line": "The only thing that's my fault is the fact that these two are in here!",
-      "order": null
+      "order": 12
     },
     "00d0904": {
       "speaker": "Clef",
       "line": "Wait, how?",
-      "order": null
+      "order": 13
     },
     "0277609": {
       "speaker": "Quaver",
       "line": "Because of the-",
-      "order": null
+      "order": 14
     },
     "0b52173": {
       "speaker": "Beat",
       "line": "Uh, hey, no, don't-",
-      "order": null
+      "order": 15
     },
     "01f7939": {
       "speaker": "Quaver",
       "line": "They arrested you guys for the thing we-",
-      "order": null
+      "order": 16
     }
   },
   "IntroMinigameEnd": {
     "00eab8b": {
       "speaker": "BeatLeft",
       "line": "We can't worry about this! I'm sure those two will be fine.",
-      "order": null
+      "order": 1
     },
     "0061197": {
       "speaker": "QuaverLeft",
       "line": "That's not how this works. That's not how HARM works.",
-      "order": null
+      "order": 2
     },
     "03802ab": {
       "speaker": "QuaverLeft",
       "line": "They're never getting out of there.",
-      "order": null
+      "order": 3
     },
     "06a9013": {
       "speaker": "BeatLeft",
       "line": "Calm down. \"Never\" is prison, not jail. There hasn't even been a trial yet.",
-      "order": null
+      "order": 4
     },
     "0d8d2a2": {
       "speaker": "QuaverLeft",
       "line": "HARM doesn't see a difference.",
-      "order": null
+      "order": 5
     },
     "066868c": {
       "speaker": "QuaverLeft",
       "line": "There will be no trial. That was Site 14. Which makes sense, they're repeat offenders.",
-      "order": null
+      "order": 6
     },
     "0016026": {
       "speaker": "BeatLeft",
       "line": "Oh, yeah, that makes tons of sense and everyone knows this.",
-      "order": null
+      "order": 7
     },
     "0f5abcd": {
       "speaker": "BeatLeft",
       "line": "Very common knowledge.",
-      "order": null
+      "order": 8
     },
     "0fb103f": {
       "speaker": "QuaverLeft",
       "line": "We have to help them.",
-      "order": null
+      "order": 9
     },
     "0c18782": {
       "speaker": "BeatLeft",
       "line": "...look, I get it. But no.",
-      "order": null
+      "order": 10
     },
     "0d341dd": {
       "speaker": "QuaverLeft",
       "line": "Beat...",
-      "order": null
+      "order": 11
     },
     "0c3bd17": {
       "speaker": "BeatLeft",
       "line": "Quaver, Hours ago we were being chased by cops.",
-      "order": null
+      "order": 12
     },
     "0c18490": {
       "speaker": "BeatLeft",
       "line": "We are literally on the run right now.",
-      "order": null
+      "order": 13
     },
     "0c881d0": {
       "speaker": "BeatCenter",
       "line": "Us being anywhere is stupid.",
-      "order": null
+      "order": 14
     },
     "04a63e1": {
       "speaker": "BeatCenter",
       "line": "Us being here is stupid.",
-      "order": null
+      "order": 15
     },
     "0e9568e": {
       "speaker": "BeatCenter",
       "line": "And us being at some black site is double stupid.",
-      "order": null
+      "order": 16
     },
     "0289491": {
       "speaker": "QuaverCenter",
       "line": "No, it's not-",
-      "order": null
+      "order": 17
     },
     "05aa0dd": {
       "speaker": "BeatCenter",
       "line": "No?",
-      "order": null
+      "order": 18
     },
     "0dda0cf": {
       "speaker": "QuaverCenter",
       "line": "...it's not a black site. Black sites are off the books.",
-      "order": null
+      "order": 19
     },
     "0a6c128": {
       "speaker": "BeatCenter",
       "line": "What?",
-      "order": null
+      "order": 20
     },
     "0d945d5": {
       "speaker": "QuaverCenter",
       "line": "Those prisons are... financially logged. So it's more, uh, grey, I-",
-      "order": null
+      "order": 21
     },
     "05cc570": {
       "speaker": "BeatCenter",
       "line": "Because, sure, that's what matters. How do you know all this?",
-      "order": null
+      "order": 22
     },
     "06ed639": {
       "speaker": "QuaverMatch",
       "line": "I learn things. And because I know this stuff, I know we should help.",
-      "order": null
+      "order": 23
     },
     "0936530": {
       "speaker": "BeatMatch",
       "line": "You're going to do this regardless of if I come along, aren't you.",
-      "order": null
+      "order": 24
     },
     "0828f5b": {
       "speaker": "QuaverMatch",
       "line": "Of course I am.",
-      "order": null
+      "order": 25
     },
     "0c2f57c": {
       "speaker": "BeatMatch",
       "line": "And you know I'm not comfortable with physically restraining you.",
-      "order": null
+      "order": 26
     },
     "01dec45": {
       "speaker": "QuaverMatch",
       "line": "Most adults wouldn't be.",
-      "order": null
+      "order": 27
     },
     "0ae5fa9": {
       "speaker": "BeatMatch",
       "line": "But that means if I don't go along with this you're going to be in danger.",
-      "order": null
+      "order": 28
     },
     "04146b8": {
       "speaker": "BeatMatch",
       "line": "From cops.",
-      "order": null
+      "order": 29
     },
     "03618c9": {
       "speaker": "BeatMatch",
       "line": "Because you're going to the cops.",
-      "order": null
+      "order": 30
     },
     "0defdda": {
       "speaker": "BeatMatch",
       "line": "On purpose.",
-      "order": null
+      "order": 31
     },
     "0b754bb": {
       "speaker": "QuaverMatch",
       "line": "I think I'm ready to go if you are.",
-      "order": null
+      "order": 32
     },
     "072ab06": {
       "speaker": "Beat",
       "line": "Hey, nice to meet you two.",
-      "order": null
+      "order": 33
     },
     "0fbb4e8": {
       "speaker": "Beat",
       "line": "We're here because she wanted to rescue you.",
-      "order": null
+      "order": 34
     },
     "0a1f58e": {
       "speaker": "Beat",
       "line": "It's going really well.",
-      "order": null
+      "order": 35
     }
   },
   "IntroMinigameItem1": {
     "0521350": {
       "speaker": "Beat",
       "line": "...did you get the breadsticks?",
-      "order": null
+      "order": 1
     },
     "013cecd": {
       "speaker": "Quaver",
       "line": "I don't like greasy food.",
-      "order": null
+      "order": 2
     }
   },
   "IntroMinigameStart": {
     "0e0ad50": {
       "speaker": "Beat",
       "line": "I wasn't saying...",
-      "order": null
+      "order": 1
     },
     "04aa1cd": {
       "speaker": "Quaver",
       "line": "They're clearly talking about our-",
-      "order": null
+      "order": 2
     },
     "029210c": {
       "speaker": "Beat",
       "line": "A thing we shouldn't talk about.",
-      "order": null
+      "order": 3
     },
     "08ffb20": {
       "speaker": "Beat",
       "line": "But, also, come on, \"highway terrorism?\" Is it?",
-      "order": null
+      "order": 4
     },
     "0033cf1": {
       "speaker": "Quaver",
       "line": "It's not what I'd call it, but it was pretty bad by their standards.",
-      "order": null
+      "order": 5
     },
     "005cc8e": {
       "speaker": "Beat",
       "line": "Ugh.",
-      "order": null
+      "order": 6
     }
   },
   "Penny_hole": {
     "096c164": {
       "speaker": "Beat",
       "line": "Oh.",
-      "order": null
+      "order": 1
     },
     "0e781f6": {
       "speaker": "Beat",
       "line": "Cool.",
-      "order": null
+      "order": 2
     },
     "0b319b0": {
       "speaker": "Pensato",
       "line": "Hey. You're in my hole.",
-      "order": null
+      "order": 3
     },
     "03555b1": {
       "speaker": "Beat",
       "line": "Sorry, I...how did you...?",
-      "order": null
+      "order": 4
     },
     "0bf5ebf": {
       "speaker": "Pensato",
       "line": "This prison wasn't always a prison.",
-      "order": null
+      "order": 5
     },
     "0029abe": {
       "speaker": "Pensato",
       "line": "HARM actually converted most of its prisons from previously-extant buildings.",
-      "order": null
+      "order": 6
     },
     "045fe0a": {
       "speaker": "Beat",
       "line": "Too cheap to make a whole new-",
-      "order": null
+      "order": 7
     },
     "09bbe12": {
       "speaker": "Pensato",
       "line": "No, they've got money for days. Years. Forever? Hahahahahaha no. Wow, no.",
-      "order": null
+      "order": 8
     },
     "0e82978": {
       "speaker": "Pensato",
       "line": "It's not enough space.",
-      "order": null
+      "order": 9
     },
     "011ad71": {
       "speaker": "Pensato",
       "line": "If you need a box to hold a bunch of people, you need a place to put it.",
-      "order": null
+      "order": 10
     },
     "061c9e8": {
       "speaker": "Pensato",
       "line": "They've been running out of places.",
-      "order": null
+      "order": 11
     },
     "0507308": {
       "speaker": "Beat",
       "line": "So what was the building?",
-      "order": null
+      "order": 12
     },
     "06d7f2a": {
       "speaker": "Pensato",
       "line": "Take a guess.",
-      "order": null
+      "order": 13
     },
     "07f5874": {
       "speaker": "Beat",
       "line": "A grade school.",
-      "order": null
+      "order": 14
     },
     "027ae09": {
       "speaker": "Beat",
       "line": "Not that much different, then.",
-      "order": null
+      "order": 15
     },
     "05cfff2": {
       "speaker": "Pensato",
       "line": "I'd guess all of these cells were converted from classrooms.",
-      "order": null
+      "order": 16
     },
     "03a3d68": {
       "speaker": "Pensato",
       "line": "So, sure, this concrete is thick, and it'll hold people inside it.",
-      "order": null
+      "order": 17
     },
     "0222925": {
       "speaker": "Pensato",
       "line": "But it's also soft.",
-      "order": null
+      "order": 18
     },
     "0f98480": {
       "speaker": "Pensato",
       "line": "This building is full of tiny holes.",
-      "order": null
+      "order": 19
     },
     "04d007f": {
       "speaker": "Pensato",
       "line": "Like this one, which is mine, and which you are in.",
-      "order": null
+      "order": 20
     },
     "0d08138": {
       "speaker": "Pensato",
       "line": "Which, yeah, what's up?",
-      "order": null
+      "order": 21
     },
     "09f0b28": {
       "speaker": "Beat",
       "line": "Right. I wanted to talk to you about-",
-      "order": null
+      "order": 22
     },
     "09a71da": {
       "speaker": "Pensato",
       "line": "Okay, wow, you are lucky nobody has seen you with...hold on.",
-      "order": null
+      "order": 23
     },
     "0f38ef2": {
       "speaker": "Pensato",
       "line": "We're clear, but talk quietly.",
-      "order": null
+      "order": 24
     },
     "002278a": {
       "speaker": "Beat",
       "line": "These things keep, like, exploding.",
-      "order": null
+      "order": 25
     },
     "045e55a": {
       "speaker": "Pensato",
       "line": "Yeah, because they're easy to set up wrong.",
-      "order": null
+      "order": 26
     },
     "0e5c604": {
       "speaker": "Beat",
       "line": "You've noticed?",
-      "order": null
+      "order": 27
     },
     "0459527": {
       "speaker": "Pensato",
       "line": "I have eyes.",
-      "order": null
+      "order": 28
     },
     "0f775bf": {
       "speaker": "Pensato",
       "line": "Okay, so look here:",
-      "order": null
+      "order": 29
     },
     "0a4585a": {
       "speaker": "Pensato",
       "line": "This glass capacitor is half of the problem. It's not really that fragile...",
-      "order": null
+      "order": 30
     },
     "086748b": {
       "speaker": "Pensato",
       "line": "...but this little guy? This voltage control screw?",
-      "order": null
+      "order": 31
     },
     "0631ae8": {
       "speaker": "Pensato",
       "line": "If you overtighten this thing, even slightly, the torque puts too much strain on the glass.",
-      "order": null
+      "order": 32
     },
     "085f683": {
       "speaker": "Pensato",
       "line": "So it pops. And if it pops, the whole thing blows.",
-      "order": null
+      "order": 33
     },
     "0bd80a0": {
       "speaker": "Beat",
       "line": "So, ah.",
-      "order": null
+      "order": 34
     },
     "081c2a1": {
       "speaker": "Beat",
       "line": "I don't know the right way to ask the question in my head right now.",
-      "order": null
+      "order": 35
     },
     "0e15129": {
       "speaker": "Pensato",
       "line": "I think I can answer it anyway.",
-      "order": null
+      "order": 36
     },
     "0ecfdf7": {
       "speaker": "Pensato",
       "line": "Do you know what a delay circuit is?",
-      "order": null
+      "order": 37
     }
   },
   "TVbackgroundconvo": {
     "01a9f73": {
       "speaker": "ReporteronTV",
       "line": "We have with us an expert on HARM...",
-      "order": null
+      "order": 1
     },
     "0353482": {
       "speaker": "ReporteronTV",
       "line": "...who is miming, wildly, off camera.",
-      "order": null
+      "order": 2
     },
     "0e17c4d": {
       "speaker": "ReporteronTV",
       "line": "Uh, hey, is everything...",
-      "order": null
+      "order": 3
     },
     "030aa9b": {
       "speaker": "ReporteronTV",
       "line": "...Well,",
-      "order": null
+      "order": 4
     },
     "0f26b07": {
       "speaker": "ReporteronTV",
       "line": "We promised we'd mask their voice and appearance, but they are convinced that's not enough.",
-      "order": null
+      "order": 5
     },
     "03e3ae4": {
       "speaker": "ReporteronTV",
       "line": "What if I just......okay...mhm...",
-      "order": null
+      "order": 6
     },
     "0bc8468": {
       "speaker": "ReporteronTV",
       "line": "I'll just repeat after them, I guess.",
-      "order": null
+      "order": 7
     },
     "0650a21": {
       "speaker": "ReporteronTV",
       "line": "\"The highway incident marks a sudden and dramatic increase in the scale of harmonic terrorism.\"",
-      "order": null
+      "order": 8
     },
     "06f01e1": {
       "speaker": "ReporteronTV",
       "line": "\"It also, however, marks a sudden lack of ability to respond in kind.\"",
-      "order": null
+      "order": 9
     },
     "07cd326": {
       "speaker": "ReporteronTV",
       "line": "Well, sure, but you might imagine it's difficult to...",
-      "order": null
+      "order": 10
     },
     "05752fd": {
       "speaker": "ReporteronTV",
       "line": "Sorry. This is ridiculous.",
-      "order": null
+      "order": 11
     },
     "0d4c7e3": {
       "speaker": "ReporteronTV",
       "line": "Let's break for a second, okay?",
-      "order": null
+      "order": 12
     }
   },
   "afterbaseball": {
     "0f7b6f7": {
       "speaker": "Clef",
       "line": "So whatta wh-",
-      "order": null
+      "order": 1
     },
     "0b321d9": {
       "speaker": "Treble",
       "line": "oh my god please be quiet",
-      "order": null
+      "order": 2
     },
     "0c6402b": {
       "speaker": "Pensato",
       "line": "Hey, guys.",
-      "order": null
+      "order": 3
     },
     "04876ce": {
       "speaker": "Pensato",
       "line": "Did Beat fill you in?",
-      "order": null
+      "order": 4
     },
     "018a7d5": {
       "speaker": "Beat",
       "line": "I haven't had time.",
-      "order": null
+      "order": 5
     },
     "0bd3734": {
       "speaker": "Pensato",
       "line": "They really hate your guts, dude.",
-      "order": null
+      "order": 6
     },
     "041c6bf": {
       "speaker": "Clef",
       "line": "Fill us in on what?",
-      "order": null
+      "order": 7
     },
     "0bcb563": {
       "speaker": "Beat",
       "line": "I'm glad it's just me.",
-      "order": null
+      "order": 8
     },
     "0603805": {
       "speaker": "Pensato",
       "line": "Look, it'd be easier if I was in the driver's seat on this, but I can still help stir shit up.",
-      "order": null
+      "order": 9
     },
     "05628ea": {
       "speaker": "Clef",
       "line": "But also-",
-      "order": null
+      "order": 10
     },
     "0f0b3b8": {
       "speaker": "Pensato",
       "line": "Yes, also that's you.",
-      "order": null
+      "order": 11
     },
     "06d5517": {
       "speaker": "Pensato",
       "line": "We need you to be annoying.",
-      "order": null
+      "order": 12
     },
     "0db555c": {
       "speaker": "Treble",
       "line": "oh, she can handle that.",
-      "order": null
+      "order": 13
     },
     "0ed5820": {
       "speaker": "Treble",
       "line": "for whatever's going on.",
-      "order": null
+      "order": 14
     },
     "0c1d7d3": {
       "speaker": "Clef",
       "line": "What the hell are we TALKING about?",
-      "order": null
+      "order": 15
     },
     "0a5eb68": {
       "speaker": "Beat",
       "line": "Okay. Okay. So.",
-      "order": null
+      "order": 16
     },
     "027ff30": {
       "speaker": "Beat",
       "line": "The entire reason me and Quaver are here in the first place was to get you out of here.",
-      "order": null
+      "order": 17
     },
     "07001fa": {
       "speaker": "Clef",
       "line": "Yes. Because you're idiots.",
-      "order": null
+      "order": 18
     },
     "0a690e7": {
       "speaker": "Beat",
       "line": "What if we weren't idiots?",
-      "order": null
+      "order": 19
     },
     "0016200": {
       "speaker": "Clef",
       "line": "Yeah, what if?",
-      "order": null
+      "order": 20
     },
     "09276a3": {
       "speaker": "Treble",
       "line": "i assume this means you have a plan but this is the... worst way to set up whatever it is.",
-      "order": null
+      "order": 21
     },
     "0e6f1bc": {
       "speaker": "Beat",
       "line": "These things we're putting together keep blowing up. Pop, pop, pop, one by one, right?",
-      "order": null
+      "order": 22
     },
     "0be4724": {
       "speaker": "Beat",
       "line": "What happens if we can get a whole bunch of them to do that?",
-      "order": null
+      "order": 23
     },
     "0814fce": {
       "speaker": "Quaver",
       "line": "You'd need a lot of them, though, and we can't really control when they malfunction...",
-      "order": null
+      "order": 24
     },
     "0301504": {
       "speaker": "Beat",
       "line": "No! We can.",
-      "order": null
+      "order": 25
     },
     "00e9d51": {
       "speaker": "Beat",
       "line": "Apparently, Penny's had a plan this whole time.",
-      "order": null
+      "order": 26
     },
     "083b6e3": {
       "speaker": "Pensato",
       "line": "One that you guys being here kind of messed up... no hard feelings, of course.",
-      "order": null
+      "order": 27
     },
     "01d4663": {
       "speaker": "Beat",
       "line": "Sure. But she's letting us in on it.",
-      "order": null
+      "order": 28
     },
     "0f03f98": {
       "speaker": "Beat",
       "line": "I think we can get out of here if we do this.",
-      "order": null
+      "order": 29
     },
     "0b97a3c": {
       "speaker": "Quaver",
       "line": "So? How would this work? I guess if you're in charge of reviewing them...",
-      "order": null
+      "order": 30
     },
     "017cbc4": {
       "speaker": "Treble",
       "line": "yeah. beat's obviously letting the stuff through, i'm obviously helping to put it tog--",
-      "order": null
+      "order": 31
     },
     "0057ec3": {
       "speaker": "Pensato",
       "line": "No.",
-      "order": null
+      "order": 32
     },
     "0ba459d": {
       "speaker": "Pensato",
       "line": "No offense, but, no. You're gonna be too slow and too obvious.",
-      "order": null
+      "order": 33
     },
     "0d2d4aa": {
       "speaker": "Clef",
       "line": "Come on.",
-      "order": null
+      "order": 34
     },
     "0f74075": {
       "speaker": "Treble",
       "line": "ouch.",
-      "order": null
+      "order": 35
     },
     "0394bd2": {
       "speaker": "Pensato",
       "line": "The little kid, though?",
-      "order": null
+      "order": 36
     },
     "0c8a953": {
       "speaker": "Pensato",
       "line": "You're smart, right?",
-      "order": null
+      "order": 37
     },
     "0ab3738": {
       "speaker": "Quaver",
       "line": "I feel like you're talking down to me.",
-      "order": null
+      "order": 38
     },
     "0d6754c": {
       "speaker": "Pensato",
       "line": "That's a yes.",
-      "order": null
+      "order": 39
     },
     "06411c1": {
       "speaker": "Pensato",
       "line": "You can follow instructions if I make you a diagram, okay?",
-      "order": null
+      "order": 40
     },
     "006d5d7": {
       "speaker": "Pensato",
       "line": "You're gonna set them up to go off all at once on our signal.",
-      "order": null
+      "order": 41
     },
     "00fe5d7": {
       "speaker": "Quaver",
       "line": "What's the signal?",
-      "order": null
+      "order": 42
     },
     "021865b": {
       "speaker": "Clef",
       "line": "So. That's just that? Everyone's in? Everyone's doing this?",
-      "order": null
+      "order": 43
     },
     "0b06642": {
       "speaker": "Clef",
       "line": "That's how easy it is to get you all on board?",
-      "order": null
+      "order": 44
     },
     "08f0779": {
       "speaker": "Beat",
       "line": "Do you have a choice?",
-      "order": null
+      "order": 45
     },
     "0f79980": {
       "speaker": "Clef",
       "line": "So-",
-      "order": null
+      "order": 46
     },
     "096e800": {
       "speaker": "Pensato",
       "line": "Shut up.",
-      "order": null
+      "order": 47
     },
     "066c724": {
       "speaker": "Clef",
       "line": "Or what?",
-      "order": null
+      "order": 48
     },
     "04f9b04": {
       "speaker": "Pensato",
       "line": "Shut up. Shut the shit up. Someone is-",
-      "order": null
+      "order": 49
     },
     "0641bb9": {
       "speaker": "Guard",
       "line": "Hey, Pink. Come with me.",
-      "order": null
+      "order": 50
     },
     "06fa7ff": {
       "speaker": "Beat",
       "line": "Don't we have a few minutes before the-",
-      "order": null
+      "order": 51
     },
     "0f848af": {
       "speaker": "Guard",
       "line": "Come. With. Me.",
-      "order": null
+      "order": 52
     },
     "0cacced": {
       "speaker": "Beat",
       "line": "Alright. Fine.",
-      "order": null
+      "order": 53
     },
     "0654054": {
       "speaker": "Beat",
       "line": "Everyone all good on...everything?",
-      "order": null
+      "order": 54
     },
     "0cc301c": {
       "speaker": "Guard",
       "line": "Don't worry about them. Come with me.",
-      "order": null
+      "order": 55
     },
     "007f906": {
       "speaker": "Beat",
       "line": "I'm basically already there.",
-      "order": null
+      "order": 56
     }
   },
   "afterbrawltutorial": {
     "001a32b": {
       "speaker": "Beat",
       "line": "Jesus. Nice to meet you too.",
-      "order": null
+      "order": 1
     },
     "07b7f55": {
       "speaker": "Treble",
       "line": "don't worry, she is in fact always like this.",
-      "order": null
+      "order": 2
     },
     "048e1ca": {
       "speaker": "Treble",
       "line": "anyway, yeah, hi",
-      "order": null
+      "order": 3
     },
     "0dc1ba2": {
       "speaker": "Beat",
       "line": "Hiiii. I'm Beat, and this is Quaver, and no, it's not actually our fault you're in here.",
-      "order": null
+      "order": 4
     },
     "0290cbd": {
       "speaker": "Treble",
       "line": "not to be conceited but i'm guessing we don't need an intro?",
-      "order": null
+      "order": 5
     },
     "075b94b": {
       "speaker": "Clef",
       "line": "I would HOPE so.",
-      "order": null
+      "order": 6
     },
     "069013c": {
       "speaker": "Beat",
       "line": "I mean, she doesn't.",
-      "order": null
+      "order": 7
     },
     "09f9fa3": {
       "speaker": "Beat",
       "line": "Me, though? I had no idea who you two were until an hour ago.",
-      "order": null
+      "order": 8
     },
     "0708320": {
       "speaker": "Clef",
       "line": "WHAT.",
-      "order": null
+      "order": 9
     },
     "00c186b": {
       "speaker": "Beat",
       "line": "I mean, is that so weird?",
-      "order": null
+      "order": 10
     },
     "02f3213": {
       "speaker": "Treble",
       "line": "honestly, a little? it's the first time in a long time.",
-      "order": null
+      "order": 11
     },
     "0f4cca7": {
       "speaker": "Clef",
       "line": "MOST people know us.",
-      "order": null
+      "order": 12
     },
     "0835f68": {
       "speaker": "Treble",
       "line": "that's implied, clef.",
-      "order": null
+      "order": 13
     },
     "04aa8ef": {
       "speaker": "Treble",
       "line": "but, cool. anyway, are you a crazy person?",
-      "order": null
+      "order": 14
     },
     "0dde843": {
       "speaker": "Unknown",
       "line": "I am obviously not a crazy person.",
-      "order": null
+      "order": 15
     },
     "09cbd7b": {
       "speaker": "Treble",
       "line": "if it was obvious there wouldn't need to be a question.",
-      "order": null
+      "order": 16
     },
     "016e1aa": {
       "speaker": "Clef",
       "line": "We heard about the highway thing.",
-      "order": null
+      "order": 17
     },
     "0af8dea": {
       "speaker": "Clef",
       "line": "How dumb do you have to be to get into that situation?",
-      "order": null
+      "order": 18
     },
     "0d66dd2": {
       "speaker": "Quaver",
       "line": "I'm not dumb! I've played guitar tons of times before and it's been fine!",
-      "order": null
+      "order": 19
     },
     "04b5564": {
       "speaker": "Clef",
       "line": "In front of other people?",
-      "order": null
+      "order": 20
     },
     "0e686cd": {
       "speaker": "Quaver",
       "line": "...",
-      "order": null
+      "order": 21
     },
     "0d88109": {
       "speaker": "Clef",
       "line": "Beat, the baby is delusional.",
-      "order": null
+      "order": 22
     },
     "0318d6b": {
       "speaker": "Clef",
       "line": "The little guys didn't come out of nowhere. That was on you two.",
-      "order": null
+      "order": 23
     },
     "0735eb8": {
       "speaker": "Clef",
       "line": "You summoned Silence on purpose. To assault the cops.",
-      "order": null
+      "order": 24
     },
     "051b8b2": {
       "speaker": "Beat",
       "line": "I didn't know what I was really doing, so I don't think it counts as being on purpose.",
-      "order": null
+      "order": 25
     },
     "04775c2": {
       "speaker": "Beat",
       "line": "Secondly, I-",
-      "order": null
+      "order": 26
     },
     "0af56c2": {
       "speaker": "Clef",
       "line": "God, you're dumb. GOD you're dumb. Why would you do that?",
-      "order": null
+      "order": 27
     },
     "0280550": {
       "speaker": "Treble",
       "line": "you just do not do that around cops.",
-      "order": null
+      "order": 28
     },
     "03c1b43": {
       "speaker": "Guard",
       "line": "You don't do what around cops?",
-      "order": null
+      "order": 29
     },
     "050fc32": {
       "speaker": "Treble",
       "line": "talk to them",
-      "order": null
+      "order": 30
     },
     "05a6a1b": {
       "speaker": "Guard",
       "line": "I stopped listening. It's processing time, baby.",
-      "order": null
+      "order": 31
     },
     "0c2be70": {
       "speaker": "Unknown",
       "line": "Yes.",
-      "order": null
+      "order": 32
     },
     "0bea3a4": {
       "speaker": "Treble",
       "line": "well that clears a lot up.",
-      "order": null
+      "order": 33
     },
     "089b103": {
       "speaker": "Clef",
       "line": "You would have to be! The stuff on the highway was insane!",
-      "order": null
+      "order": 34
     },
     "03b2d30": {
       "speaker": "Clef",
       "line": "I'm literally called a domestic terrorist by someone I don't know every day.",
-      "order": null
+      "order": 35
     },
     "0026391": {
       "speaker": "Clef",
       "line": "And I think that's insane.",
-      "order": null
+      "order": 36
     },
     "0206792": {
       "speaker": "Beat",
       "line": "What were we supposed to do in that scenario?",
-      "order": null
+      "order": 37
     },
     "03fa086": {
       "speaker": "Clef",
       "line": "You weren't supposed to get INTO IT.",
-      "order": null
+      "order": 38
     },
     "0930595": {
       "speaker": "Quaver",
       "line": "I've played guitar before and it's never been a problem before yesterday.",
-      "order": null
+      "order": 39
     },
     "07a53f8": {
       "speaker": "Clef",
       "line": "Well, you're lying or you're very lucky.",
-      "order": null
+      "order": 40
     },
     "0c39e62": {
       "speaker": "Clef",
       "line": "Either way, making Silence appear on purpose as a weapon is VERY stupid.",
-      "order": null
+      "order": 41
     },
     "075db79": {
       "speaker": "Beat",
       "line": "I wouldn't call that a weapon!",
-      "order": null
+      "order": 42
     },
     "03c8495": {
       "speaker": "Beat",
       "line": "I was just figuring things out in the moment!",
-      "order": null
+      "order": 43
     },
     "093a6d0": {
       "speaker": "Treble",
       "line": "figuring stuff out is for when cops aren't around.",
-      "order": null
+      "order": 44
     },
     "075d456": {
       "speaker": "Guard",
       "line": "Hi, freaks.",
-      "order": null
+      "order": 45
     },
     "0fd4d11": {
       "speaker": "Treble",
       "line": "speaking of which.",
-      "order": null
+      "order": 46
     },
     "08661ba": {
       "speaker": "Guard",
       "line": "Get up. Time to get processed.",
-      "order": null
+      "order": 47
     }
   },
   "approvalGame1": {
     "0d76748": {
       "speaker": "Guard",
       "line": "Welcome to shitville.",
-      "order": null
+      "order": 1
     },
     "056b33a": {
       "speaker": "Unknown",
       "line": "Wow, thanks.",
-      "order": null
+      "order": 2
     },
     "00f0a97": {
       "speaker": "Guard",
       "line": "None taken.",
-      "order": null
+      "order": 3
     },
     "0139065": {
       "speaker": "Population",
       "line": "us?",
-      "order": null
+      "order": 4
     },
     "0eabfa0": {
       "speaker": "Guard",
       "line": "And me. I have to live here too.",
-      "order": null
+      "order": 5
     },
     "08122fd": {
       "speaker": "Beat",
       "line": "You can leave, though.",
-      "order": null
+      "order": 6
     },
     "009e3c6": {
       "speaker": "Guard",
       "line": "Not if I want my job. Speaking of:",
-      "order": null
+      "order": 7
     },
     "0cf33bc": {
       "speaker": "Guard",
       "line": "Treble, Clef, you know how to do this by now.",
-      "order": null
+      "order": 8
     },
     "027ab8b": {
       "speaker": "Clef",
       "line": "You can say that without laughing.",
-      "order": null
+      "order": 9
     },
     "095a3c5": {
       "speaker": "Guard",
       "line": "Pink, you seem like you're bad with your hands.",
-      "order": null
+      "order": 10
     },
     "03eb9fc": {
       "speaker": "Beat",
       "line": "I-",
-      "order": null
+      "order": 11
     },
     "0c4024c": {
       "speaker": "Beat",
       "line": "Whatever.",
-      "order": null
+      "order": 12
     },
     "0939dac": {
       "speaker": "Guard",
       "line": "Make sure the stuff coming down the conveyor belt looks right.",
-      "order": null
+      "order": 13
     },
     "099f662": {
       "speaker": "Guard",
       "line": "I will be checking your work.",
-      "order": null
+      "order": 14
     },
     "04eba03": {
       "speaker": "Beat",
       "line": "Then what's the point of me doing it?",
-      "order": null
+      "order": 15
     },
     "095fce3": {
       "speaker": "Guard",
       "line": "Humor me.",
-      "order": null
+      "order": 16
     },
     "0e50442": {
       "speaker": "Beat",
       "line": "I'm...sorry?",
-      "order": null
+      "order": 17
     },
     "022a5e2": {
       "speaker": "Beat",
       "line": "I didn't really take anything.",
-      "order": null
+      "order": 18
     },
     "014a3b6": {
       "speaker": "Beat",
       "line": "I'll try my best.",
-      "order": null
+      "order": 19
     },
     "086e86d": {
       "speaker": "Beat",
       "line": "Shit.",
-      "order": null
+      "order": 20
     },
     "0f324ad": {
       "speaker": "Beat",
       "line": "Does it really matter?",
-      "order": null
+      "order": 21
     },
     "0188822": {
       "speaker": "Beat",
       "line": "What are these things, anyway?",
-      "order": null
+      "order": 22
     }
   },
   "approvalGameFinal": {
     "0af2e84": {
       "speaker": "Guard",
       "line": "Get at it.",
-      "order": null
+      "order": 1
     },
     "0508ccf": {
       "speaker": "Guard",
       "line": "No talking. You're already late.",
-      "order": null
+      "order": 2
     },
     "06ba0f3": {
       "speaker": "Clef",
       "line": "She's a little freak!",
-      "order": null
+      "order": 3
     },
     "05922c3": {
       "speaker": "Clef",
       "line": "Now all of us are gonna have to stay later and longer and it's never gonna end.",
-      "order": null
+      "order": 4
     },
     "0bbd557": {
       "speaker": "Guard",
       "line": "I said to shut up.",
-      "order": null
+      "order": 5
     },
     "08ca153": {
       "speaker": "Clef",
       "line": "You told her to shut up.",
-      "order": null
+      "order": 6
     },
     "0c3fbda": {
       "speaker": "Guard",
       "line": "I told the room \"no talking.\"",
-      "order": null
+      "order": 7
     },
     "00b97af": {
       "speaker": "Guard",
       "line": "So no talking!",
-      "order": null
+      "order": 8
     },
     "05bd908": {
       "speaker": "Clef",
       "line": "What if I talk? What are you actually gonna do?",
-      "order": null
+      "order": 9
     },
     "01f332c": {
       "speaker": "Guard",
       "line": "I'm sure I'll figure something out.",
-      "order": null
+      "order": 10
     },
     "08f5572": {
       "speaker": "Guard",
       "line": "You can be tonight's-",
-      "order": null
+      "order": 11
     },
     "0439321": {
       "speaker": "Clef",
       "line": "You think I've never fought anyone before?",
-      "order": null
+      "order": 12
     },
     "00282ba": {
       "speaker": "Clef",
       "line": "Dude, punching me in the face is not gonna turn my mouth off.",
-      "order": null
+      "order": 13
     },
     "05e178a": {
       "speaker": "Clef",
       "line": "It's not like you're gonna kill me, anyway.",
-      "order": null
+      "order": 14
     },
     "0b740f3": {
       "speaker": "Guard",
       "line": "Whatever. You're like a broken record at this point.",
-      "order": null
+      "order": 15
     },
     "015a106": {
       "speaker": "Clef",
       "line": "Do you know what I did for a living before the world blew up?",
-      "order": null
+      "order": 16
     },
     "0411e0b": {
       "speaker": "Clef",
       "line": "I played drums.",
-      "order": null
+      "order": 17
     },
     "0a429c9": {
       "speaker": "Clef",
       "line": "I am very, very, very good at repeating myself.",
-      "order": null
+      "order": 18
     }
   },
   "cafeteria1": {
     "016bfc3": {
       "speaker": "Beat",
       "line": "Uh, hi. Are these seats-",
-      "order": null
+      "order": 1
     },
     "0414e17": {
       "speaker": "Pensato",
       "line": "They aren't taken, no. Hi.",
-      "order": null
+      "order": 2
     },
     "0840f83": {
       "speaker": "Pensato",
       "line": "You're all new here.",
-      "order": null
+      "order": 3
     },
     "00e65ea": {
       "speaker": "Treble",
       "line": "what gave it away",
-      "order": null
+      "order": 4
     },
     "03a72da": {
       "speaker": "Pensato",
       "line": "Besides me never seeing you around before?",
-      "order": null
+      "order": 5
     },
     "0d64539": {
       "speaker": "Pensato",
       "line": "There aren't that many inmates.",
-      "order": null
+      "order": 6
     },
     "03173b9": {
       "speaker": "Quaver",
       "line": "Yeah, but there's enough to crowd the room.",
-      "order": null
+      "order": 7
     },
     "0e05561": {
       "speaker": "Quaver",
       "line": "I'm shocked nobody was sitting here.",
-      "order": null
+      "order": 8
     },
     "075022e": {
       "speaker": "Pensato",
       "line": "I'm definitely not. That's usually the case.",
-      "order": null
+      "order": 9
     },
     "0bad845": {
       "speaker": "Clef",
       "line": "And what makes you so special?",
-      "order": null
+      "order": 10
     },
     "0c5d23c": {
       "speaker": "Pensato",
       "line": "Mm-mm-mm-mm-mm. Before I answer that question: my name is Penny.",
-      "order": null
+      "order": 11
     },
     "01ec4e3": {
       "speaker": "Pensato",
       "line": "People know-",
-      "order": null
+      "order": 12
     },
     "0f48051": {
       "speaker": "Clef",
       "line": "Penny?",
-      "order": null
+      "order": 13
     },
     "0133d24": {
       "speaker": "Treble",
       "line": "clef.",
-      "order": null
+      "order": 14
     },
     "0734f10": {
       "speaker": "Pensato",
       "line": "Okay, well, legally, from birth, it's Pensato.",
-      "order": null
+      "order": 15
     },
     "065bb0a": {
       "speaker": "Pensato",
       "line": "But on account of us being here, I suspect none of you give a shit about \"legal.\"",
-      "order": null
+      "order": 16
     },
     "07c8921": {
       "speaker": "Pensato",
       "line": "So, please, call me Penny. I prefer it.",
-      "order": null
+      "order": 17
     },
     "095e7e6": {
       "speaker": "Quaver",
       "line": "Because-",
-      "order": null
+      "order": 18
     },
     "0b6120e": {
       "speaker": "Pensato",
       "line": "Because it's cute.",
-      "order": null
+      "order": 19
     },
     "0db0f15": {
       "speaker": "Pensato",
       "line": "The reason people aren't over here is they're all afraid of pissing me off.",
-      "order": null
+      "order": 20
     },
     "038bc7b": {
       "speaker": "Treble",
       "line": "...should they be afraid?",
-      "order": null
+      "order": 21
     },
     "0510015": {
       "speaker": "Pensato",
       "line": "I'm not really violent, if that's what your real question is.",
-      "order": null
+      "order": 22
     },
     "0da64ca": {
       "speaker": "Pensato",
       "line": "People just want to keep me happy because I can get stuff for them.",
-      "order": null
+      "order": 23
     },
     "0f5147a": {
       "speaker": "Quaver",
       "line": "What kind of stuff-",
-      "order": null
+      "order": 24
     },
     "09c46d0": {
       "speaker": "Pensato",
       "line": "Ugh, so many questions!",
-      "order": null
+      "order": 25
     },
     "0823642": {
       "speaker": "Pensato",
       "line": "You're a kid, so don't worry about it, but you can't ask me that kind of thing.",
-      "order": null
+      "order": 26
     },
     "0fc710d": {
       "speaker": "Pensato",
       "line": "Nobody can know the what or the how beside me, you know?",
-      "order": null
+      "order": 27
     },
     "09ca592": {
       "speaker": "Pensato",
       "line": "Information economy is real economy.",
-      "order": null
+      "order": 28
     },
     "032314b": {
       "speaker": "Pensato",
       "line": "Just...if you really need something that they won't let you have...",
-      "order": null
+      "order": 29
     },
     "0c3983b": {
       "speaker": "Quaver",
       "line": "...sure. Okay.",
-      "order": null
+      "order": 30
     },
     "075100b": {
       "speaker": "Pensato",
       "line": "Anyway. I'm sure it's very nice to meet me, but I haven't met you!",
-      "order": null
+      "order": 31
     },
     "008a1c4": {
       "speaker": "Pensato",
       "line": "So...who are all of you?",
-      "order": null
+      "order": 32
     },
     "05b3a95": {
       "speaker": "Beat",
       "line": "I'm Beat, and this is Quaver.",
-      "order": null
+      "order": 33
     },
     "0847294": {
       "speaker": "Quaver",
       "line": "Hi.",
-      "order": null
+      "order": 34
     },
     "0a115b2": {
       "speaker": "Clef",
       "line": "You probably already know-",
-      "order": null
+      "order": 35
     },
     "019a3bb": {
       "speaker": "Pensato",
       "line": "I know your names, yeah.",
-      "order": null
+      "order": 36
     },
     "08dad20": {
       "speaker": "Clef",
       "line": "I told you people know us, Beat.",
-      "order": null
+      "order": 37
     },
     "0592b14": {
       "speaker": "Pensato",
       "line": "But who are Treble and Clef?",
-      "order": null
+      "order": 38
     },
     "0a7e23e": {
       "speaker": "Treble",
       "line": "tired.",
-      "order": null
+      "order": 39
     },
     "00de2bd": {
       "speaker": "Pensato",
       "line": "Ah, ah, sorry. I've been talking your ears off.",
-      "order": null
+      "order": 40
     },
     "0a26d27": {
       "speaker": "Pensato",
       "line": "Well, enjoy the food. It's terrible.",
-      "order": null
+      "order": 41
     }
   },
   "cafeteria2": {
     "0a25ef9": {
       "speaker": "Pensato",
       "line": "They're Silence Dampeners.",
-      "order": null
+      "order": 1
     },
     "053872b": {
       "speaker": "Pensato",
       "line": "I mean, that's what I call them, at least.",
-      "order": null
+      "order": 2
     },
     "0012365": {
       "speaker": "Beat",
       "line": "And what do they-",
-      "order": null
+      "order": 3
     },
     "09c6f95": {
       "speaker": "Clef",
       "line": "Who the hell cares. Whatever it is, it isn't good.",
-      "order": null
+      "order": 4
     },
     "0d007e4": {
       "speaker": "Clef",
       "line": "Does it matter how not good?",
-      "order": null
+      "order": 5
     },
     "0eb0f3f": {
       "speaker": "Treble",
       "line": "i mean, a little bit, yeah.",
-      "order": null
+      "order": 6
     },
     "0c5bfad": {
       "speaker": "Pensato",
       "line": "God, you are so, so uncurious.",
-      "order": null
+      "order": 7
     },
     "066e94d": {
       "speaker": "Pensato",
       "line": "I'll let the kid guess since she likes knowing things she shouldn't.",
-      "order": null
+      "order": 8
     },
     "08efb09": {
       "speaker": "Quaver",
       "line": "...",
-      "order": null
+      "order": 9
     },
     "094ce27": {
       "speaker": "Quaver",
       "line": "From the name, it seems kinda obvious.",
-      "order": null
+      "order": 10
     },
     "0ae2416": {
       "speaker": "Beat",
       "line": "...no? How.",
-      "order": null
+      "order": 11
     },
     "0b169f2": {
       "speaker": "Quaver",
       "line": "It dampens the Silence.",
-      "order": null
+      "order": 12
     },
     "045c839": {
       "speaker": "Beat",
       "line": "Silence isn't... a thing you can dampen.",
-      "order": null
+      "order": 13
     },
     "059ab54": {
       "speaker": "Quaver",
       "line": "Silence, like, the concept? Sure.",
-      "order": null
+      "order": 14
     },
     "0d80de9": {
       "speaker": "Quaver",
       "line": "...how would these machines do that?",
-      "order": null
+      "order": 15
     },
     "0235e0c": {
       "speaker": "Clef",
       "line": "How would they do what.",
-      "order": null
+      "order": 16
     },
     "0965d81": {
       "speaker": "Pensato",
       "line": "Now she wants to know.",
-      "order": null
+      "order": 17
     },
     "0fd78e9": {
       "speaker": "Pensato",
       "line": "The what in this case is a field that cancels out a Silence's creation.",
-      "order": null
+      "order": 18
     },
     "0d94164": {
       "speaker": "Pensato",
       "line": "Strum, sing, stomp, whatever, it's all peace and love.",
-      "order": null
+      "order": 19
     },
     "058a4e5": {
       "speaker": "Quaver",
       "line": "So that's...a good thing, right?",
-      "order": null
+      "order": 20
     },
     "06b14a9": {
       "speaker": "Pensato",
       "line": "Well, sure, if you like peace and love.",
-      "order": null
+      "order": 21
     },
     "01003ac": {
       "speaker": "Pensato",
       "line": "Anyway, they're building them to try to keep cops safe.",
-      "order": null
+      "order": 22
     },
     "0b8ef6a": {
       "speaker": "Treble",
       "line": "help always goes to those who need it most.",
-      "order": null
+      "order": 23
     },
     "05b7191": {
       "speaker": "Pensato",
       "line": "As for the how, well, that doesn't matter so much.",
-      "order": null
+      "order": 24
     },
     "0622966": {
       "speaker": "Pensato",
       "line": "But that's definitely what these do.",
-      "order": null
+      "order": 25
     },
     "0d888fb": {
       "speaker": "Beat",
       "line": "And we know they work?",
-      "order": null
+      "order": 26
     },
     "0e25e59": {
       "speaker": "Pensato",
       "line": "They definitely do.",
-      "order": null
+      "order": 27
     },
     "049c65b": {
       "speaker": "Beat",
       "line": "You're sure?",
-      "order": null
+      "order": 28
     },
     "0ecb612": {
       "speaker": "Pensato",
       "line": "They work.",
-      "order": null
+      "order": 29
     },
     "0b68cdc": {
       "speaker": "Pensato",
       "line": "I saw them install a few in this building a week ago.",
-      "order": null
+      "order": 30
     },
     "0db5604": {
       "speaker": "Pensato",
       "line": "And they tested it. And it worked.",
-      "order": null
+      "order": 31
     },
     "0feb216": {
       "speaker": "Unknown",
       "line": "Tested how?",
-      "order": null
+      "order": 32
     },
     "0e70bfa": {
       "speaker": "Pensato",
       "line": "With confiscated contraband.",
-      "order": null
+      "order": 33
     },
     "0efa5a5": {
       "speaker": "Pensato",
       "line": "Blasted some records at it.",
-      "order": null
+      "order": 34
     },
     "0340e92": {
       "speaker": "Pensato",
       "line": "Took less than a second for the field to kick in.",
-      "order": null
+      "order": 35
     },
     "00d9f00": {
       "speaker": "Unknown",
       "line": "...those wouldn't have...side effects, would they?",
-      "order": null
+      "order": 36
     },
     "0f43ae3": {
       "speaker": "Pensato",
       "line": "Like...what?",
-      "order": null
+      "order": 37
     },
     "0a21d38": {
       "speaker": "Pensato",
       "line": "On people? They shouldn't.",
-      "order": null
+      "order": 38
     },
     "0bb5b2b": {
       "speaker": "Pensato",
       "line": "If they work right.",
-      "order": null
+      "order": 39
     },
     "0df3f1d": {
       "speaker": "Unknown",
       "line": "You're sure.",
-      "order": null
+      "order": 40
     },
     "06da7d9": {
       "speaker": "Beat",
       "line": "I mean, think about it.",
-      "order": null
+      "order": 41
     },
     "00224d8": {
       "speaker": "Beat",
       "line": "It's not like this is a luxury condo.",
-      "order": null
+      "order": 42
     },
     "0d15a31": {
       "speaker": "Beat",
       "line": "What if they skimped out on parts, or...something.",
-      "order": null
+      "order": 43
     },
     "0f7f9fa": {
       "speaker": "Beat",
       "line": "Y'know?",
-      "order": null
+      "order": 44
     },
     "0c7b133": {
       "speaker": "Beat",
       "line": "It gives us all cancer or something.",
-      "order": null
+      "order": 45
     },
     "0a4ac0a": {
       "speaker": "Pensato",
       "line": "I'm sure we would be dead way faster than that if it was broken.",
-      "order": null
+      "order": 46
     },
     "016ac18": {
       "speaker": "Pensato",
       "line": "We don't have anything to worry about.",
-      "order": null
+      "order": 47
     },
     "035e295": {
       "speaker": "Unknown",
       "line": "Do they work right?",
-      "order": null
+      "order": 48
     },
     "0378835": {
       "speaker": "Pensato",
       "line": "I mean, as I said, they tested it. And it did.",
-      "order": null
+      "order": 49
     },
     "0c846c3": {
       "speaker": "Pensato",
       "line": "To me, that's enough proof.",
-      "order": null
+      "order": 50
     },
     "08da7e8": {
       "speaker": "Pensato",
       "line": "Anyway, those things are, like, layer one of the security of this place.",
-      "order": null
+      "order": 51
     },
     "0365624": {
       "speaker": "Pensato",
       "line": "Which I'm sure you've already noticed.",
-      "order": null
+      "order": 52
     },
     "0736a1c": {
       "speaker": "Pensato",
       "line": "Anyway!",
-      "order": null
+      "order": 53
     },
     "0d6d43b": {
       "speaker": "Pensato",
       "line": "What kind of shit did they get from all of you?",
-      "order": null
+      "order": 54
     },
     "0b980e1": {
       "speaker": "Pensato",
       "line": "Everyone's got something.",
-      "order": null
+      "order": 55
     },
     "096d16c": {
       "speaker": "Treble",
       "line": "isn't that, like, information economy, or, whatever",
-      "order": null
+      "order": 56
     },
     "0a6f0e6": {
       "speaker": "Clef",
       "line": "Like, the stuff they grabbed when we were arrested?",
-      "order": null
+      "order": 57
     },
     "0d95bd2": {
       "speaker": "Pensato",
       "line": "What else would I mean?",
-      "order": null
+      "order": 58
     },
     "03c5211": {
       "speaker": "Beat",
       "line": "Nothing crazy. Our instruments, of course.",
-      "order": null
+      "order": 59
     },
     "0fe6002": {
       "speaker": "Pensato",
       "line": "Sure. It's why we're all here.",
-      "order": null
+      "order": 60
     },
     "07420be": {
       "speaker": "Beat",
       "line": "Also, my walkman.",
-      "order": null
+      "order": 61
     },
     "02b02ed": {
       "speaker": "Pensato",
       "line": "Walkwhat?",
-      "order": null
+      "order": 62
     },
     "0a2229d": {
       "speaker": "Beat",
       "line": "A tape player.",
-      "order": null
+      "order": 63
     },
     "05b5bb0": {
       "speaker": "Pensato",
       "line": "I mean, I know what a tape player is.",
-      "order": null
+      "order": 64
     },
     "01de639": {
       "speaker": "Pensato",
       "line": "That's pretty rare. I'd be pissed.",
-      "order": null
+      "order": 65
     },
     "07965c8": {
       "speaker": "Beat",
       "line": "I am.",
-      "order": null
+      "order": 66
     },
     "0fd6cd0": {
       "speaker": "Pensato",
       "line": "Well, stay pissed.",
-      "order": null
+      "order": 67
     },
     "00dded4": {
       "speaker": "Pensato",
       "line": "It's good for you.",
-      "order": null
+      "order": 68
     }
   },
   "cafeteria3": {
     "0a84034": {
       "speaker": "Pensato",
       "line": "So, last night, I'm sure you're-",
-      "order": null
+      "order": 1
     },
     "0c93c41": {
       "speaker": "Beat",
       "line": "Yeah, what the hell?",
-      "order": null
+      "order": 2
     },
     "057f14b": {
       "speaker": "Beat",
       "line": "I'm getting the sense that this just happens here?",
-      "order": null
+      "order": 3
     },
     "06bd500": {
       "speaker": "Pensato",
       "line": "That sense is accurate.",
-      "order": null
+      "order": 4
     },
     "096d39d": {
       "speaker": "Pensato",
       "line": "But they don't just do all that because they hate us.",
-      "order": null
+      "order": 5
     },
     "048a3f7": {
       "speaker": "Clef",
       "line": "They TOTALLY hate us, though.",
-      "order": null
+      "order": 6
     },
     "03a88c5": {
       "speaker": "Pensato",
       "line": "Basically: there has to be footage going 24/7 in a place like this, right?",
-      "order": null
+      "order": 7
     },
     "04097c6": {
       "speaker": "Pensato",
       "line": "Regulations, etcetera. Right.",
-      "order": null
+      "order": 8
     },
     "01e9e28": {
       "speaker": "Pensato",
       "line": "They can't risk being seen on that footage doing anything really blunt-force.",
-      "order": null
+      "order": 9
     },
     "08b5f21": {
       "speaker": "Pensato",
       "line": "So they pay off one of us to do it.",
-      "order": null
+      "order": 10
     },
     "0a64c07": {
       "speaker": "Clef",
       "line": "It's always the biggest dude here.",
-      "order": null
+      "order": 11
     },
     "081de60": {
       "speaker": "Beat",
       "line": "Maybe I'm just being stupid...but I still don't...get...why?",
-      "order": null
+      "order": 12
     },
     "0a28b59": {
       "speaker": "Pensato",
       "line": "If you're tired, you won't have any energy to put anywhere.",
-      "order": null
+      "order": 13
     },
     "00adfa7": {
       "speaker": "Pensato",
       "line": "I'm off. Gotta check something. Til' later, pals.",
-      "order": null
+      "order": 14
     },
     "0956597": {
       "speaker": "Beat",
       "line": "Bye, Penny.",
-      "order": null
+      "order": 15
     },
     "06ceb13": {
       "speaker": "Beat",
       "line": "Oh, shit, I forgot to ask her something.",
-      "order": null
+      "order": 16
     },
     "06fc1af": {
       "speaker": "Treble",
       "line": "what?",
-      "order": null
+      "order": 17
     },
     "0bcf05c": {
       "speaker": "Beat",
       "line": "Something I can't ask her...publicly.",
-      "order": null
+      "order": 18
     },
     "0099da0": {
       "speaker": "Clef",
       "line": "Can't say it in front of us?",
-      "order": null
+      "order": 19
     },
     "09a5a17": {
       "speaker": "Beat",
       "line": "Not what I mean...hold on.",
-      "order": null
+      "order": 20
     },
     "0394f88": {
       "speaker": "Beat",
       "line": "Hey, uh, you wouldn't happen to know where Penny's cell is, would you?",
-      "order": null
+      "order": 21
     }
   },
   "dayOne_dampener4_deny": {
     "0a1f633": {
       "speaker": "Guard",
       "line": "You just missed a callout, newbie.",
-      "order": null
+      "order": 1
     }
   },
   "dayThree_dampener_end": {
     "08295ba": {
       "speaker": "Beat",
       "line": "Hey, Attacca?",
-      "order": null
+      "order": 1
     },
     "066e931": {
       "speaker": "Beat",
       "line": "Bet you can't beat that high score.",
-      "order": null
+      "order": 2
     },
     "07a62e7": {
       "speaker": "Guard",
       "line": "Get...",
-      "order": null
+      "order": 3
     },
     "058b437": {
       "speaker": "Guard",
       "line": "Get back here!",
-      "order": null
+      "order": 4
     }
   },
   "ending1": {
     "0ef78b0": {
       "speaker": "Beat",
       "line": "Quaver, that's the-",
-      "order": null
+      "order": 1
     },
     "006239b": {
       "speaker": "Quaver",
       "line": "I know.",
-      "order": null
+      "order": 2
     },
     "0823404": {
       "speaker": "Beat",
       "line": "The tape thing! The thing I had!",
-      "order": null
+      "order": 3
     },
     "09c2fc6": {
       "speaker": "Treble",
       "line": "there's nothing else here, beat.",
-      "order": null
+      "order": 4
     },
     "0282d14": {
       "speaker": "Quaver",
       "line": "We have everything else!",
-      "order": null
+      "order": 5
     }
   },
   "fight1": {
     "0fff091": {
       "speaker": "Pensato",
       "line": "Oh, hey, they were looking for you.",
-      "order": null
+      "order": 1
     },
     "08dca05": {
       "speaker": "Beat",
       "line": "The hell is-",
-      "order": null
+      "order": 2
     },
     "0596473": {
       "speaker": "Guard",
       "line": "Pink, you kept us waiting. You're up.",
-      "order": null
+      "order": 3
     },
     "09c94d3": {
       "speaker": "Guard",
       "line": "You're new, so you get a turn first.",
-      "order": null
+      "order": 4
     },
     "0c758a6": {
       "speaker": "Beat",
       "line": "For what?",
-      "order": null
+      "order": 5
     },
     "08cf98b": {
       "speaker": "Guard",
       "line": "If you don't move, we'll give your spot to the kid.",
-      "order": null
+      "order": 6
     },
     "00955e2": {
       "speaker": "Treble",
       "line": "he's bluffing. there are laws about that.",
-      "order": null
+      "order": 7
     },
     "00321ac": {
       "speaker": "Pensato",
       "line": "He's not bluffing. There are laws about all of this.",
-      "order": null
+      "order": 8
     },
     "0cd9f36": {
       "speaker": "Pensato",
       "line": "None of them are being followed, and nobody cares.",
-      "order": null
+      "order": 9
     },
     "0696eab": {
       "speaker": "Pensato",
       "line": "Beat, just, you know. Don't get hurt too bad.",
-      "order": null
+      "order": 10
     }
   },
   "jailDream1_intro": {
     "0627ca4": {
       "speaker": "Beat",
       "line": "I've never had a factory job before.",
-      "order": null
+      "order": 1
     },
     "0a7b586": {
       "speaker": "Beat",
       "line": "But there was something close, once.",
-      "order": null
+      "order": 2
     },
     "0ed1624": {
       "speaker": "Beat",
       "line": "When I was younger, like, way younger,",
-      "order": null
+      "order": 3
     },
     "0779eff": {
       "speaker": "Beat",
       "line": "...like, too young to have a job young,",
-      "order": null
+      "order": 4
     },
     "0558f26": {
       "speaker": "Beat",
       "line": "this guy came to my school.",
-      "order": null
+      "order": 5
     },
     "0581bbf": {
       "speaker": "Beat",
       "line": "He had a little table set up with pamphlets and things.",
-      "order": null
+      "order": 6
     },
     "036062e": {
       "speaker": "Beat",
       "line": "He flagged a bunch of kids down,",
-      "order": null
+      "order": 7
     },
     "0fc24e3": {
       "speaker": "Beat",
       "line": "(the taller kids),",
-      "order": null
+      "order": 8
     },
     "001cffe": {
       "speaker": "Beat",
       "line": "and asked if we wanted a bit of money.",
-      "order": null
+      "order": 9
     },
     "0f2296b": {
       "speaker": "Beat",
       "line": "\"For video games or toys or whatever stuff you like.\"",
-      "order": null
+      "order": 10
     },
     "05805bc": {
       "speaker": "Beat",
       "line": "Literally nobody said no.",
-      "order": null
+      "order": 11
     },
     "0fdfe57": {
       "speaker": "Beat",
       "line": "Including me.",
-      "order": null
+      "order": 12
     }
   },
   "jailDream2_intro": {
     "007e675": {
       "speaker": "Beat",
       "line": "I forgot about the guy with the pamphlets until a bit later.",
-      "order": null
+      "order": 1
     },
     "02f4dc4": {
       "speaker": "Beat",
       "line": "At that point, we were dead in the middle of summer.",
-      "order": null
+      "order": 2
     },
     "05f9826": {
       "speaker": "Beat",
       "line": "They called my mom up.",
-      "order": null
+      "order": 3
     },
     "05a1de3": {
       "speaker": "Beat",
       "line": "They were angry I missed my first day.",
-      "order": null
+      "order": 4
     },
     "083a987": {
       "speaker": "Beat",
       "line": "Said I \"made the other kids pick up the slack.\"",
-      "order": null
+      "order": 5
     },
     "07078d4": {
       "speaker": "Beat",
       "line": "My mom was furious with them, mostly,",
-      "order": null
+      "order": 6
     },
     "071ddb3": {
       "speaker": "Beat",
       "line": "but also me, for agreeing to do it.",
-      "order": null
+      "order": 7
     },
     "0efedaa": {
       "speaker": "Beat",
       "line": "From that next morning onwards I got up at 6 AM every day to detassel corn.",
-      "order": null
+      "order": 8
     },
     "0d442fd": {
       "speaker": "Beat",
       "line": "It's not a good job,",
-      "order": null
+      "order": 9
     },
     "04071ea": {
       "speaker": "Beat",
       "line": "a fun job,",
-      "order": null
+      "order": 10
     },
     "0ad6b2f": {
       "speaker": "Beat",
       "line": "or a healthy job.",
-      "order": null
+      "order": 11
     },
     "04fbe34": {
       "speaker": "Beat",
       "line": "But at least the pay is also terrible.",
-      "order": null
+      "order": 12
     }
   },
   "jailDream3_end": {
     "0ab43d8": {
       "speaker": "Beat",
       "line": "All I know that even with that, they still had all the kids go back out the next day.",
-      "order": null
+      "order": 1
     },
     "00fe72e": {
       "speaker": "Beat",
       "line": "I know that because they called my mom again when I refused to go back.",
-      "order": null
+      "order": 2
     },
     "042490a": {
       "speaker": "Beat",
       "line": "We got a check in the mail later for sixty two dollars.",
-      "order": null
+      "order": 3
     }
   },
   "jailDream3_intro": {
     "00f4994": {
       "speaker": "Beat",
       "line": "The way corn detasseling works is this:",
-      "order": null
+      "order": 1
     },
     "0892141": {
       "speaker": "Beat",
       "line": "They throw a ton of kids (and it's always kids) on a giant metal rig.",
-      "order": null
+      "order": 2
     },
     "0729ca5": {
       "speaker": "Beat",
       "line": "You're not really strapped in or seated. You just kind of hold on to the side.",
-      "order": null
+      "order": 3
     },
     "037a7e9": {
       "speaker": "Beat",
       "line": "Everyone gets these itchy, shitty, sweaty gloves,",
-      "order": null
+      "order": 4
     },
     "015cd2e": {
       "speaker": "Beat",
       "line": "and is told to pick the tassels off the corn.",
-      "order": null
+      "order": 5
     },
     "01281ea": {
       "speaker": "Beat",
       "line": "This is so that the corn can't pollinate itself.",
-      "order": null
+      "order": 6
     },
     "0a8158a": {
       "speaker": "Beat",
       "line": "Because if it does, they can't use the seeds for a hybrid plant.",
-      "order": null
+      "order": 7
     },
     "00a1e6e": {
       "speaker": "Beat",
       "line": "The purpose of the hybrid plant is to make it produce more corn.",
-      "order": null
+      "order": 8
     },
     "0ed8882": {
       "speaker": "Beat",
       "line": "So that they can sell more corn and corn by-products.",
-      "order": null
+      "order": 9
     },
     "04b0e34": {
       "speaker": "Beat",
       "line": "Anyway, the kids pick the tassels off as the rig goes through the field.",
-      "order": null
+      "order": 10
     },
     "0dd413b": {
       "speaker": "Beat",
       "line": "It does this pretty fast.",
-      "order": null
+      "order": 11
     },
     "02b44a6": {
       "speaker": "Beat",
       "line": "Kids are slow.",
-      "order": null
+      "order": 12
     },
     "0a5a81a": {
       "speaker": "Beat",
       "line": "They are not nice about it.",
-      "order": null
+      "order": 13
     }
   },
   "morning1": {
     "043379f": {
       "speaker": "Guard",
       "line": "Get up. It's work time!",
-      "order": null
+      "order": 1
     },
     "042ef75": {
       "speaker": "Beat",
       "line": "Can we...uh,",
-      "order": null
+      "order": 2
     },
     "023082d": {
       "speaker": "Beat",
       "line": "...anything first?",
-      "order": null
+      "order": 3
     },
     "0616af9": {
       "speaker": "Guard",
       "line": "You know the answer to that.",
-      "order": null
+      "order": 4
     },
     "07b1552": {
       "speaker": "Beat",
       "line": "Wasn't there supposed to be breakfast?",
-      "order": null
+      "order": 5
     },
     "059e630": {
       "speaker": "Guard",
       "line": "You missed it! Good job, bozos.",
-      "order": null
+      "order": 6
     },
     "0fa1a16": {
       "speaker": "Beat",
       "line": "There's no alarm for breakfast?",
-      "order": null
+      "order": 7
     },
     "084e55f": {
       "speaker": "Guard",
       "line": "Why would there be?",
-      "order": null
+      "order": 8
     },
     "00c6659": {
       "speaker": "Beat",
       "line": "I don't know. I've never been to prison before.",
-      "order": null
+      "order": 9
     },
     "072ebcf": {
       "speaker": "Guard",
       "line": "Your shift already started. Get to the shop floor.",
-      "order": null
+      "order": 10
     },
     "07f4646": {
       "speaker": "Beat",
       "line": "...ugh.",
-      "order": null
+      "order": 11
     }
   },
   "morning2_nonviolence": {
     "0eddcc6": {
       "speaker": "Beat",
       "line": "-ugh.",
-      "order": null
+      "order": 1
     },
     "002fa7a": {
       "speaker": "Beat",
       "line": "I don't feel like I slept at all.",
-      "order": null
+      "order": 2
     },
     "0db006b": {
       "speaker": "Clef",
       "line": "Oh trust me you did.",
-      "order": null
+      "order": 3
     },
     "0341fac": {
       "speaker": "Clef",
       "line": "Did you know you snore?",
-      "order": null
+      "order": 4
     },
     "07d6f5a": {
       "speaker": "Unknown",
       "line": "I didn't.",
-      "order": null
+      "order": 5
     },
     "074cc9f": {
       "speaker": "Clef",
       "line": "Never got the chance for someone to tell you?",
-      "order": null
+      "order": 6
     },
     "0545660": {
       "speaker": "Clef",
       "line": "Glad I could help.",
-      "order": null
+      "order": 7
     },
     "08618dc": {
       "speaker": "Unknown",
       "line": "I do not.",
-      "order": null
+      "order": 8
     },
     "0544205": {
       "speaker": "Clef",
       "line": "My ears aren't that damaged.",
-      "order": null
+      "order": 9
     },
     "0694497": {
       "speaker": "Clef",
       "line": "It's like a couch being dragged on the floor.",
-      "order": null
+      "order": 10
     },
     "0946ad9": {
       "speaker": "Unknown",
       "line": "I do now.",
-      "order": null
+      "order": 11
     },
     "02253a9": {
       "speaker": "Beat",
       "line": "That's new, I think.",
-      "order": null
+      "order": 12
     },
     "0530b40": {
       "speaker": "Beat",
       "line": "I hope that's not a sign of something worse.",
-      "order": null
+      "order": 13
     },
     "02361e4": {
       "speaker": "Clef",
       "line": "Buddy, everyone here's got something.",
-      "order": null
+      "order": 14
     },
     "0ad0be6": {
       "speaker": "Clef",
       "line": "You can't end up in one of these places without running into some cause of death.",
-      "order": null
+      "order": 15
     },
     "001ccd4": {
       "speaker": "Clef",
       "line": "At least yours is slow.",
-      "order": null
+      "order": 16
     },
     "0fa638c": {
       "speaker": "Unknown",
       "line": "What's yours?",
-      "order": null
+      "order": 17
     },
     "02f68cb": {
       "speaker": "Clef",
       "line": "At this rate, this conversation.",
-      "order": null
+      "order": 18
     },
     "0cc26bf": {
       "speaker": "Unknown",
       "line": "Slow is worse.",
-      "order": null
+      "order": 19
     },
     "03564a8": {
       "speaker": "Clef",
       "line": "It means more time. Time is good.",
-      "order": null
+      "order": 20
     },
     "0ebefd2": {
       "speaker": "Beat",
       "line": "When did you get back last night?",
-      "order": null
+      "order": 21
     },
     "0a7f76b": {
       "speaker": "Clef",
       "line": "Before you. Nobody was here.",
-      "order": null
+      "order": 22
     },
     "01d3475": {
       "speaker": "Treble",
       "line": "hi. ...uh, \"good?\" morning?",
-      "order": null
+      "order": 23
     },
     "0956b43": {
       "speaker": "Clef",
       "line": "DC is a sack of shit.",
-      "order": null
+      "order": 24
     },
     "03ca9ec": {
       "speaker": "Treble",
       "line": "yeah, well.",
-      "order": null
+      "order": 25
     },
     "0d916ff": {
       "speaker": "Treble",
       "line": "yeah.",
-      "order": null
+      "order": 26
     },
     "0ee5813": {
       "speaker": "Guard",
       "line": "Hey. Quit talking. You know the drill.",
-      "order": null
+      "order": 27
     }
   },
   "morning2_violence": {
     "04eefad": {
       "speaker": "Beat",
       "line": "Well, that was insane.",
-      "order": null
+      "order": 1
     },
     "0b5f5e9": {
       "speaker": "Quaver",
       "line": "Good morning, Beat.",
-      "order": null
+      "order": 2
     },
     "019b24a": {
       "speaker": "Clef",
       "line": "It's morning, at least.",
-      "order": null
+      "order": 3
     },
     "05e494c": {
       "speaker": "Clef",
       "line": "Who won?",
-      "order": null
+      "order": 4
     },
     "0ad761c": {
       "speaker": "Unknown",
       "line": "I hope you know that it's crazy that this is just normal to you two.",
-      "order": null
+      "order": 5
     },
     "0f07785": {
       "speaker": "Treble",
       "line": "not any less than anything else in prison.",
-      "order": null
+      "order": 6
     },
     "048f884": {
       "speaker": "Treble",
       "line": "clef, she did.",
-      "order": null
+      "order": 7
     },
     "076be7d": {
       "speaker": "Clef",
       "line": "SHE DID WHAT?",
-      "order": null
+      "order": 8
     },
     "01c4924": {
       "speaker": "Treble",
       "line": "the question you just asked.",
-      "order": null
+      "order": 9
     },
     "08f1ccc": {
       "speaker": "Clef",
       "line": "She won?",
-      "order": null
+      "order": 10
     },
     "0d69688": {
       "speaker": "Treble",
       "line": "yes.",
-      "order": null
+      "order": 11
     },
     "0a4c968": {
       "speaker": "Unknown",
       "line": "I did, in fact.",
-      "order": null
+      "order": 12
     },
     "0f39807": {
       "speaker": "Clef",
       "line": "Bullshit.",
-      "order": null
+      "order": 13
     },
     "0d39a79": {
       "speaker": "Clef",
       "line": "The guy they got is a walking bench press.",
-      "order": null
+      "order": 14
     },
     "09dbb32": {
       "speaker": "Clef",
       "line": "Really?",
-      "order": null
+      "order": 15
     },
     "07f539b": {
       "speaker": "Clef",
       "line": "Damn.",
-      "order": null
+      "order": 16
     },
     "08d48a8": {
       "speaker": "Clef",
       "line": "Well, you had a better night than I did, then.",
-      "order": null
+      "order": 17
     },
     "0458b0a": {
       "speaker": "Treble",
       "line": "was dc a piece of shit",
-      "order": null
+      "order": 18
     },
     "04ecd54": {
       "speaker": "Clef",
       "line": "You KNOW the answer to that.",
-      "order": null
+      "order": 19
     },
     "0cae4c5": {
       "speaker": "Clef",
       "line": "You know it, like, recently.",
-      "order": null
+      "order": 20
     },
     "0ce73f3": {
       "speaker": "Clef",
       "line": "Anyway. I handled it as well as I probably could have.",
-      "order": null
+      "order": 21
     },
     "066989a": {
       "speaker": "Guard",
       "line": "Hey. Quit talking. You know the drill.",
-      "order": null
+      "order": 22
     },
     "028f39b": {
       "speaker": "Guard",
       "line": "Work time.",
-      "order": null
+      "order": 23
     }
   },
   "night1": {
     "0eb50dd": {
       "speaker": "Beat",
       "line": "Does anyone else feel like shit?",
-      "order": null
+      "order": 1
     },
     "0f91fcd": {
       "speaker": "Clef",
       "line": "I think that's called \"you're in jail.\"",
-      "order": null
+      "order": 2
     },
     "06229f7": {
       "speaker": "Beat",
       "line": "No, it's, like, physical.",
-      "order": null
+      "order": 3
     },
     "0d12550": {
       "speaker": "Beat",
       "line": "You know the feeling when you're about to sneeze but you don'tsneeze?",
-      "order": null
+      "order": 4
     },
     "0e207ef": {
       "speaker": "Beat",
       "line": "It's like that, but nausea. Like the shape around nausea.",
-      "order": null
+      "order": 5
     },
     "07b96ae": {
       "speaker": "Clef",
       "line": "I mean the food sucks.",
-      "order": null
+      "order": 6
     },
     "06dbf9a": {
       "speaker": "Clef",
       "line": "Treble's taking too long.",
-      "order": null
+      "order": 7
     },
     "0f01e82": {
       "speaker": "Quaver",
       "line": "Do they usually, uh-",
-      "order": null
+      "order": 8
     },
     "0fd70b1": {
       "speaker": "Clef",
       "line": "What, the questioning? The whole song and dance? Yeah.",
-      "order": null
+      "order": 9
     },
     "0231309": {
       "speaker": "Clef",
       "line": "I'm surprised you didn't already know. You seem so clued-in.",
-      "order": null
+      "order": 10
     },
     "0317167": {
       "speaker": "Beat",
       "line": "She was trying to help.",
-      "order": null
+      "order": 11
     },
     "022038e": {
       "speaker": "Clef",
       "line": "How was it? How was he? Same as usual?",
-      "order": null
+      "order": 12
     },
     "0a8286b": {
       "speaker": "Clef",
       "line": "That bad?",
-      "order": null
+      "order": 13
     },
     "05e543a": {
       "speaker": "Clef",
       "line": "...uh, hey, are you in there? What's up?",
-      "order": null
+      "order": 14
     },
     "07efecc": {
       "speaker": "Treble",
       "line": "clef, i'm fine. i'm just exhausted.",
-      "order": null
+      "order": 15
     },
     "0bbee1a": {
       "speaker": "Clef",
       "line": "Dude, is everything alright?",
-      "order": null
+      "order": 16
     },
     "0f429ad": {
       "speaker": "Treble",
       "line": "it's fine.",
-      "order": null
+      "order": 17
     },
     "08d4792": {
       "speaker": "Treble",
       "line": "let's get some sleep.",
-      "order": null
+      "order": 18
     },
     "03460b2": {
       "speaker": "Treble",
       "line": "we'll need it for tomorrow.",
-      "order": null
+      "order": 19
     },
     "0164853": {
       "speaker": "Quaver",
       "line": "What's going on tomorrow?",
-      "order": null
+      "order": 20
     }
   },
   "prisonintro": {
     "0e02931": {
       "speaker": "Guard",
       "line": "Ground rules: don't try anything.",
-      "order": null
+      "order": 1
     },
     "03ac0db": {
       "speaker": "Guard",
       "line": "\"Anything\" means, in no particular order:",
-      "order": null
+      "order": 2
     },
     "0029a94": {
       "speaker": "Guard",
       "line": "Refusing to comply with a guard's directions.",
-      "order": null
+      "order": 3
     },
     "08ac3bb": {
       "speaker": "Guard",
       "line": "Just don't refuse to comply in general.",
-      "order": null
+      "order": 4
     },
     "0d1e17b": {
       "speaker": "Guard",
       "line": "Assaulting a guard.",
-      "order": null
+      "order": 5
     },
     "0f63a3b": {
       "speaker": "Guard",
       "line": "Assaulting a fellow inmate.",
-      "order": null
+      "order": 6
     },
     "0802120": {
       "speaker": "Guard",
       "line": "Honestly we don't really care about that one.",
-      "order": null
+      "order": 7
     },
     "0292222": {
       "speaker": "Guard",
       "line": "Obviously, no singing, or whistling, or whatever.",
-      "order": null
+      "order": 8
     },
     "049f1e9": {
       "speaker": "Guard",
       "line": "Basically, don't be an idiot. Or you go boom.",
-      "order": null
+      "order": 9
     },
     "0d58312": {
       "speaker": "Beat",
       "line": "Boom?",
-      "order": null
+      "order": 10
     },
     "0c66289": {
       "speaker": "Guard",
       "line": "Who cares.",
-      "order": null
+      "order": 11
     },
     "040fbec": {
       "speaker": "Beat",
       "line": "I obviously do.",
-      "order": null
+      "order": 12
     },
     "063845f": {
       "speaker": "Guard",
       "line": "You know what I think?",
-      "order": null
+      "order": 13
     },
     "01f86ee": {
       "speaker": "Unknown",
       "line": "I couldn't possibly know that.",
-      "order": null
+      "order": 14
     },
     "0b1ae4f": {
       "speaker": "Guard",
       "line": "Of course not.",
-      "order": null
+      "order": 15
     },
     "06c73a2": {
       "speaker": "Guard",
       "line": "Well, here I think you have it easy.",
-      "order": null
+      "order": 16
     },
     "0362903": {
       "speaker": "Guard",
       "line": "Welcome to what amounts to a permanent fricken' vacation.",
-      "order": null
+      "order": 17
     },
     "00f7bbf": {
       "speaker": "Guard",
       "line": "Trust me. It's easier to be in here than out there.",
-      "order": null
+      "order": 18
     },
     "0db84b1": {
       "speaker": "Unknown",
       "line": "Do I even want to?",
-      "order": null
+      "order": 19
     },
     "07c55e8": {
       "speaker": "Treble",
       "line": "he's not listening anyway.",
-      "order": null
+      "order": 20
     },
     "0d74124": {
       "speaker": "Guard",
       "line": "You should consider yourselves lucky.",
-      "order": null
+      "order": 21
     },
     "01c8854": {
       "speaker": "Guard",
       "line": "Sure, it sucks in here.",
-      "order": null
+      "order": 22
     },
     "05c19da": {
       "speaker": "Guard",
       "line": "But you know what sucks more?",
-      "order": null
+      "order": 23
     },
     "087b702": {
       "speaker": "Guard",
       "line": "Needing to have a job.",
-      "order": null
+      "order": 24
     },
     "070ab54": {
       "speaker": "Guard",
       "line": "Needing to find. A job.",
-      "order": null
+      "order": 25
     },
     "09bfc73": {
       "speaker": "Guard",
       "line": "Do not forget this: you've got it better off than I do.",
-      "order": null
+      "order": 26
     },
     "09de69a": {
       "speaker": "Treble",
       "line": "want to change places, then?",
-      "order": null
+      "order": 27
     },
     "0c11408": {
       "speaker": "Guard",
       "line": "Come on, dude. This isn't communism.",
-      "order": null
+      "order": 28
     },
     "0db11ab": {
       "speaker": "Guard",
       "line": "We treat our prisoners well.",
-      "order": null
+      "order": 29
     },
     "047dc1e": {
       "speaker": "Guard",
       "line": "That's what I was going to say, actually.",
-      "order": null
+      "order": 30
     },
     "0015a68": {
       "speaker": "Guard",
       "line": "I wish I was one of you guys.",
-      "order": null
+      "order": 31
     },
     "04e619d": {
       "speaker": "Guard",
       "line": "Wouldn't have to worry about anything.",
-      "order": null
+      "order": 32
     },
     "0cfa660": {
       "speaker": "Guard",
       "line": "Could just do whatever I want until I got told to do something else.",
-      "order": null
+      "order": 33
     },
     "0f0dcf4": {
       "speaker": "Guard",
       "line": "Like...cats. You guys basically get to be treated like my cat.",
-      "order": null
+      "order": 34
     },
     "0098fe2": {
       "speaker": "Guard",
       "line": "They're not.",
-      "order": null
+      "order": 35
     },
     "0120b0d": {
       "speaker": "Guard",
       "line": "That's kind of what I was going to get into.",
-      "order": null
+      "order": 36
     },
     "0b871a7": {
       "speaker": "Guard",
       "line": "You don't have to worry about things like that anymore.",
-      "order": null
+      "order": 37
     },
     "04ae480": {
       "speaker": "Guard",
       "line": "You get to just sit here and get told what to do.",
-      "order": null
+      "order": 38
     },
     "0b53d96": {
       "speaker": "Guard",
       "line": "You don't even have to be a person, anymore.",
-      "order": null
+      "order": 39
     },
     "0b16e9a": {
       "speaker": "Guard",
       "line": "Isn't that nice?",
-      "order": null
+      "order": 40
     },
     "082a275": {
       "speaker": "Guard",
       "line": "Well now I am thinking that.",
-      "order": null
+      "order": 41
     },
     "012571a": {
       "speaker": "Guard",
       "line": "You threw me off. I haven't eaten since...",
-      "order": null
+      "order": 42
     },
     "01cfda6": {
       "speaker": "Guard",
       "line": "...yesterday.",
-      "order": null
+      "order": 43
     },
     "0e1f880": {
       "speaker": "Guard",
       "line": "Goddamn.",
-      "order": null
+      "order": 44
     },
     "00960b3": {
       "speaker": "Guard",
       "line": "I can't remember what I was talking about.",
-      "order": null
+      "order": 45
     },
     "0c7240e": {
       "speaker": "Unknown",
       "line": "You can think?",
-      "order": null
+      "order": 46
     },
     "0c4c957": {
       "speaker": "Guard",
       "line": "No, don't worry. She can get lippy.",
-      "order": null
+      "order": 47
     },
     "004a47f": {
       "speaker": "Guard",
       "line": "She'll see what it gets her.",
-      "order": null
+      "order": 48
     },
     "0be6af3": {
       "speaker": "Guard",
       "line": "Oh, hey.",
-      "order": null
+      "order": 49
     },
     "02b5970": {
       "speaker": "Guard",
       "line": "Look at the lunatic.",
-      "order": null
+      "order": 50
     },
     "06e3b66": {
       "speaker": "RunningGuy",
       "line": "I think that's a new high score",
-      "order": null
+      "order": 51
     },
     "075c7a1": {
       "speaker": "Guard",
       "line": "Some of 'em do it just to see how far they can get.",
-      "order": null
+      "order": 52
     },
     "06e8338": {
       "speaker": "Guard",
       "line": "Especially that someone.",
-      "order": null
+      "order": 53
     },
     "00f75cc": {
       "speaker": "Guard",
       "line": "Hey, Attacca, how far was that?",
-      "order": null
+      "order": 54
     },
     "08d25ae": {
       "speaker": "RunningGuy",
       "line": "I'm guessing about half a meter better than last time",
-      "order": null
+      "order": 55
     },
     "0ac0b4e": {
       "speaker": "Guard",
       "line": "They don't even want to get out. It's just a game at this point.",
-      "order": null
+      "order": 56
     },
     "0d7f8b0": {
       "speaker": "Guard",
       "line": "Sick shit.",
-      "order": null
+      "order": 57
     },
     "035f74f": {
       "speaker": "Guard",
       "line": "Anyway, chow time.",
-      "order": null
+      "order": 58
     },
     "02082f2": {
       "speaker": "Guard",
       "line": "Get lost, unless you also want to get a rubber shower.",
-      "order": null
+      "order": 59
     }
   },
   "start_factory_game_day1": {
     "0868459": {
       "speaker": "Guard",
       "line": "Welcome to shitville.",
-      "order": null
+      "order": 1
     },
     "0ecb588": {
       "speaker": "Guard",
       "line": "None taken.",
-      "order": null
+      "order": 2
     },
     "06d0c61": {
       "speaker": "Guard",
       "line": "And me. I have to live here too.",
-      "order": null
+      "order": 3
     },
     "019915f": {
       "speaker": "Beat",
       "line": "You can leave, though.",
-      "order": null
+      "order": 4
     },
     "01c1538": {
       "speaker": "Guard",
       "line": "Not if I want my job. Speaking of:",
-      "order": null
+      "order": 5
     },
     "0b35e33": {
       "speaker": "Guard",
       "line": "Treble, Clef, you know how to do this by now.",
-      "order": null
+      "order": 6
     },
     "095d17b": {
       "speaker": "Clef",
       "line": "You can say that without laughing.",
-      "order": null
+      "order": 7
     },
     "04434a0": {
       "speaker": "Guard",
       "line": "Teach the kid.",
-      "order": null
+      "order": 8
     },
     "0f1dce3": {
       "speaker": "Guard",
       "line": "Pink, you seem like you're bad with your hands.",
-      "order": null
+      "order": 9
     },
     "04056ab": {
       "speaker": "Beat",
       "line": "I-",
-      "order": null
+      "order": 10
     },
     "0ae1c51": {
       "speaker": "Beat",
       "line": "Whatever.",
-      "order": null
+      "order": 11
     },
     "0ba621e": {
       "speaker": "Guard",
       "line": "You get the easiest job in the world.",
-      "order": null
+      "order": 12
     },
     "047e815": {
       "speaker": "Guard",
       "line": "Make sure the stuff coming down the conveyor belt looks right.",
-      "order": null
+      "order": 13
     },
     "06950d6": {
       "speaker": "Guard",
       "line": "I will be checking your work.",
-      "order": null
+      "order": 14
     },
     "0ad3149": {
       "speaker": "Beat",
       "line": "Then what's the point of me doing it?",
-      "order": null
+      "order": 15
     },
     "027601d": {
       "speaker": "Guard",
       "line": "Humor me.",
-      "order": null
+      "order": 16
     }
   },
   "timeToBreakOut": {
     "0489e66": {
       "speaker": "Clef",
       "line": "Here! Our shit is here!",
-      "order": null
+      "order": 1
     },
     "0488fee": {
       "speaker": "Clef",
       "line": "Let's get in the car and get moving.",
-      "order": null
+      "order": 2
     },
     "006a48e": {
       "speaker": "Penny",
       "line": "It worked!",
-      "order": null
+      "order": 3
     },
     "0ef476e": {
       "speaker": "Penny",
       "line": "You need to move now. We don't have another shot.",
-      "order": null
+      "order": 4
     },
     "07224d3": {
       "speaker": "Beat",
       "line": "Wait, you're not coming?",
-      "order": null
+      "order": 5
     },
     "0780dca": {
       "speaker": "Beat",
       "line": "But-",
-      "order": null
+      "order": 6
     },
     "09cf4fa": {
       "speaker": "Penny",
       "line": "Trust me. I have another way clear.",
-      "order": null
+      "order": 7
     },
     "0c4a2c1": {
       "speaker": "Penny",
       "line": "You don't.",
-      "order": null
+      "order": 8
     },
     "096dd6a": {
       "speaker": "Penny",
       "line": "And if I can't keep the storm brewing here, you won't.",
-      "order": null
+      "order": 9
     },
     "0733729": {
       "speaker": "Penny",
       "line": "See you on the outtie.",
-      "order": null
+      "order": 10
     },
     "06df7ba": {
       "speaker": "Beat",
       "line": "Where's my walkman?",
-      "order": null
+      "order": 11
     },
     "075a550": {
       "speaker": "Treble",
       "line": "the what?",
-      "order": null
+      "order": 12
     },
     "0e2fb6f": {
       "speaker": "Quaver",
       "line": "I only found the mic and guitar!",
-      "order": null
+      "order": 13
     },
     "02d7caf": {
       "speaker": "Clef",
       "line": "Beat, we need to go now.",
-      "order": null
+      "order": 14
     },
     "0d99f88": {
       "speaker": "Beat",
       "line": "Go on ahead. I'll figure something out.",
-      "order": null
+      "order": 15
     },
     "004c5dd": {
       "speaker": "Quaver",
       "line": "Do you really need it? Now?",
-      "order": null
+      "order": 16
     },
     "0f52437": {
       "speaker": "Clef",
       "line": "What the hell?",
-      "order": null
+      "order": 17
     },
     "06b383d": {
       "speaker": "Beat",
       "line": "I said go on ahead.",
-      "order": null
+      "order": 18
     },
     "0f63d72": {
       "speaker": "Clef",
       "line": "...okay. Okay. We're going.",
-      "order": null
+      "order": 19
     }
   }
 }
