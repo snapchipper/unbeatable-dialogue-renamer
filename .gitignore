@@ -210,4 +210,11 @@ __marimo__/
 .DS_Store
 
 #unbeatable audio - no piracy here
-/audio/*
+*.wav
+/audio copy/*
+#copilot slop
+/backups/*
+/scripts/*
+#the raw game scripts
+C*Dialogue-Assembly.txt
+C*Dialogue-Strings.txt
