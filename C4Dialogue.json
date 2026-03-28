@@ -1,0 +1,5232 @@
+{
+  "078f8fe": {
+    "speaker": "Apoco",
+    "line": "Oh, hiiiii.",
+    "order": null
+  },
+  "00ac8e0": {
+    "speaker": "Apoco",
+    "line": "We're so glad you showed up.",
+    "order": null
+  },
+  "00b125f": {
+    "speaker": "Poco",
+    "line": "Our favorite little renegade.",
+    "order": null
+  },
+  "057c0f7": {
+    "speaker": "Apoco",
+    "line": "We've been waiting for you for so, so, soooo long.",
+    "order": null
+  },
+  "0e86e52": {
+    "speaker": "Poco",
+    "line": "Why'd you keep us waiting, Beat?",
+    "order": null
+  },
+  "0566e77": {
+    "speaker": "Apoco",
+    "line": "We've got so much to talk about.",
+    "order": null
+  },
+  "0cfb919": {
+    "speaker": "Poco",
+    "line": "Soooooo much.",
+    "order": null
+  },
+  "0373ba5": {
+    "speaker": "Beat",
+    "line": "Can't you two take anything seriously?",
+    "order": null
+  },
+  "0c3ead0": {
+    "speaker": "Apoco",
+    "line": "Always as much as it deserves.",
+    "order": null
+  },
+  "036139f": {
+    "speaker": "Beat",
+    "line": "I heard you both quit HARM.",
+    "order": null
+  },
+  "0371c2b": {
+    "speaker": "Apoco",
+    "line": "Oh, don't come to us with the past.",
+    "order": null
+  },
+  "0b780a0": {
+    "speaker": "Poco",
+    "line": "Ancient history.",
+    "order": null
+  },
+  "0438e39": {
+    "speaker": "Apoco",
+    "line": "Forget about it.",
+    "order": null
+  },
+  "0109cf7": {
+    "speaker": "Poco",
+    "line": "We're on your side now, girlie!",
+    "order": null
+  },
+  "034d278": {
+    "speaker": "Beat",
+    "line": "Then work with me and let me-",
+    "order": null
+  },
+  "03ab698": {
+    "speaker": "Apoco",
+    "line": "You work with us.",
+    "order": null
+  },
+  "02f611a": {
+    "speaker": "Poco",
+    "line": "But, of course, you're the boss.",
+    "order": null
+  },
+  "092215e": {
+    "speaker": "Beat",
+    "line": "You're not listening to me. I'm trying to help you-",
+    "order": null
+  },
+  "0da128a": {
+    "speaker": "Apoco",
+    "line": "We're working on a great campaign for you.",
+    "order": null
+  },
+  "09bc6c6": {
+    "speaker": "Poco",
+    "line": "We're workshopping it.",
+    "order": null
+  },
+  "06d8228": {
+    "speaker": "Poco",
+    "line": "\"In a world…\"",
+    "order": null
+  },
+  "05de656": {
+    "speaker": "Apoco",
+    "line": "\"...where music is illegal... and you do crimes.\"",
+    "order": null
+  },
+  "0a77578": {
+    "speaker": "Poco",
+    "line": "Goosebumps.",
+    "order": null
+  },
+  "0208b09": {
+    "speaker": "Apoco",
+    "line": "The right shivers.",
+    "order": null
+  },
+  "038dcab": {
+    "speaker": "Poco",
+    "line": "So snappy, right? So snazzy. Gets the blood going.",
+    "order": null
+  },
+  "0e30d5d": {
+    "speaker": "Apoco",
+    "line": "Don't you love it?",
+    "order": null
+  },
+  "0625b73": {
+    "speaker": "Poco",
+    "line": "Love it.",
+    "order": null
+  },
+  "0b2a102": {
+    "speaker": "Beat",
+    "line": "But it doesn't really mean... anything.",
+    "order": null
+  },
+  "0742356": {
+    "speaker": "Poco",
+    "line": "None of this means anything.",
+    "order": null
+  },
+  "0fc3bcb": {
+    "speaker": "Apoco",
+    "line": "Nothing does.",
+    "order": null
+  },
+  "0bee7d5": {
+    "speaker": "Beat",
+    "line": "Oh, come on. You don't actually believe that.",
+    "order": null
+  },
+  "09c32c6": {
+    "speaker": "Beat",
+    "line": "You're telling me you don't care about what you make?",
+    "order": null
+  },
+  "0b29831": {
+    "speaker": "Apoco",
+    "line": "What, you're trying to dig deep down into the dark depths of our soul?",
+    "order": null
+  },
+  "05c5745": {
+    "speaker": "Apoco",
+    "line": "I'm not sure you'll get anywhere with that, girlie.",
+    "order": null
+  },
+  "00b047c": {
+    "speaker": "Beat",
+    "line": "Does she feel the same way?",
+    "order": null
+  },
+  "0d5182e": {
+    "speaker": "Poco",
+    "line": "What, me? Of course.",
+    "order": null
+  },
+  "0bb8a14": {
+    "speaker": "Poco",
+    "line": "We're two peas in a soup.",
+    "order": null
+  },
+  "0c069c1": {
+    "speaker": "Beat",
+    "line": "So, then, why?",
+    "order": null
+  },
+  "0891763": {
+    "speaker": "Apoco",
+    "line": "Be specific when you ask a question.",
+    "order": null
+  },
+  "0ce4ca8": {
+    "speaker": "Beat",
+    "line": "Why do you do this shit, anyway?",
+    "order": null
+  },
+  "0486085": {
+    "speaker": "Apoco",
+    "line": "Be more specific-",
+    "order": null
+  },
+  "0729cc6": {
+    "speaker": "Poco",
+    "line": "Uh, because we're good at it?",
+    "order": null
+  },
+  "0f56cdf": {
+    "speaker": "Apoco",
+    "line": "...yeah. It's not complicated.",
+    "order": null
+  },
+  "010421d": {
+    "speaker": "Poco",
+    "line": "It doesn't have to be more than that.",
+    "order": null
+  },
+  "02c0cb3": {
+    "speaker": "Beat",
+    "line": "Oh, come on, are you guys really that simple?",
+    "order": null
+  },
+  "0efe696": {
+    "speaker": "Beat",
+    "line": "Nothing else going on?",
+    "order": null
+  },
+  "062f074": {
+    "speaker": "Poco",
+    "line": "...what's wrong with that?",
+    "order": null
+  },
+  "0a036f0": {
+    "speaker": "Beat",
+    "line": "I expected more from you guys.",
+    "order": null
+  },
+  "05e89b3": {
+    "speaker": "Apoco",
+    "line": "You have it the other way around.",
+    "order": null
+  },
+  "0cf0fd9": {
+    "speaker": "Apoco",
+    "line": "We're good enough we can do this on autopilot.",
+    "order": null
+  },
+  "0eda51a": {
+    "speaker": "Apoco",
+    "line": "Why give it more than it's worth?",
+    "order": null
+  },
+  "04ffe09": {
+    "speaker": "Beat",
+    "line": "God. I didn't expect you two to be so predictable.",
+    "order": null
+  },
+  "019d464": {
+    "speaker": "Apoco",
+    "line": "...We aren't-",
+    "order": null
+  },
+  "01b12a7": {
+    "speaker": "Beat",
+    "line": "Prove it, then.",
+    "order": null
+  },
+  "0635367": {
+    "speaker": "Beat",
+    "line": "\"Oh, we're so over it.\"",
+    "order": null
+  },
+  "0ea8756": {
+    "speaker": "Beat",
+    "line": "\"Oh, we don't have to put effort in. We just show up looking like this.\"",
+    "order": null
+  },
+  "01ee44b": {
+    "speaker": "Beat",
+    "line": "Sure. Sure you do.",
+    "order": null
+  },
+  "00560f4": {
+    "speaker": "Apoco",
+    "line": "...we're light on our feet. We're flexible. And we're fast at-",
+    "order": null
+  },
+  "0f41304": {
+    "speaker": "Beat",
+    "line": "Nobody buys the act.",
+    "order": null
+  },
+  "01d1817": {
+    "speaker": "Poco",
+    "line": "Yes they do-",
+    "order": null
+  },
+  "0c3184e": {
+    "speaker": "Apoco",
+    "line": "It's not an act.",
+    "order": null
+  },
+  "0c7af04": {
+    "speaker": "Beat",
+    "line": "I don't buy the act.",
+    "order": null
+  },
+  "0772bc9": {
+    "speaker": "Apoco",
+    "line": "There's nothing to buy. It's what it is.",
+    "order": null
+  },
+  "09ae964": {
+    "speaker": "Apoco",
+    "line": "We're what you see on the tin.",
+    "order": null
+  },
+  "004e86e": {
+    "speaker": "Poco",
+    "line": "...uh, yeah. That's...",
+    "order": null
+  },
+  "0e736f3": {
+    "speaker": "Apoco",
+    "line": "I wouldn't expect you to understand.",
+    "order": null
+  },
+  "063720d": {
+    "speaker": "Apoco",
+    "line": "For us, it's just a job. We can take it or leave it.",
+    "order": null
+  },
+  "029cdfb": {
+    "speaker": "Apoco",
+    "line": "This isn't some deep-seated self expression.",
+    "order": null
+  },
+  "0659e69": {
+    "speaker": "Apoco",
+    "line": "Again, Beat, we make commercials.",
+    "order": null
+  },
+  "073d705": {
+    "speaker": "Beat",
+    "line": "You tell me you put nothing of yourself into that?",
+    "order": null
+  },
+  "050fb26": {
+    "speaker": "BeatOffscreenLeft",
+    "line": "It doesn't feel great when you get it right?",
+    "order": null
+  },
+  "0cd7a1e": {
+    "speaker": "PocoScreenRight",
+    "line": "Well, I mean, yeah, we... I like doing a good job.",
+    "order": null
+  },
+  "02521a2": {
+    "speaker": "Beat",
+    "line": "It doesn't hurt at all when you mess it up?",
+    "order": null
+  },
+  "0eb498f": {
+    "speaker": "Beat",
+    "line": "Like you did with me.",
+    "order": null
+  },
+  "0f2c190": {
+    "speaker": "Beat",
+    "line": "Never forget I beat you two.",
+    "order": null
+  },
+  "02b1e29": {
+    "speaker": "ApocoKneel",
+    "line": "Come on. Do you really think we thought about that at all?",
+    "order": null
+  },
+  "0289a8d": {
+    "speaker": "PocoKneel",
+    "line": "Of course it hurts! It... uh...",
+    "order": null
+  },
+  "0b700aa": {
+    "speaker": "ApocoKneel",
+    "line": "...It's fine. It's a bump.",
+    "order": null
+  },
+  "07274dc": {
+    "speaker": "PocoKneel",
+    "line": "Right, we don't let it get to us.",
+    "order": null
+  },
+  "04fb08e": {
+    "speaker": "Beat",
+    "line": "Why does it hurt at all, though? If you're so above it all.",
+    "order": null
+  },
+  "0d3ec66": {
+    "speaker": "Beat",
+    "line": "If you didn't care about the thing you did.",
+    "order": null
+  },
+  "09db217": {
+    "speaker": "Beat",
+    "line": "Just admit you give a shit. What are you embarrassed about?",
+    "order": null
+  },
+  "0efd7fc": {
+    "speaker": "PocoSide",
+    "line": "It's not that. It's...",
+    "order": null
+  },
+  "0ae8dab": {
+    "speaker": "ApocoSide",
+    "line": "What, like you?",
+    "order": null
+  },
+  "0629a28": {
+    "speaker": "Beat",
+    "line": "Yes! Of course I am!",
+    "order": null
+  },
+  "04282e0": {
+    "speaker": "Beat",
+    "line": "The shit I do is the shit I am.",
+    "order": null
+  },
+  "0921842": {
+    "speaker": "Beat",
+    "line": "And yeah, maybe it's not healthy just how much self-worth I attach to what I make.",
+    "order": null
+  },
+  "0a7b114": {
+    "speaker": "Beat",
+    "line": "But I'm a mature enough goddamn human being to admit-",
+    "order": null
+  },
+  "0ea90d8": {
+    "speaker": "Beat",
+    "line": "I care when someone hates what I've made.",
+    "order": null
+  },
+  "09ca5c9": {
+    "speaker": "Beat",
+    "line": "And I love it when they love it.",
+    "order": null
+  },
+  "0bb08cc": {
+    "speaker": "PocoSide",
+    "line": "Maybe she's...",
+    "order": null
+  },
+  "095045f": {
+    "speaker": "ApocoSide",
+    "line": "You can't listen to this Poco. She's just-",
+    "order": null
+  },
+  "0b13490": {
+    "speaker": "PocoSide",
+    "line": "She's what? What's she trying to do?",
+    "order": null
+  },
+  "0854836": {
+    "speaker": "PocoSide",
+    "line": "She's too... messy to be anything else than what she is.",
+    "order": null
+  },
+  "03d881e": {
+    "speaker": "PocoSide",
+    "line": "What if she's right?",
+    "order": null
+  },
+  "05a837a": {
+    "speaker": "ApocoSide",
+    "line": "We don't do this for ourselves. That's not the point of the job.",
+    "order": null
+  },
+  "00b59af": {
+    "speaker": "ApocoSide",
+    "line": "We make something else shinier.",
+    "order": null
+  },
+  "044d5bf": {
+    "speaker": "ApocoSide",
+    "line": "...And we move on.",
+    "order": null
+  },
+  "08c7488": {
+    "speaker": "PocoSide",
+    "line": "...the shine is a part of us.",
+    "order": null
+  },
+  "0392278": {
+    "speaker": "Apoco",
+    "line": "...If that's true, then why has it gotten so hard, lately?",
+    "order": null
+  },
+  "03a9886": {
+    "speaker": "Apoco",
+    "line": "Because this work has been fun.",
+    "order": null
+  },
+  "0eab2ae": {
+    "speaker": "Apoco",
+    "line": "I'm not...",
+    "order": null
+  },
+  "0fd583c": {
+    "speaker": "Apoco",
+    "line": "I know I'm not pretending that.",
+    "order": null
+  },
+  "09ca9f3": {
+    "speaker": "Apoco",
+    "line": "I like working with you on this.",
+    "order": null
+  },
+  "08283ea": {
+    "speaker": "Apoco",
+    "line": "I like...",
+    "order": null
+  },
+  "0f4b2c2": {
+    "speaker": "Poco",
+    "line": "Of course I like working with you!",
+    "order": null
+  },
+  "02fc917": {
+    "speaker": "Poco",
+    "line": "...I wish I liked the thing we're doing, too.",
+    "order": null
+  },
+  "0472c04": {
+    "speaker": "Beat",
+    "line": "Uggggh. Okay.",
+    "order": null
+  },
+  "08e2fcf": {
+    "speaker": "Beat",
+    "line": "God, it's still beautiful, despite everything.",
+    "order": null
+  },
+  "031f8c3": {
+    "speaker": "Beat",
+    "line": "...even if it emphasizes how truly awful this room looks in comparison.",
+    "order": null
+  },
+  "08753cd": {
+    "speaker": "Beat",
+    "line": "...I'm not leaving without a shower.",
+    "order": null
+  },
+  "0ec5bb9": {
+    "speaker": "Beat",
+    "line": "Wish I had clean clothes, though.",
+    "order": null
+  },
+  "0a24e45": {
+    "speaker": "Beat",
+    "line": "Hmm.",
+    "order": null
+  },
+  "0a4b413": {
+    "speaker": "Beat",
+    "line": "I've still got some time...",
+    "order": null
+  },
+  "0d159cb": {
+    "speaker": "Beat",
+    "line": "Let's try to get something going.",
+    "order": null
+  },
+  "07b0d91": {
+    "speaker": "Beat",
+    "line": "Goddammit.",
+    "order": null
+  },
+  "0d7313b": {
+    "speaker": "Beat",
+    "line": "Why am I so shit right now?",
+    "order": null
+  },
+  "0bbf6c7": {
+    "speaker": "Beat",
+    "line": "And now I'm late, on top of it.",
+    "order": null
+  },
+  "01c458d": {
+    "speaker": "Beat",
+    "line": "Time to die...",
+    "order": null
+  },
+  "01d40dd": {
+    "speaker": "Beat",
+    "line": "Heyyyyyy, so...",
+    "order": null
+  },
+  "0722aea": {
+    "speaker": "Beat",
+    "line": "I'm. Gonna be late for work.",
+    "order": null
+  },
+  "0e60053": {
+    "speaker": "Beat",
+    "line": ".........again.",
+    "order": null
+  },
+  "0168e15": {
+    "speaker": "Beat",
+    "line": "So. Bye.",
+    "order": null
+  },
+  "09953df": {
+    "speaker": "Manager",
+    "line": "You're late. Again.",
+    "order": null
+  },
+  "0b2ff69": {
+    "speaker": "Beat",
+    "line": "Sorry, sorry. I called ahead!!",
+    "order": null
+  },
+  "0f27fbf": {
+    "speaker": "Manager",
+    "line": "You were already late when you called ahead. You need to be on the floor yesterday",
+    "order": null
+  },
+  "011e3b7": {
+    "speaker": "Beat",
+    "line": "I was here yesterday. You had me clopen!",
+    "order": null
+  },
+  "0e0163d": {
+    "speaker": "Manager",
+    "line": "You weren't on the schedule for yesterday, though.",
+    "order": null
+  },
+  "04dd01e": {
+    "speaker": "Beat",
+    "line": "...Greg called me and asked if I could fill in since Ashley had a thing.",
+    "order": null
+  },
+  "0624f2a": {
+    "speaker": "Manager",
+    "line": "Well he didn't tell me that. What thing?",
+    "order": null
+  },
+  "0371f3d": {
+    "speaker": "Beat",
+    "line": "I didn't ask.",
+    "order": null
+  },
+  "02b27ac": {
+    "speaker": "Manager",
+    "line": "Why not? Regardless, this is my shift, and what happens on other shifts should not affect mine.",
+    "order": null
+  },
+  "0a65c0b": {
+    "speaker": "Beat",
+    "line": "Nobody's even here.",
+    "order": null
+  },
+  "06ca882": {
+    "speaker": "Manager",
+    "line": "Which is why you need to be out there cleaning up your section before customers come in.",
+    "order": null
+  },
+  "0136637": {
+    "speaker": "Beat",
+    "line": "It's already clean. I did that yesterday.",
+    "order": null
+  },
+  "0e3cd07": {
+    "speaker": "Manager",
+    "line": "You think this is clean?",
+    "order": null
+  },
+  "0961c4e": {
+    "speaker": "Manager",
+    "line": "Do you live in a zoo?",
+    "order": null
+  },
+  "0b63450": {
+    "speaker": "Beat",
+    "line": "Someone, please, give me a gun.",
+    "order": null
+  },
+  "06e27c1": {
+    "speaker": "Beat",
+    "line": "God.",
+    "order": null
+  },
+  "0bf8af5": {
+    "speaker": "Beat",
+    "line": "It's not worth it.",
+    "order": null
+  },
+  "0e6a96c": {
+    "speaker": "Beat",
+    "line": "He's fine.",
+    "order": null
+  },
+  "0e0b32c": {
+    "speaker": "Beat",
+    "line": "Been a little upset lately, though.",
+    "order": null
+  },
+  "054d957": {
+    "speaker": "Beat",
+    "line": "He, uh-",
+    "order": null
+  },
+  "04afda9": {
+    "speaker": "Beat",
+    "line": "Sorry, I'm being held up at work.",
+    "order": null
+  },
+  "01aa140": {
+    "speaker": "Beat",
+    "line": "Shit.",
+    "order": null
+  },
+  "0dc24a1": {
+    "speaker": "Beat",
+    "line": "Shit! Shit.",
+    "order": null
+  },
+  "0cd0c5c": {
+    "speaker": "Beat",
+    "line": "Okay, well, look. The day only just started.",
+    "order": null
+  },
+  "07430f9": {
+    "speaker": "Beat",
+    "line": "Maybe a car will veer onto the sidewalk and non-fatally injure me.",
+    "order": null
+  },
+  "03c28fb": {
+    "speaker": "Beat",
+    "line": "It could happen.",
+    "order": null
+  },
+  "0696b85": {
+    "speaker": "Beat",
+    "line": "Anything could happen!",
+    "order": null
+  },
+  "0a03a65": {
+    "speaker": "Beat",
+    "line": "...but not today.",
+    "order": null
+  },
+  "0979155": {
+    "speaker": "Beat",
+    "line": "hhhhh",
+    "order": null
+  },
+  "031308b": {
+    "speaker": "Rest",
+    "line": "Quaver, honey, time for food.",
+    "order": null
+  },
+  "0f8f6c7": {
+    "speaker": "Quaver",
+    "line": "You're not my mom.",
+    "order": null
+  },
+  "072e1e0": {
+    "speaker": "Rest",
+    "line": "I'm not, but I can cook better than she did.",
+    "order": null
+  },
+  "07bc6d8": {
+    "speaker": "Quaver",
+    "line": "That's not funny.",
+    "order": null
+  },
+  "03c592e": {
+    "speaker": "Rest",
+    "line": "I miss her too, you know. A lot-",
+    "order": null
+  },
+  "0cd532b": {
+    "speaker": "Phone",
+    "line": "*ring*",
+    "order": null
+  },
+  "0907322": {
+    "speaker": "Quaver",
+    "line": "You got to know her, though.",
+    "order": null
+  },
+  "077c863": {
+    "speaker": "Rest",
+    "line": "...Sorry, hold on.",
+    "order": null
+  },
+  "02cf394": {
+    "speaker": "Rest",
+    "line": "Give me a second, okay?",
+    "order": null
+  },
+  "009f352": {
+    "speaker": "Quaver",
+    "line": "Sure.",
+    "order": null
+  },
+  "0216043": {
+    "speaker": "Rest",
+    "line": "Mhm.",
+    "order": null
+  },
+  "093afc0": {
+    "speaker": "Rest",
+    "line": "Just tell me what's going on.",
+    "order": null
+  },
+  "0a6d362": {
+    "speaker": "Rest",
+    "line": "...what does that mean.",
+    "order": null
+  },
+  "0493db8": {
+    "speaker": "Rest",
+    "line": "I'm gonna need you to be specific.",
+    "order": null
+  },
+  "04c101c": {
+    "speaker": "Rest",
+    "line": "You realize that's not my job anymore...",
+    "order": null
+  },
+  "06fa510": {
+    "speaker": "Beat",
+    "line": "Hhh.",
+    "order": null
+  },
+  "0e2ac42": {
+    "speaker": "Brianna",
+    "line": "Hey, look.",
+    "order": null
+  },
+  "03ca31f": {
+    "speaker": "Brianna",
+    "line": "I don't want to come off... a way, but...",
+    "order": null
+  },
+  "038229c": {
+    "speaker": "Brianna",
+    "line": "Beat, they're sending mail to the old place, and-",
+    "order": null
+  },
+  "02dc5d7": {
+    "speaker": "Brianna",
+    "line": "A lot of these look like collection notices.",
+    "order": null
+  },
+  "04b1c39": {
+    "speaker": "Beat",
+    "line": "What's the question?",
+    "order": null
+  },
+  "0300252": {
+    "speaker": "Brianna",
+    "line": "There is none. If you want my help-",
+    "order": null
+  },
+  "070b83d": {
+    "speaker": "Beat",
+    "line": "But I don't.",
+    "order": null
+  },
+  "05750ee": {
+    "speaker": "Brianna",
+    "line": "Have you found another job yet?",
+    "order": null
+  },
+  "07c0f1e": {
+    "speaker": "Beat",
+    "line": "I'm still looking.",
+    "order": null
+  },
+  "0d77f8c": {
+    "speaker": "Beat",
+    "line": "I've been looking.",
+    "order": null
+  },
+  "088fdba": {
+    "speaker": "Beat",
+    "line": "It's what I was doing before you walked in here.",
+    "order": null
+  },
+  "0a94775": {
+    "speaker": "Brianna",
+    "line": "I don't mean this as an attack but...",
+    "order": null
+  },
+  "0486027": {
+    "speaker": "Brianna",
+    "line": "I feel like you have to be doing something wrong, then.",
+    "order": null
+  },
+  "05ded2d": {
+    "speaker": "Brianna",
+    "line": "Like, maybe I could take a look at your resume or your cover letter-",
+    "order": null
+  },
+  "0fc28c0": {
+    "speaker": "Beat",
+    "line": "It's none of those things.",
+    "order": null
+  },
+  "0cf36d0": {
+    "speaker": "Brianna",
+    "line": "What about the Guitar Center job I told you about? Did you do the interview?",
+    "order": null
+  },
+  "0138cb6": {
+    "speaker": "Beat",
+    "line": "The guy just...",
+    "order": null
+  },
+  "0638204": {
+    "speaker": "Beat",
+    "line": "Okay. His first question was-",
+    "order": null
+  },
+  "019932b": {
+    "speaker": "GuitarCenterGuy",
+    "line": "Do you actually play guitar? Play me a song.",
+    "order": null
+  },
+  "030c82c": {
+    "speaker": "Beat",
+    "line": "So I played Reptilia and-",
+    "order": null
+  },
+  "00b84f0": {
+    "speaker": "GuitarCenterGuy",
+    "line": "Sorry, do you know any good songs?",
+    "order": null
+  },
+  "0c978d8": {
+    "speaker": "GuitarCenterGuy",
+    "line": "Not ones in plastic instrument games, please.",
+    "order": null
+  },
+  "0b577a5": {
+    "speaker": "Beat",
+    "line": "Which is like disqualifying any song anyone actually knows from being a \"good song.\"",
+    "order": null
+  },
+  "0dda4de": {
+    "speaker": "Beat",
+    "line": "And thats crazy, right? Tell me that's crazy.",
+    "order": null
+  },
+  "0cec32c": {
+    "speaker": "Brianna",
+    "line": "Sounds like that guy has his head up his ass.",
+    "order": null
+  },
+  "00d6211": {
+    "speaker": "Beat",
+    "line": "His ass wasn't big enough for that. Tiny butt.",
+    "order": null
+  },
+  "088cb84": {
+    "speaker": "Brianna",
+    "line": "...I might be able to help you get a job as a medical receptionist.",
+    "order": null
+  },
+  "0ded57a": {
+    "speaker": "Brianna",
+    "line": "We need night shift people.",
+    "order": null
+  },
+  "0f3809c": {
+    "speaker": "Beat",
+    "line": "Look, don't worry about it, just...",
+    "order": null
+  },
+  "06a23da": {
+    "speaker": "Brianna",
+    "line": "I kind of can't not.",
+    "order": null
+  },
+  "0bcd1b4": {
+    "speaker": "Brianna",
+    "line": "I hate to think you're just rotting in there by yourself.",
+    "order": null
+  },
+  "0f90def": {
+    "speaker": "Beat",
+    "line": "Is that what you think I'm doing??",
+    "order": null
+  },
+  "04c1208": {
+    "speaker": "Brianna",
+    "line": "Come on, you know what I mean.",
+    "order": null
+  },
+  "0adda8d": {
+    "speaker": "Beat",
+    "line": "No, I want to hear you say it.",
+    "order": null
+  },
+  "042df8e": {
+    "speaker": "Beat",
+    "line": "What do you think I spend my time doing all day?",
+    "order": null
+  },
+  "0bf7395": {
+    "speaker": "Brianna",
+    "line": "Do you want me to be nice or do you want me to be honest?",
+    "order": null
+  },
+  "0affd9d": {
+    "speaker": "Beat",
+    "line": "You don't get to say that.",
+    "order": null
+  },
+  "0a87fbe": {
+    "speaker": "Brianna",
+    "line": "You keep saying you spend all the time you've got job searching-",
+    "order": null
+  },
+  "08646fe": {
+    "speaker": "Beat",
+    "line": "I do.",
+    "order": null
+  },
+  "0071026": {
+    "speaker": "Brianna",
+    "line": "But the one job you've gotten in months?",
+    "order": null
+  },
+  "0d5a2a5": {
+    "speaker": "Brianna",
+    "line": "You got fired for can't not be late to shit.",
+    "order": null
+  },
+  "0986288": {
+    "speaker": "Beat",
+    "line": "I'm just focused on other things.",
+    "order": null
+  },
+  "0ea684a": {
+    "speaker": "Brianna",
+    "line": "What other things? There should be no other things!",
+    "order": null
+  },
+  "05e733a": {
+    "speaker": "Beat",
+    "line": "The band! My music! It's getting somewhere?",
+    "order": null
+  },
+  "0eb508a": {
+    "speaker": "Brianna",
+    "line": "Is there any evidence of that? Have you made any money doing this?",
+    "order": null
+  },
+  "04fe75b": {
+    "speaker": "Brianna",
+    "line": "Beat, I just want what's best for you. You know that.",
+    "order": null
+  },
+  "09cd117": {
+    "speaker": "Brianna",
+    "line": "Are you gonna let me in?",
+    "order": null
+  },
+  "07f2a3d": {
+    "speaker": "Brianna",
+    "line": "It feels kind of childish to just-",
+    "order": null
+  },
+  "0230ff4": {
+    "speaker": "Brianna",
+    "line": "...Never mind.",
+    "order": null
+  },
+  "0075a6f": {
+    "speaker": "Brianna",
+    "line": "I'll come back later, I guess.",
+    "order": null
+  },
+  "02240e6": {
+    "speaker": "Rest",
+    "line": "You're the last person I expected to see.",
+    "order": null
+  },
+  "081a361": {
+    "speaker": "Beat",
+    "line": "Who was the first?",
+    "order": null
+  },
+  "0deae64": {
+    "speaker": "Beat",
+    "line": "...I hate to ask, but what day is it?",
+    "order": null
+  },
+  "0bd9864": {
+    "speaker": "Rest",
+    "line": "New year's.",
+    "order": null
+  },
+  "017715b": {
+    "speaker": "Beat",
+    "line": "Shit. I just turned twenty-one.",
+    "order": null
+  },
+  "081609e": {
+    "speaker": "Rest",
+    "line": "...happy birthday. Sorry this isn't much of a celebration.",
+    "order": null
+  },
+  "091e2c2": {
+    "speaker": "Rest",
+    "line": "You were gone for a bit.",
+    "order": null
+  },
+  "011eb44": {
+    "speaker": "Beat",
+    "line": "How long was I out? It feels too early for it to be so dark.",
+    "order": null
+  },
+  "01aadd8": {
+    "speaker": "Rest",
+    "line": "Look closer.",
+    "order": null
+  },
+  "0b9ca87": {
+    "speaker": "Beat",
+    "line": "...oh. That's not good.",
+    "order": null
+  },
+  "0b03986": {
+    "speaker": "Beat",
+    "line": "Was that what-",
+    "order": null
+  },
+  "0fc4e1e": {
+    "speaker": "Rest",
+    "line": "What's the last thing you remember?",
+    "order": null
+  },
+  "0b94932": {
+    "speaker": "Beat",
+    "line": "I have no idea what happened.",
+    "order": null
+  },
+  "00fc33b": {
+    "speaker": "Beat",
+    "line": "Was anyone-",
+    "order": null
+  },
+  "0638f19": {
+    "speaker": "Rest",
+    "line": "We don't know.",
+    "order": null
+  },
+  "0bb0245": {
+    "speaker": "Rest",
+    "line": "And we don't know because HARM's latest complete overreach is, effectively,",
+    "order": null
+  },
+  "0934c2c": {
+    "speaker": "Rest",
+    "line": "Total martial law enacted in the zone around where that building was.",
+    "order": null
+  },
+  "029b806": {
+    "speaker": "Rest",
+    "line": "And Quaver's at the center of all of it, and Treble and Clef are in there too.",
+    "order": null
+  },
+  "035e24a": {
+    "speaker": "Rest",
+    "line": "They're not saying anything.",
+    "order": null
+  },
+  "08303de": {
+    "speaker": "Rest",
+    "line": "Are you still an annoying cop-hating freak?",
+    "order": null
+  },
+  "0454256": {
+    "speaker": "Rest",
+    "line": "Good. You're coming with me.",
+    "order": null
+  },
+  "0e45ae1": {
+    "speaker": "Rest",
+    "line": "We're breaking curfew.",
+    "order": null
+  },
+  "0aeeed6": {
+    "speaker": "Beat",
+    "line": "It makes way more sense knowing this is your house.",
+    "order": null
+  },
+  "09d7afa": {
+    "speaker": "Rest",
+    "line": "What does that mean?",
+    "order": null
+  },
+  "08eee1e": {
+    "speaker": "Beat",
+    "line": "It's... just... the overall vibe of the place.",
+    "order": null
+  },
+  "056af85": {
+    "speaker": "Beat",
+    "line": "Why do you still wear that uniform?",
+    "order": null
+  },
+  "00e0b80": {
+    "speaker": "Rest",
+    "line": "I'm wearing it today.",
+    "order": null
+  },
+  "0ac233e": {
+    "speaker": "Rest",
+    "line": "I don't really have anything else...",
+    "order": null
+  },
+  "0f1b380": {
+    "speaker": "Rest",
+    "line": "...tactically sound.",
+    "order": null
+  },
+  "02c372b": {
+    "speaker": "Rest",
+    "line": "I need one thing, and then we can go.",
+    "order": null
+  },
+  "0c854e1": {
+    "speaker": "Beat",
+    "line": "I hope Quaver's okay.",
+    "order": null
+  },
+  "0e0c530": {
+    "speaker": "Rest",
+    "line": "We can't think about if she isn't.",
+    "order": null
+  },
+  "0f26539": {
+    "speaker": "Rest",
+    "line": "We just have to keep...",
+    "order": null
+  },
+  "0910e63": {
+    "speaker": "Beat",
+    "line": "Yeah.",
+    "order": null
+  },
+  "0752d63": {
+    "speaker": "Rest",
+    "line": "Eve used to have this stupid goddamn thing she said all the time.",
+    "order": null
+  },
+  "071d253": {
+    "speaker": "Rest",
+    "line": "Only sausage-",
+    "order": null
+  },
+  "0b249e1": {
+    "speaker": "Beat",
+    "line": "The \"no make\" thing.",
+    "order": null
+  },
+  "017c5ee": {
+    "speaker": "Rest",
+    "line": "Did Quaver tell you?",
+    "order": null
+  },
+  "0de9800": {
+    "speaker": "Beat",
+    "line": "Yeah.",
+    "order": null
+  },
+  "03a2ec4": {
+    "speaker": "Beat",
+    "line": "It's kind of cool-",
+    "order": null
+  },
+  "0996c0e": {
+    "speaker": "Rest",
+    "line": "It's horseshit.",
+    "order": null
+  },
+  "0d93d82": {
+    "speaker": "Rest",
+    "line": "Quaver never even got the chance to see her mom screw up once.",
+    "order": null
+  },
+  "0688284": {
+    "speaker": "Rest",
+    "line": "Ever.",
+    "order": null
+  },
+  "0e3e5a4": {
+    "speaker": "Rest",
+    "line": "And because of that her whole life has been spent aching for a mother so perfect she never existed.",
+    "order": null
+  },
+  "002f4a3": {
+    "speaker": "Rest",
+    "line": "It's... I hate how mad I am about it.",
+    "order": null
+  },
+  "003dfc4": {
+    "speaker": "Rest",
+    "line": "I'm gripping too many things and I've been doing it for so, so long.",
+    "order": null
+  },
+  "06b3df0": {
+    "speaker": "Crest",
+    "line": "Beat?",
+    "order": null
+  },
+  "066aa55": {
+    "speaker": "Crest",
+    "line": "I haven't seen you in so long...",
+    "order": null
+  },
+  "0aa2c1d": {
+    "speaker": "Crest",
+    "line": "Beat, I've screwed up so many things.",
+    "order": null
+  },
+  "04cc9bb": {
+    "speaker": "Beat",
+    "line": "Hey, dude, it's okay. It's just-",
+    "order": null
+  },
+  "0623d0f": {
+    "speaker": "Crest",
+    "line": "I've been trying.",
+    "order": null
+  },
+  "0f84ff5": {
+    "speaker": "Crest",
+    "line": "I've been really, really, really trying.",
+    "order": null
+  },
+  "0c9a1a9": {
+    "speaker": "Beat",
+    "line": "I know, I...",
+    "order": null
+  },
+  "0158240": {
+    "speaker": "Crest",
+    "line": "And nothing happens! It's all useless!",
+    "order": null
+  },
+  "0797f7e": {
+    "speaker": "Beat",
+    "line": "Hey, I'm sure it's not so-",
+    "order": null
+  },
+  "01c5f75": {
+    "speaker": "Crest",
+    "line": "It IS. It's so easy for you to sit there and act like everything's fine.",
+    "order": null
+  },
+  "0141116": {
+    "speaker": "Crest",
+    "line": "But it's not! It CAN'T be.",
+    "order": null
+  },
+  "03d7286": {
+    "speaker": "Crest",
+    "line": "You know, I thought I could be a whistleblower.",
+    "order": null
+  },
+  "0afd77c": {
+    "speaker": "Crest",
+    "line": "I got this huge packet of all the material evidence I could get together.",
+    "order": null
+  },
+  "0d0ce12": {
+    "speaker": "Crest",
+    "line": "It had everything I felt was off about what we were doing. And-",
+    "order": null
+  },
+  "0475921": {
+    "speaker": "Crest",
+    "line": "Beat, there isn't any news to whistleblow to.",
+    "order": null
+  },
+  "01927b6": {
+    "speaker": "Crest",
+    "line": "All the media organizations from even two years ago have closed down.",
+    "order": null
+  },
+  "0288bdf": {
+    "speaker": "Crest",
+    "line": "Only the biggest ones are left.",
+    "order": null
+  },
+  "02100bc": {
+    "speaker": "Crest",
+    "line": "So I tried one of those.",
+    "order": null
+  },
+  "07238c0": {
+    "speaker": "Crest",
+    "line": "Do you know who answered the goddamn phone?",
+    "order": null
+  },
+  "064b187": {
+    "speaker": "Crest",
+    "line": "Poco and Apoco.",
+    "order": null
+  },
+  "0ae6a1d": {
+    "speaker": "Crest",
+    "line": "They were already running the editorial department of the place.",
+    "order": null
+  },
+  "03abf8b": {
+    "speaker": "Beat",
+    "line": "...Oh.",
+    "order": null
+  },
+  "0d0f0b6": {
+    "speaker": "Crest",
+    "line": "Poco and Apoco quit before I could.",
+    "order": null
+  },
+  "07ba8be": {
+    "speaker": "Crest",
+    "line": "And guess how they responded to all the shit I brought forward about HARM?",
+    "order": null
+  },
+  "08fa81e": {
+    "speaker": "Crest",
+    "line": "They were giddy over it.",
+    "order": null
+  },
+  "0b76275": {
+    "speaker": "Crest",
+    "line": "They were so excited to run the story!",
+    "order": null
+  },
+  "0a5a9d7": {
+    "speaker": "Beat",
+    "line": "That's a good thing, right?",
+    "order": null
+  },
+  "05e0fd1": {
+    "speaker": "FloatingCrest",
+    "line": "No! No it's not! It's not good!",
+    "order": null
+  },
+  "0875f60": {
+    "speaker": "FloatingCrest",
+    "line": "They wouldn't get excited about anything that matters!",
+    "order": null
+  },
+  "09a3415": {
+    "speaker": "FloatingCrest",
+    "line": "And it made me realize that I was going to be stuck there forever.",
+    "order": null
+  },
+  "0015dfc": {
+    "speaker": "FloatingCrest",
+    "line": "I was never, ever going to-",
+    "order": null
+  },
+  "0284ea4": {
+    "speaker": "FloatingCrest",
+    "line": "I can't make people give a shit about me.",
+    "order": null
+  },
+  "02965de": {
+    "speaker": "Crest",
+    "line": "How can I make them give a shit about all of this!",
+    "order": null
+  },
+  "08c48dd": {
+    "speaker": "Crest",
+    "line": "And it made me realize that I was going to be stuck there forever.",
+    "order": null
+  },
+  "032c1b9": {
+    "speaker": "Crest",
+    "line": "Sforzando got locked up, and everyone's like \"well, fine, that's taken care of.\"",
+    "order": null
+  },
+  "02f1165": {
+    "speaker": "Crest",
+    "line": "But HARM is the same as it's always been.",
+    "order": null
+  },
+  "01bb8c9": {
+    "speaker": "Beat",
+    "line": "Hey, it's okay! It's gonna be fine, it's-",
+    "order": null
+  },
+  "081a894": {
+    "speaker": "Beat",
+    "line": "Uh, are you okay?",
+    "order": null
+  },
+  "00aa4ad": {
+    "speaker": "Crest",
+    "line": "...why are you in here with me?",
+    "order": null
+  },
+  "0437f22": {
+    "speaker": "Beat",
+    "line": "I don't actually know, but I want to help with-",
+    "order": null
+  },
+  "0ee5d83": {
+    "speaker": "Crest",
+    "line": "You can't. You can't do anything.",
+    "order": null
+  },
+  "06386e3": {
+    "speaker": "Crest",
+    "line": "I can't do anything. What makes you think you-",
+    "order": null
+  },
+  "0f147d3": {
+    "speaker": "Crest",
+    "line": "Leave me alone!",
+    "order": null
+  },
+  "0aa74ef": {
+    "speaker": "Crest",
+    "line": "I just-",
+    "order": null
+  },
+  "0950a76": {
+    "speaker": "Crest",
+    "line": "I just want to be alone! I can't let anyone else get dragged into this!",
+    "order": null
+  },
+  "0d403f8": {
+    "speaker": "Beat",
+    "line": "You're not dragging anyone-",
+    "order": null
+  },
+  "020263e": {
+    "speaker": "Crest",
+    "line": "Get OUT OF HERE.",
+    "order": null
+  },
+  "0e7a4e8": {
+    "speaker": "Crest",
+    "line": "I keep screwing up what the right thing is.",
+    "order": null
+  },
+  "0580229": {
+    "speaker": "Crest",
+    "line": "I don't know what I should even DO anymore.",
+    "order": null
+  },
+  "0016802": {
+    "speaker": "Crest",
+    "line": "All I do is just make it worse!",
+    "order": null
+  },
+  "06d650f": {
+    "speaker": "Beat",
+    "line": "I'm sure that's not-",
+    "order": null
+  },
+  "04251e1": {
+    "speaker": "Crest",
+    "line": "I'M STUCK WHERE I AM.",
+    "order": null
+  },
+  "05f5e6f": {
+    "speaker": "Crest",
+    "line": "You don't know what this FEELS like-",
+    "order": null
+  },
+  "0a48fb3": {
+    "speaker": "Beat",
+    "line": "I don't need to know! I can see that it hurts!",
+    "order": null
+  },
+  "0307e64": {
+    "speaker": "Crest",
+    "line": "Stop treating me like I'm...a baby.",
+    "order": null
+  },
+  "095b99e": {
+    "speaker": "Crest",
+    "line": "I'M NOT AN IDIOT.",
+    "order": null
+  },
+  "02e835e": {
+    "speaker": "Beat",
+    "line": "I don't think you are but you need to stop acting like one.",
+    "order": null
+  },
+  "0bd219c": {
+    "speaker": "Beat",
+    "line": "...okay, I'm over this.",
+    "order": null
+  },
+  "0aada99": {
+    "speaker": "Beat",
+    "line": "Listen to me, already!",
+    "order": null
+  },
+  "052a61e": {
+    "speaker": "Beat",
+    "line": "You're acting. Like. A little. Bitch.",
+    "order": null
+  },
+  "06b91d8": {
+    "speaker": "Crest",
+    "line": "Isn't-",
+    "order": null
+  },
+  "08e22df": {
+    "speaker": "Beat",
+    "line": "You're a grown goddamn adult man.",
+    "order": null
+  },
+  "0df4b68": {
+    "speaker": "Beat",
+    "line": "You're so upset with yourself that you were, what,",
+    "order": null
+  },
+  "01b0179": {
+    "speaker": "Beat",
+    "line": "A mega evil supercop for however many years?",
+    "order": null
+  },
+  "0eaf94f": {
+    "speaker": "Beat",
+    "line": "You really want to do the right thing?",
+    "order": null
+  },
+  "01523e1": {
+    "speaker": "Crest",
+    "line": "...Of course I do!",
+    "order": null
+  },
+  "086719e": {
+    "speaker": "Beat",
+    "line": "Then quit.",
+    "order": null
+  },
+  "0448535": {
+    "speaker": "Crest",
+    "line": "It's not that simple!",
+    "order": null
+  },
+  "0149768": {
+    "speaker": "Beat",
+    "line": "Why not?",
+    "order": null
+  },
+  "0ea1650": {
+    "speaker": "Crest",
+    "line": "I'm not going to be able to...",
+    "order": null
+  },
+  "00cd316": {
+    "speaker": "Crest",
+    "line": "I can't do as much elsewhere.",
+    "order": null
+  },
+  "09f5828": {
+    "speaker": "Crest",
+    "line": "I could do more being part of the thing!",
+    "order": null
+  },
+  "0679412": {
+    "speaker": "Beat",
+    "line": "There aren't good apples, Crest.",
+    "order": null
+  },
+  "0213264": {
+    "speaker": "Beat",
+    "line": "There can't be. The tree is poison.",
+    "order": null
+  },
+  "0c00c99": {
+    "speaker": "Beat",
+    "line": "You have to not be an apple.",
+    "order": null
+  },
+  "0d738a8": {
+    "speaker": "Beat",
+    "line": "I mean. This metaphor is messy. This isn't a nature vs... thing,",
+    "order": null
+  },
+  "0dfa8e3": {
+    "speaker": "Beat",
+    "line": "or... you're not, like, inherently an apple, I guess, but... uh...",
+    "order": null
+  },
+  "0d133ce": {
+    "speaker": "Crest",
+    "line": "You remember how I used to think you were a maid?",
+    "order": null
+  },
+  "0fa9da8": {
+    "speaker": "Crest",
+    "line": "Back when we met.",
+    "order": null
+  },
+  "0858398": {
+    "speaker": "Beat",
+    "line": "You remember that?",
+    "order": null
+  },
+  "0766ae8": {
+    "speaker": "Crest",
+    "line": "I always remembered you.",
+    "order": null
+  },
+  "02f5d36": {
+    "speaker": "Crest",
+    "line": "The whole time. I haven't stopped thinking about you-",
+    "order": null
+  },
+  "098cc12": {
+    "speaker": "Crest",
+    "line": "Uh, not like... not like that.",
+    "order": null
+  },
+  "093f8ed": {
+    "speaker": "Beat",
+    "line": "I actually didn't think you meant it like that-",
+    "order": null
+  },
+  "0e6c5e5": {
+    "speaker": "Crest",
+    "line": "We can just-",
+    "order": null
+  },
+  "0c8f034": {
+    "speaker": "Beat",
+    "line": "It's fine-",
+    "order": null
+  },
+  "084d62a": {
+    "speaker": "Crest",
+    "line": "I just... um. Well. My point is...",
+    "order": null
+  },
+  "05bca78": {
+    "speaker": "Crest",
+    "line": "...I remember being jealous of you.",
+    "order": null
+  },
+  "09d081a": {
+    "speaker": "Beat",
+    "line": "What, of the idea of being a maid?",
+    "order": null
+  },
+  "0008e06": {
+    "speaker": "Crest",
+    "line": "No! Not like...",
+    "order": null
+  },
+  "05e972c": {
+    "speaker": "Crest",
+    "line": "How do I put this?",
+    "order": null
+  },
+  "0d6cdfa": {
+    "speaker": "Crest",
+    "line": "I was jealous of someone getting to start from the beginning again.",
+    "order": null
+  },
+  "0b7fe8f": {
+    "speaker": "Crest",
+    "line": "Did you know I'm the youngest HARM officer ever promoted to be a Division Lead?",
+    "order": null
+  },
+  "0d7ed4a": {
+    "speaker": "Beat",
+    "line": "My dude, I don't know anything about your career.",
+    "order": null
+  },
+  "0603aa3": {
+    "speaker": "Crest",
+    "line": "Sure. I went from just some guy to being everywhere within fifteen hours.",
+    "order": null
+  },
+  "0843b7a": {
+    "speaker": "Crest",
+    "line": "This guy who was my senior officer when I was a rookie cop once told me...",
+    "order": null
+  },
+  "0d6465a": {
+    "speaker": "Crest",
+    "line": "...\"The most important thing about the police was 'location, location, location'\".",
+    "order": null
+  },
+  "0bf7b9f": {
+    "speaker": "Beat",
+    "line": "Wh- the real estate saying?",
+    "order": null
+  },
+  "07fe694": {
+    "speaker": "Crest",
+    "line": "What does that have to do with real estate?",
+    "order": null
+  },
+  "04d925a": {
+    "speaker": "Beat",
+    "line": "Or maybe it was about making movies. I have no idea, I can't remember.",
+    "order": null
+  },
+  "0dba109": {
+    "speaker": "Beat",
+    "line": "I think you're saying it wrong. It's meant to be a bit of a joke, I think.",
+    "order": null
+  },
+  "0d30d80": {
+    "speaker": "Crest",
+    "line": "He didn't make it sound like a joke.",
+    "order": null
+  },
+  "06debd8": {
+    "speaker": "Beat",
+    "line": "Because you say it three times. It's, like.",
+    "order": null
+  },
+  "0f494ec": {
+    "speaker": "Beat",
+    "line": "\"What's the three most important things?\"",
+    "order": null
+  },
+  "0ce0ce7": {
+    "speaker": "Beat",
+    "line": "And then it's just the one thing three times.",
+    "order": null
+  },
+  "0dabdcf": {
+    "speaker": "Crest",
+    "line": "...Oh.",
+    "order": null
+  },
+  "03e2c0a": {
+    "speaker": "Crest",
+    "line": "We kind of only have the one, anyway.",
+    "order": null
+  },
+  "0e4831a": {
+    "speaker": "Beat",
+    "line": "The-",
+    "order": null
+  },
+  "05945bc": {
+    "speaker": "Crest",
+    "line": "The one location. HARM isn't anywhere else in the world. Just here.",
+    "order": null
+  },
+  "0b610bb": {
+    "speaker": "Crest",
+    "line": "But since we're not gonna be able to go anywhere else anytime soon...",
+    "order": null
+  },
+  "05d4f8f": {
+    "speaker": "Crest",
+    "line": "It's... it feel like an important responsibility.",
+    "order": null
+  },
+  "0cd2285": {
+    "speaker": "Crest",
+    "line": "...well, at least he explained it as...",
+    "order": null
+  },
+  "0f526ef": {
+    "speaker": "Crest",
+    "line": "...\"Because you go from location to location to location.\"",
+    "order": null
+  },
+  "05ec5a9": {
+    "speaker": "Crest",
+    "line": "The whole thing of being a cop, basically, is just you have to Be There, right?",
+    "order": null
+  },
+  "0467f55": {
+    "speaker": "Crest",
+    "line": "At the places where things happen, so that you can make sure things don't happen.",
+    "order": null
+  },
+  "087088b": {
+    "speaker": "Crest",
+    "line": "I've been so, so scared of being anywhere else.",
+    "order": null
+  },
+  "004336a": {
+    "speaker": "Crest",
+    "line": "I've felt stuck where I am because I'm worried I can't do anything just being a normal guy.",
+    "order": null
+  },
+  "04c33ad": {
+    "speaker": "Beat",
+    "line": "No, you can. Do anything else.",
+    "order": null
+  },
+  "0019b73": {
+    "speaker": "Beat",
+    "line": "Anything else is better.",
+    "order": null
+  },
+  "0e8babc": {
+    "speaker": "Beat",
+    "line": "Crest, I say this as nicely as I can.",
+    "order": null
+  },
+  "0778f4d": {
+    "speaker": "Beat",
+    "line": "Doing literally nothing at all is more productive than whatever you've been trying to do at HARM.",
+    "order": null
+  },
+  "0e9884a": {
+    "speaker": "Crest",
+    "line": "But I can, like-",
+    "order": null
+  },
+  "0ae3be9": {
+    "speaker": "Beat",
+    "line": "No. Even if just for your own sake, at least.",
+    "order": null
+  },
+  "0c88a2d": {
+    "speaker": "Crest",
+    "line": "I just don't want anyone else to hurt anyone else.",
+    "order": null
+  },
+  "0af9583": {
+    "speaker": "Beat",
+    "line": "You don't need to be a cop to do that.",
+    "order": null
+  },
+  "02b284c": {
+    "speaker": "Beat",
+    "line": "Case in point.",
+    "order": null
+  },
+  "084b124": {
+    "speaker": "Beat",
+    "line": "...I'll see you later.",
+    "order": null
+  },
+  "006488e": {
+    "speaker": "Rest",
+    "line": "I hope he finds what he's looking for.",
+    "order": null
+  },
+  "0acae32": {
+    "speaker": "Beat",
+    "line": "I don't even know if he knows what that is.",
+    "order": null
+  },
+  "04b9760": {
+    "speaker": "Rest",
+    "line": "You know, it's funny. People think professional racing is boring.",
+    "order": null
+  },
+  "047ccdf": {
+    "speaker": "Beat",
+    "line": "Definitely didn't take you for a fan.",
+    "order": null
+  },
+  "031aff8": {
+    "speaker": "Rest",
+    "line": "I'm a fan of useful comparisons.",
+    "order": null
+  },
+  "0233ff6": {
+    "speaker": "Rest",
+    "line": "People think it's boring because it's mostly the same thing over and over again.",
+    "order": null
+  },
+  "051c987": {
+    "speaker": "Beat",
+    "line": "A series of left turns, right.",
+    "order": null
+  },
+  "09d544a": {
+    "speaker": "Rest",
+    "line": "Right. But everyone forgets how hard it is to do the same thing over and over again.",
+    "order": null
+  },
+  "0a2482f": {
+    "speaker": "Rest",
+    "line": "Especially under such pressure.",
+    "order": null
+  },
+  "0c11c85": {
+    "speaker": "Rest",
+    "line": "In those conditions, not doing the same thing even once can literally kill you.",
+    "order": null
+  },
+  "0f82b54": {
+    "speaker": "Beat",
+    "line": "So your point is consistency is hard.",
+    "order": null
+  },
+  "0c16f83": {
+    "speaker": "Rest",
+    "line": "If everything works right, most people are bored.",
+    "order": null
+  },
+  "0614862": {
+    "speaker": "Rest",
+    "line": "My point is that most people only find it exciting if something goes wrong.",
+    "order": null
+  },
+  "0e63600": {
+    "speaker": "Rest",
+    "line": "Even if it's the hardest thing in the world to keep it right.",
+    "order": null
+  },
+  "04649d3": {
+    "speaker": "Rest",
+    "line": "And yes, I like racing.",
+    "order": null
+  },
+  "01228b0": {
+    "speaker": "Rest",
+    "line": "Sue me.",
+    "order": null
+  },
+  "0c4b979": {
+    "speaker": "Rest",
+    "line": "HARM's always been impossible to keep right.",
+    "order": null
+  },
+  "0667ebe": {
+    "speaker": "Beat",
+    "line": "Was it ever right?",
+    "order": null
+  },
+  "05e5cfa": {
+    "speaker": "Rest",
+    "line": "I did my best.",
+    "order": null
+  },
+  "0154108": {
+    "speaker": "Beat",
+    "line": "Oh come on. You don't get that one.",
+    "order": null
+  },
+  "0ba24ba": {
+    "speaker": "Beat",
+    "line": "You facilitated a borderline fascist police state.",
+    "order": null
+  },
+  "0566ff9": {
+    "speaker": "Beat",
+    "line": "I feel like that revokes any getting-to-say-you-did-your-best rights.",
+    "order": null
+  },
+  "047042d": {
+    "speaker": "Rest",
+    "line": "They were fascists before I got there.",
+    "order": null
+  },
+  "049d53c": {
+    "speaker": "Beat",
+    "line": "And you facilitated them?",
+    "order": null
+  },
+  "0b6fc43": {
+    "speaker": "Rest",
+    "line": "Alright, fine. I am doing my best now.",
+    "order": null
+  },
+  "047df35": {
+    "speaker": "Beat",
+    "line": "You're trying.",
+    "order": null
+  },
+  "03d0dd0": {
+    "speaker": "Beat",
+    "line": "You're very trying.",
+    "order": null
+  },
+  "05dde22": {
+    "speaker": "Rest",
+    "line": "Heh.",
+    "order": null
+  },
+  "0c0694c": {
+    "speaker": "Rest",
+    "line": "God, I really did sound like you, once.",
+    "order": null
+  },
+  "0d5af35": {
+    "speaker": "Beat",
+    "line": "Are you okay?",
+    "order": null
+  },
+  "0e33342": {
+    "speaker": "BeatsMom",
+    "line": "...Hey, honey.",
+    "order": null
+  },
+  "0019f56": {
+    "speaker": "Brianna",
+    "line": "Don't talk so loud.",
+    "order": null
+  },
+  "0786363": {
+    "speaker": "Beat",
+    "line": "What was wrong?",
+    "order": null
+  },
+  "080fe33": {
+    "speaker": "BeatsMom",
+    "line": "I'm sorry for scaring you. It's just-",
+    "order": null
+  },
+  "0c7529d": {
+    "speaker": "Beat",
+    "line": "...is this really just another false alarm?",
+    "order": null
+  },
+  "0190f4f": {
+    "speaker": "Brianna",
+    "line": "But she's stable. That's a good thing.",
+    "order": null
+  },
+  "0744025": {
+    "speaker": "BeatsMom",
+    "line": "Tell me about how you're doing. How's the music going, honey?",
+    "order": null
+  },
+  "0e0335a": {
+    "speaker": "BeatsMom",
+    "line": "You were so excited about that band, and you haven't talked-",
+    "order": null
+  },
+  "0b6493e": {
+    "speaker": "Beat",
+    "line": "What?",
+    "order": null
+  },
+  "02839ac": {
+    "speaker": "BeatsMom",
+    "line": "Are you ever going to release that song I like? The one.",
+    "order": null
+  },
+  "0b012e1": {
+    "speaker": "Beat",
+    "line": "You know how it's going? The band kicked me out.",
+    "order": null
+  },
+  "0388da9": {
+    "speaker": "Beat",
+    "line": "They kicked me out because they hate working with me.",
+    "order": null
+  },
+  "0967ca0": {
+    "speaker": "Beat",
+    "line": "They hate working with me because I can't make practice on time.",
+    "order": null
+  },
+  "02d9847": {
+    "speaker": "Beat",
+    "line": "And I can't make practice on time because I have no time,",
+    "order": null
+  },
+  "0a3a0c3": {
+    "speaker": "Beat",
+    "line": "Because most of the time I'm stuck either being here or waiting to get called back here.",
+    "order": null
+  },
+  "0d06852": {
+    "speaker": "Beat",
+    "line": "And that song you like,",
+    "order": null
+  },
+  "02c48cd": {
+    "speaker": "Beat",
+    "line": "which you don't even care enough to know the name of,",
+    "order": null
+  },
+  "0bcb91d": {
+    "speaker": "Beat",
+    "line": "is probably never getting finished.",
+    "order": null
+  },
+  "078fc41": {
+    "speaker": "Beat",
+    "line": "I can't even listen to it now because of all this.",
+    "order": null
+  },
+  "07c1af2": {
+    "speaker": "Beat",
+    "line": "I'm getting abandoned left and right and not even my mom can be there for me.",
+    "order": null
+  },
+  "0c608a2": {
+    "speaker": "Brianna",
+    "line": "That's not her fault!",
+    "order": null
+  },
+  "0fc9e58": {
+    "speaker": "BeatsMom",
+    "line": "At least you won't have to deal with it that much longer.",
+    "order": null
+  },
+  "09747f5": {
+    "speaker": "BeatsMom",
+    "line": "I'm sorry you feel that way.",
+    "order": null
+  },
+  "0509a55": {
+    "speaker": "BeatsMom",
+    "line": "I wish it wasn't like this either.",
+    "order": null
+  },
+  "0eaae84": {
+    "speaker": "Beat",
+    "line": "They're still assholes.",
+    "order": null
+  },
+  "00cb04b": {
+    "speaker": "Beat",
+    "line": "I don't get why you ever worked with them.",
+    "order": null
+  },
+  "0cae644": {
+    "speaker": "Beat",
+    "line": "They're not very. You.",
+    "order": null
+  },
+  "03e19ba": {
+    "speaker": "Rest",
+    "line": "You have to trust people, Beat.",
+    "order": null
+  },
+  "0343053": {
+    "speaker": "Rest",
+    "line": "At the end of the day, that's all we are.",
+    "order": null
+  },
+  "04c4a6a": {
+    "speaker": "Beat",
+    "line": "Some people shouldn't be trusted.",
+    "order": null
+  },
+  "0666ed2": {
+    "speaker": "Rest",
+    "line": "I mean, sure, some people shouldn't be.",
+    "order": null
+  },
+  "08e6832": {
+    "speaker": "Rest",
+    "line": "But you can't come at life assuming that's who you're running into.",
+    "order": null
+  },
+  "0265429": {
+    "speaker": "Rest",
+    "line": "People are messy.",
+    "order": null
+  },
+  "0f28977": {
+    "speaker": "Beat",
+    "line": "The best advice I've ever gotten is from the person I probably hate the most.",
+    "order": null
+  },
+  "0f52767": {
+    "speaker": "Beat",
+    "line": "...Or at least the person who probably hates me the most.",
+    "order": null
+  },
+  "000c8b2": {
+    "speaker": "Rest",
+    "line": "Not Sforzando?",
+    "order": null
+  },
+  "0e7dabb": {
+    "speaker": "Beat",
+    "line": "Shockingly, I knew people before that.",
+    "order": null
+  },
+  "0174b8a": {
+    "speaker": "DC",
+    "line": "You're a coward.",
+    "order": null
+  },
+  "02b924a": {
+    "speaker": "DC",
+    "line": "I see RIGHT THROUGH YOU.",
+    "order": null
+  },
+  "045a676": {
+    "speaker": "DC",
+    "line": "You could have been a force for something that mattered.",
+    "order": null
+  },
+  "0e9f9d3": {
+    "speaker": "DC",
+    "line": "But you tied yourself to something useless and destructive.",
+    "order": null
+  },
+  "0564ec1": {
+    "speaker": "Beat",
+    "line": "Just stop being so stubborn and let me help you.",
+    "order": null
+  },
+  "0eea2bd": {
+    "speaker": "DC",
+    "line": "Don't make me laugh. Help?",
+    "order": null
+  },
+  "0bde256": {
+    "speaker": "DC",
+    "line": "How did you expect this to go?",
+    "order": null
+  },
+  "0db9669": {
+    "speaker": "DC",
+    "line": "Did you think you'd corner me,",
+    "order": null
+  },
+  "0fd1d65": {
+    "speaker": "DC",
+    "line": "And then a little tough love would get me to change my sorry ways?",
+    "order": null
+  },
+  "0d581ea": {
+    "speaker": "Beat",
+    "line": "Even HARM-",
+    "order": null
+  },
+  "0fa3c4a": {
+    "speaker": "DC",
+    "line": "I'm not sorry about my ways.",
+    "order": null
+  },
+  "079cd13": {
+    "speaker": "Beat",
+    "line": "We can change the rules. Sometimes rules are-",
+    "order": null
+  },
+  "02c0371": {
+    "speaker": "DC",
+    "line": "The rules were fine as written.",
+    "order": null
+  },
+  "0935318": {
+    "speaker": "DC",
+    "line": "As originally written.",
+    "order": null
+  },
+  "0d4c0c8": {
+    "speaker": "DC",
+    "line": "This place used to see something clearly that most don't even glimpse at.",
+    "order": null
+  },
+  "05f26b8": {
+    "speaker": "DC",
+    "line": "All of my years in law enforcement...",
+    "order": null
+  },
+  "0aa4bf7": {
+    "speaker": "DC",
+    "line": "I was at the Zero Moment. I saw the thing take form.",
+    "order": null
+  },
+  "07cf8f1": {
+    "speaker": "DC",
+    "line": "It's everything I fight against and it's everything you are and you can't even see it.",
+    "order": null
+  },
+  "0fef415": {
+    "speaker": "DC",
+    "line": "You're too stupid.",
+    "order": null
+  },
+  "029adce": {
+    "speaker": "DC",
+    "line": "I reacted the same way I would now.",
+    "order": null
+  },
+  "0741ee2": {
+    "speaker": "DC",
+    "line": "HARM hasn't. They shifted.",
+    "order": null
+  },
+  "07a70f7": {
+    "speaker": "DC",
+    "line": "They keep accommodating and accommodating and accommodating,",
+    "order": null
+  },
+  "0077507": {
+    "speaker": "DC",
+    "line": "And give more and more ground.",
+    "order": null
+  },
+  "0f54dc2": {
+    "speaker": "DC",
+    "line": "Soon there will be no ground for us to stand on.",
+    "order": null
+  },
+  "047bfb5": {
+    "speaker": "Beat",
+    "line": "...You actually believe in this shit, don't you?",
+    "order": null
+  },
+  "0627fae": {
+    "speaker": "DC",
+    "line": "Acta non verba.",
+    "order": null
+  },
+  "0f5c72a": {
+    "speaker": "DC",
+    "line": "No lip service.",
+    "order": null
+  },
+  "05b5860": {
+    "speaker": "Beat",
+    "line": "Something we both agree on.",
+    "order": null
+  },
+  "0871282": {
+    "speaker": "Beat",
+    "line": "Acta non-?",
+    "order": null
+  },
+  "003da35": {
+    "speaker": "DC",
+    "line": "Actions, not words.",
+    "order": null
+  },
+  "05709e7": {
+    "speaker": "DC",
+    "line": "Crest already lost what we believed in.",
+    "order": null
+  },
+  "08d6e10": {
+    "speaker": "DC",
+    "line": "And the twins never believed anything.",
+    "order": null
+  },
+  "0abd156": {
+    "speaker": "DC",
+    "line": "But I don't pay lip service to what I believe in.",
+    "order": null
+  },
+  "046b11a": {
+    "speaker": "DC",
+    "line": "I follow through.",
+    "order": null
+  },
+  "0a5080d": {
+    "speaker": "Beat",
+    "line": "So do I.",
+    "order": null
+  },
+  "0749782": {
+    "speaker": "Beat",
+    "line": "...good luck with that.",
+    "order": null
+  },
+  "001dce9": {
+    "speaker": "Brianna",
+    "line": "What do you mean you dropped out?",
+    "order": null
+  },
+  "0db1c22": {
+    "speaker": "Beat",
+    "line": "We couldn't afford it.",
+    "order": null
+  },
+  "06502b3": {
+    "speaker": "Brianna",
+    "line": "That's for me to - I didn't ask you to do that!",
+    "order": null
+  },
+  "08db2dc": {
+    "speaker": "Beat",
+    "line": "It's not fair to you to keep paying for it.",
+    "order": null
+  },
+  "0104bb2": {
+    "speaker": "Brianna",
+    "line": "I decide what's fair for me or not! We could have-",
+    "order": null
+  },
+  "0a9cf4a": {
+    "speaker": "Beat",
+    "line": "We couldn't.",
+    "order": null
+  },
+  "0467901": {
+    "speaker": "Beat",
+    "line": "...It's not forever. I can go back.",
+    "order": null
+  },
+  "018f7d5": {
+    "speaker": "Beat",
+    "line": "As long as it's in a few years, I'll still have the credits.",
+    "order": null
+  },
+  "09bd7ac": {
+    "speaker": "Beat",
+    "line": "Anyway, without enough money coming in I wouldn't be able to keep going regardless.",
+    "order": null
+  },
+  "0844b17": {
+    "speaker": "Brianna",
+    "line": "We could have taken out loans.",
+    "order": null
+  },
+  "0f702c9": {
+    "speaker": "Beat",
+    "line": "First of all, no, we couldn't have.",
+    "order": null
+  },
+  "07df05c": {
+    "speaker": "Beat",
+    "line": "And second of all, no, we really couldn't have, because we weren't eligible.",
+    "order": null
+  },
+  "0385d7a": {
+    "speaker": "Beat",
+    "line": "I asked them-",
+    "order": null
+  },
+  "0c3e122": {
+    "speaker": "Brianna",
+    "line": "There's always... you could have told me. You should have told me.",
+    "order": null
+  },
+  "05509a9": {
+    "speaker": "Brianna",
+    "line": "We could have figured it out.",
+    "order": null
+  },
+  "00208c7": {
+    "speaker": "Beat",
+    "line": "That's why I didn't.",
+    "order": null
+  },
+  "0764dfd": {
+    "speaker": "Beat",
+    "line": "You've been quiet for a while.",
+    "order": null
+  },
+  "069516c": {
+    "speaker": "Rest",
+    "line": "...I wish he could be more than that.",
+    "order": null
+  },
+  "0b8e647": {
+    "speaker": "Rest",
+    "line": "How the hell did it get like this?",
+    "order": null
+  },
+  "02c17de": {
+    "speaker": "Beat",
+    "line": "The situation with HARM was always going to go bad.",
+    "order": null
+  },
+  "0773a73": {
+    "speaker": "Rest",
+    "line": "You're probably right.",
+    "order": null
+  },
+  "0c68606": {
+    "speaker": "Rest",
+    "line": "...I wish I made different choices.",
+    "order": null
+  },
+  "061d44e": {
+    "speaker": "Beat",
+    "line": "Just about HARM, or-",
+    "order": null
+  },
+  "02c07e9": {
+    "speaker": "Rest",
+    "line": "...I keep thinking about the things I never said to her.",
+    "order": null
+  },
+  "088b403": {
+    "speaker": "Rest",
+    "line": "The lost nights.",
+    "order": null
+  },
+  "0c1f7bb": {
+    "speaker": "Rest",
+    "line": "The sleeping in a bed together because the room had just the one...",
+    "order": null
+  },
+  "08cf15f": {
+    "speaker": "Rest",
+    "line": "...but it was only ever sleeping.",
+    "order": null
+  },
+  "0615264": {
+    "speaker": "Rest",
+    "line": "That's all it ever was.",
+    "order": null
+  },
+  "01abc3e": {
+    "speaker": "Beat",
+    "line": "Hey, are you... really, you and Quaver's mom?",
+    "order": null
+  },
+  "09cda93": {
+    "speaker": "Rest",
+    "line": "No, because nothing ever happened.",
+    "order": null
+  },
+  "05058b3": {
+    "speaker": "Rest",
+    "line": "I try not to let the pain get wasted. We're here.",
+    "order": null
+  },
+  "093fa33": {
+    "speaker": "Sforzando",
+    "line": "Hiiiiiiii.",
+    "order": null
+  },
+  "08139ae": {
+    "speaker": "Rest",
+    "line": "Hello, Sforzando.",
+    "order": null
+  },
+  "000ab5f": {
+    "speaker": "Sforzando",
+    "line": "You would think you would give your co-founder a warmer greeting.",
+    "order": null
+  },
+  "02775bd": {
+    "speaker": "Sforzando",
+    "line": "Though I guess neither of us work there anymore.",
+    "order": null
+  },
+  "06d1326": {
+    "speaker": "Sforzando",
+    "line": "You made sure of that.",
+    "order": null
+  },
+  "09960a4": {
+    "speaker": "Rest",
+    "line": "You made your own mistakes.",
+    "order": null
+  },
+  "0fa2123": {
+    "speaker": "Rest",
+    "line": "What do you have to do with what's-",
+    "order": null
+  },
+  "0a287d0": {
+    "speaker": "Sforzando",
+    "line": "With what's going on?",
+    "order": null
+  },
+  "03c4da8": {
+    "speaker": "Sforzando",
+    "line": "Wait, do you think I did this? You're not that...",
+    "order": null
+  },
+  "000d9ba": {
+    "speaker": "Sforzando",
+    "line": "...Are you actually that stupid? Really?",
+    "order": null
+  },
+  "02293d7": {
+    "speaker": "Sforzando",
+    "line": "Yeah, whatever, I give up.",
+    "order": null
+  },
+  "054af5a": {
+    "speaker": "Sforzando",
+    "line": "You got me, wow, go you, geniuses.",
+    "order": null
+  },
+  "043f14a": {
+    "speaker": "Sforzando",
+    "line": "Yeah, all of this? That's not me.",
+    "order": null
+  },
+  "0660876": {
+    "speaker": "Sforzando",
+    "line": "Oh. You seem confused.",
+    "order": null
+  },
+  "0c353ec": {
+    "speaker": "Sforzando",
+    "line": "No, I can see the hamster wheels that rolled you here.",
+    "order": null
+  },
+  "00be94e": {
+    "speaker": "Sforzando",
+    "line": "I thought about it.",
+    "order": null
+  },
+  "08ae4c1": {
+    "speaker": "Sforzando",
+    "line": "I actually designed a failsafe to do the thing you're probably thinking.",
+    "order": null
+  },
+  "0c78c67": {
+    "speaker": "Sforzando",
+    "line": "But I never implemented it because that would be stupid.",
+    "order": null
+  },
+  "06a76df": {
+    "speaker": "Sforzando",
+    "line": "It would kill everyone.",
+    "order": null
+  },
+  "035b5c8": {
+    "speaker": "Sforzando",
+    "line": "Everyone includes me.",
+    "order": null
+  },
+  "0547747": {
+    "speaker": "Rest",
+    "line": "You think this is going to kill everyone?",
+    "order": null
+  },
+  "027f0a5": {
+    "speaker": "Sforzando",
+    "line": "It basically already has.",
+    "order": null
+  },
+  "07a528c": {
+    "speaker": "Beat",
+    "line": "So then, what-",
+    "order": null
+  },
+  "09df83a": {
+    "speaker": "Sforzando",
+    "line": "Okay, so, look.",
+    "order": null
+  },
+  "0ce9558": {
+    "speaker": "Sforzando",
+    "line": "The world has always been shaped by our perception.",
+    "order": null
+  },
+  "03a623c": {
+    "speaker": "Sforzando",
+    "line": "Imagine if there weren't any years?",
+    "order": null
+  },
+  "0848ff1": {
+    "speaker": "Sforzando",
+    "line": "If we just noted the passage of time by saying it's \"day one trillion and one?\"",
+    "order": null
+  },
+  "0b1d54b": {
+    "speaker": "Sforzando",
+    "line": "We would go crazy.",
+    "order": null
+  },
+  "0675c6d": {
+    "speaker": "Beat",
+    "line": "You've sort of explained this before.",
+    "order": null
+  },
+  "0892975": {
+    "speaker": "Sforzando",
+    "line": "Right. And I explained the thing you are.",
+    "order": null
+  },
+  "08bbb08": {
+    "speaker": "Sforzando",
+    "line": "I need to tell you that again so I can get to this.",
+    "order": null
+  },
+  "0d58e83": {
+    "speaker": "Sforzando",
+    "line": "Normally, Silence are basically a shape that feels like what you feel they should be shaped like.",
+    "order": null
+  },
+  "08722ce": {
+    "speaker": "Sforzando",
+    "line": "Again, they're holes in the world.",
+    "order": null
+  },
+  "04acaf9": {
+    "speaker": "Sforzando",
+    "line": "The space is filled by you, and it's filled with whatever you're feeling.",
+    "order": null
+  },
+  "08d555d": {
+    "speaker": "Rest",
+    "line": "So they can be whatever you want.",
+    "order": null
+  },
+  "08b77af": {
+    "speaker": "Sforzando",
+    "line": "Whatever you feel. It's not about... want, really.",
+    "order": null
+  },
+  "042eef1": {
+    "speaker": "Sforzando",
+    "line": "Want all you, well, want, it'll do nothing.",
+    "order": null
+  },
+  "078bc18": {
+    "speaker": "Sforzando",
+    "line": "You can want them to be a breakfast buffet, they ain't gonna be pancakes, buddy.",
+    "order": null
+  },
+  "0086460": {
+    "speaker": "Sforzando",
+    "line": "But if you're really, really hungry, maybe they'll be a burger.",
+    "order": null
+  },
+  "053da44": {
+    "speaker": "Sforzando",
+    "line": "It's feeling. Which you can't control the same way.",
+    "order": null
+  },
+  "0e67583": {
+    "speaker": "Sforzando",
+    "line": "Like I guess if you truly want something, like really do, and do it hard enough, but-",
+    "order": null
+  },
+  "09dbba6": {
+    "speaker": "Sforzando",
+    "line": "...Whatever, completely not important and anyway it's besides the point, which is that music is-",
+    "order": null
+  },
+  "0d88afe": {
+    "speaker": "Rest",
+    "line": "It's an amplifier. It makes you feel things harder than anything else.",
+    "order": null
+  },
+  "06b7bd7": {
+    "speaker": "Sforzando",
+    "line": "Music doesn't make us feel things.",
+    "order": null
+  },
+  "0656f50": {
+    "speaker": "Sforzando",
+    "line": "Music is feeling.",
+    "order": null
+  },
+  "043a434": {
+    "speaker": "Sforzando",
+    "line": "ART is feeling.",
+    "order": null
+  },
+  "0a258f7": {
+    "speaker": "Sforzando",
+    "line": "And these things? They aren't filled in. They are just...",
+    "order": null
+  },
+  "0ec292c": {
+    "speaker": "Sforzando",
+    "line": "They're just Nothing.",
+    "order": null
+  },
+  "0a77683": {
+    "speaker": "Sforzando",
+    "line": "Same as the thing at the zero moment.",
+    "order": null
+  },
+  "078861f": {
+    "speaker": "Sforzando",
+    "line": "Same as Beat.",
+    "order": null
+  },
+  "0499323": {
+    "speaker": "Beat",
+    "line": "...I don't look like that.",
+    "order": null
+  },
+  "0e417df": {
+    "speaker": "Sforzando",
+    "line": "You're not that pretty.",
+    "order": null
+  },
+  "093801b": {
+    "speaker": "Sforzando",
+    "line": "Anyway, whatever caused this isn't me.",
+    "order": null
+  },
+  "03f82ec": {
+    "speaker": "Sforzando",
+    "line": "I feel lots of things.",
+    "order": null
+  },
+  "0594908": {
+    "speaker": "Sforzando",
+    "line": "Honestly, even if I didn't, that wouldn't happen. There's something else.",
+    "order": null
+  },
+  "08658d2": {
+    "speaker": "Sforzando",
+    "line": "Something really strong.",
+    "order": null
+  },
+  "0897d83": {
+    "speaker": "Sforzando",
+    "line": "If I had to make a guess, it would be you, Beat, but you seem...",
+    "order": null
+  },
+  "05efe68": {
+    "speaker": "Sforzando",
+    "line": "No, there's definitely something else.",
+    "order": null
+  },
+  "0759131": {
+    "speaker": "Sforzando",
+    "line": "This literally shouldn't be a thing that could happen.",
+    "order": null
+  },
+  "0f0b284": {
+    "speaker": "Sforzando",
+    "line": "No feeling to latch on to means nothing to represent,",
+    "order": null
+  },
+  "0d4f13b": {
+    "speaker": "Sforzando",
+    "line": "Which means that the nothing itself shouldn't be able to just be Nothing.",
+    "order": null
+  },
+  "077b044": {
+    "speaker": "Sforzando",
+    "line": "It should be, well, nothing.",
+    "order": null
+  },
+  "0833bbb": {
+    "speaker": "Sforzando",
+    "line": "But the nothing has become something, and that something is Nothing.",
+    "order": null
+  },
+  "04d0553": {
+    "speaker": "Sforzando",
+    "line": "Does that...",
+    "order": null
+  },
+  "0cd8c8b": {
+    "speaker": "Sforzando",
+    "line": "...look, I mean, you see the logic problem here.",
+    "order": null
+  },
+  "0d8b319": {
+    "speaker": "Sforzando",
+    "line": "...So I'll answer your first question with: you can't.",
+    "order": null
+  },
+  "037dc3d": {
+    "speaker": "Sforzando",
+    "line": "You can't stop it.",
+    "order": null
+  },
+  "0c8fa5c": {
+    "speaker": "Sforzando",
+    "line": "There's not enough shit in the world to put in the space you need to fill.",
+    "order": null
+  },
+  "01228a9": {
+    "speaker": "Sforzando",
+    "line": "I dedicated my life to trying to squeeze as much energy out of it as possible and...",
+    "order": null
+  },
+  "0bf2806": {
+    "speaker": "Sforzando",
+    "line": "I don't think I could come up with a way to fix the problem.",
+    "order": null
+  },
+  "016289b": {
+    "speaker": "Sforzando",
+    "line": "Can't pave over a black hole.",
+    "order": null
+  },
+  "08a34ff": {
+    "speaker": "Sforzando",
+    "line": "What's left to say?",
+    "order": null
+  },
+  "0a1c78e": {
+    "speaker": "Sforzando",
+    "line": "You want a magic bullet? Another answer?",
+    "order": null
+  },
+  "0327c62": {
+    "speaker": "Sforzando",
+    "line": "...Do you want me to apologize?",
+    "order": null
+  },
+  "0692608": {
+    "speaker": "Beat",
+    "line": "That's the last thing I'd expect from you.",
+    "order": null
+  },
+  "0f6be07": {
+    "speaker": "Sforzando",
+    "line": "Good, because it's not going to happen.",
+    "order": null
+  },
+  "0e236f9": {
+    "speaker": "Sforzando",
+    "line": "Beat, we're in a pocket dimension made of my head.",
+    "order": null
+  },
+  "0c5ac1f": {
+    "speaker": "Sforzando",
+    "line": "If I felt any regrets at all I think this would look very different.",
+    "order": null
+  },
+  "0bfe5e9": {
+    "speaker": "Sforzando",
+    "line": "But I have a feeling you already knew that.",
+    "order": null
+  },
+  "010a356": {
+    "speaker": "Beat",
+    "line": "...Once upon a time you told me I was trapped in a box. I-",
+    "order": null
+  },
+  "04227e4": {
+    "speaker": "Sforzando",
+    "line": "What, you want to tell me that I actually was the one trapped the whole time?",
+    "order": null
+  },
+  "0f176a3": {
+    "speaker": "Sforzando",
+    "line": "You want to I'm-rubber-you're-glue me?",
+    "order": null
+  },
+  "0f3a2b3": {
+    "speaker": "Sforzando",
+    "line": "I know who I am.",
+    "order": null
+  },
+  "00b480d": {
+    "speaker": "Beat",
+    "line": "We were both trapped. We still are.",
+    "order": null
+  },
+  "0340c54": {
+    "speaker": "Beat",
+    "line": "I'm at least trying to find a way out, though.",
+    "order": null
+  },
+  "0b9716e": {
+    "speaker": "Sforzando",
+    "line": "...Hey, if you do fix the end of days, tell them I helped.",
+    "order": null
+  },
+  "0da3e49": {
+    "speaker": "Rest",
+    "line": "Same as she's always been.",
+    "order": null
+  },
+  "0debd12": {
+    "speaker": "Beat",
+    "line": "Do you think she's right that we-",
+    "order": null
+  },
+  "06327bf": {
+    "speaker": "Rest",
+    "line": "Does it change anything if she is?",
+    "order": null
+  },
+  "0118447": {
+    "speaker": "Rest",
+    "line": "If she's right, maybe we delay it a little longer.",
+    "order": null
+  },
+  "0260b61": {
+    "speaker": "Rest",
+    "line": "If she's wrong, we get to prove her wrong.",
+    "order": null
+  },
+  "01e7684": {
+    "speaker": "Beat",
+    "line": "Have you tried dating anyone new?",
+    "order": null
+  },
+  "097e2c4": {
+    "speaker": "Rest",
+    "line": "What?",
+    "order": null
+  },
+  "04a7de3": {
+    "speaker": "Rest",
+    "line": "No. I hope you aren't asking because of her. I'd rather-",
+    "order": null
+  },
+  "0c9a5dd": {
+    "speaker": "Beat",
+    "line": "No, oh my god, no.",
+    "order": null
+  },
+  "0b44cef": {
+    "speaker": "Rest",
+    "line": "You'd better not be.",
+    "order": null
+  },
+  "0de7c26": {
+    "speaker": "Beat",
+    "line": "It's the way you were talking before.",
+    "order": null
+  },
+  "0665d75": {
+    "speaker": "Beat",
+    "line": "I just ask because you seem a bit hung up on-",
+    "order": null
+  },
+  "08a6b1c": {
+    "speaker": "Rest",
+    "line": "...Of course I am.",
+    "order": null
+  },
+  "0cdef44": {
+    "speaker": "Rest",
+    "line": "The last crush I had died in front of my eyes after never reciprocating my feelings.",
+    "order": null
+  },
+  "0b1a497": {
+    "speaker": "Rest",
+    "line": "I'm trying to be focused on other things now.",
+    "order": null
+  },
+  "0d18128": {
+    "speaker": "Beat",
+    "line": "Take it from someone who is, right now, basically only focused on \"other things:\"",
+    "order": null
+  },
+  "0cf1409": {
+    "speaker": "Beat",
+    "line": "One day, you will be dead.",
+    "order": null
+  },
+  "0e49144": {
+    "speaker": "Beat",
+    "line": "Right now, you are not dead. So, uh-",
+    "order": null
+  },
+  "0570120": {
+    "speaker": "Rest",
+    "line": "Great pep talk.",
+    "order": null
+  },
+  "0684060": {
+    "speaker": "Beat",
+    "line": "You're funnier than I thought.",
+    "order": null
+  },
+  "02b0665": {
+    "speaker": "Rest",
+    "line": "She once told me she thinks we look alike.",
+    "order": null
+  },
+  "0150b51": {
+    "speaker": "Beat",
+    "line": "I don't see it.",
+    "order": null
+  },
+  "0670cee": {
+    "speaker": "Rest",
+    "line": "Me neither. But she sure does.",
+    "order": null
+  },
+  "04113d6": {
+    "speaker": "Rest",
+    "line": "Said we \"could have been sisters in another universe.\"",
+    "order": null
+  },
+  "05b8eaf": {
+    "speaker": "Beat",
+    "line": "Huh. Well... that's a compliment.",
+    "order": null
+  },
+  "0d9e9d8": {
+    "speaker": "Rest",
+    "line": "To which one of us?",
+    "order": null
+  },
+  "0edde44": {
+    "speaker": "Beat",
+    "line": "Guess.",
+    "order": null
+  },
+  "032bd60": {
+    "speaker": "Rest",
+    "line": "It doesn't matter, anyway. We might die before anything could happen.",
+    "order": null
+  },
+  "00f88ee": {
+    "speaker": "Beat",
+    "line": "Eh, can't win the lottery every day.",
+    "order": null
+  },
+  "037ea5f": {
+    "speaker": "Beat",
+    "line": "What, speaking of?",
+    "order": null
+  },
+  "015c20e": {
+    "speaker": "Beat",
+    "line": "Literally never. Barely ever drink, too.",
+    "order": null
+  },
+  "0376b88": {
+    "speaker": "Rest",
+    "line": "Really, never? Took you for such a rebel.",
+    "order": null
+  },
+  "07eb3c3": {
+    "speaker": "Beat",
+    "line": "Bad for me, I have asthma, I need stronger stimulants, yadda yadda.",
+    "order": null
+  },
+  "05c7d7c": {
+    "speaker": "Beat",
+    "line": "Whichever excuse you like more.",
+    "order": null
+  },
+  "064299e": {
+    "speaker": "Beat",
+    "line": "I am a rebel, though.",
+    "order": null
+  },
+  "04c784b": {
+    "speaker": "Rest",
+    "line": "Kids today.",
+    "order": null
+  },
+  "01405de": {
+    "speaker": "Beat",
+    "line": "I'm twenty-one years old, dude.",
+    "order": null
+  },
+  "0d14343": {
+    "speaker": "Rest",
+    "line": "That's still a kid, to me.",
+    "order": null
+  },
+  "0ac4024": {
+    "speaker": "Rest",
+    "line": "Though when I was twenty-one I'd have said the same thing.",
+    "order": null
+  },
+  "0115f30": {
+    "speaker": "Beat",
+    "line": "All those excuses are true, by the way.",
+    "order": null
+  },
+  "0e169c3": {
+    "speaker": "Rest",
+    "line": "So, the asthma?",
+    "order": null
+  },
+  "0b7bcc8": {
+    "speaker": "Rest",
+    "line": "Do you mind that I'm smo-",
+    "order": null
+  },
+  "023875f": {
+    "speaker": "Beat",
+    "line": "It's more awkward to ask you to stop.",
+    "order": null
+  },
+  "041fe1b": {
+    "speaker": "Rest",
+    "line": "Heh.",
+    "order": null
+  },
+  "039c6e4": {
+    "speaker": "Rest",
+    "line": "Beat, it's hard not to think this was all my fault.",
+    "order": null
+  },
+  "064f84a": {
+    "speaker": "Rest",
+    "line": "I don't think the Silence exist without me.",
+    "order": null
+  },
+  "0208d98": {
+    "speaker": "Rest",
+    "line": "...It's hard to talk about because I'm not even really sure about it,",
+    "order": null
+  },
+  "062704e": {
+    "speaker": "Rest",
+    "line": "But that first night, I was so afraid of that show.",
+    "order": null
+  },
+  "0a4e683": {
+    "speaker": "Rest",
+    "line": "That was supposed to be our last show, and I was terrified for weeks that I would never...",
+    "order": null
+  },
+  "0412597": {
+    "speaker": "Rest",
+    "line": "......ever see Eve again.",
+    "order": null
+  },
+  "04b62da": {
+    "speaker": "Rest",
+    "line": "Or Grace.",
+    "order": null
+  },
+  "038215a": {
+    "speaker": "Rest",
+    "line": "It's stupid. We were friends for years. But I thought,",
+    "order": null
+  },
+  "0fc78f5": {
+    "speaker": "Rest",
+    "line": "I saw and I knew, deeply, in my core, that the things I was seeing were, somehow, the stuff I felt.",
+    "order": null
+  },
+  "0befe72": {
+    "speaker": "Rest",
+    "line": "I couldn't explain this in words if I tried.",
+    "order": null
+  },
+  "0c2e7d4": {
+    "speaker": "Beat",
+    "line": "I think you know what I'll probably say to all of that.",
+    "order": null
+  },
+  "0bdf8eb": {
+    "speaker": "Rest",
+    "line": "What, that it's not my fault?",
+    "order": null
+  },
+  "05c9f9e": {
+    "speaker": "Beat",
+    "line": "Maybe.",
+    "order": null
+  },
+  "0818f8e": {
+    "speaker": "Rest",
+    "line": "*sigh*",
+    "order": null
+  },
+  "02e7315": {
+    "speaker": "Beat",
+    "line": "Did this use to be a cop car?",
+    "order": null
+  },
+  "074a90d": {
+    "speaker": "Rest",
+    "line": "Sort of?",
+    "order": null
+  },
+  "09683bb": {
+    "speaker": "Rest",
+    "line": "It started as not being one, then I had it retrofitted.",
+    "order": null
+  },
+  "032f0d3": {
+    "speaker": "Rest",
+    "line": "Then retrounfitted.",
+    "order": null
+  },
+  "07503ab": {
+    "speaker": "Rest",
+    "line": "First color it was was yellow. I liked that.",
+    "order": null
+  },
+  "06aea6b": {
+    "speaker": "Beat",
+    "line": "So why the red?",
+    "order": null
+  },
+  "09818f8": {
+    "speaker": "Rest",
+    "line": "I liked it more.",
+    "order": null
+  },
+  "042fb41": {
+    "speaker": "Beat",
+    "line": "Let's roll?",
+    "order": null
+  },
+  "0641483": {
+    "speaker": "Rest",
+    "line": "Yeah.",
+    "order": null
+  },
+  "01c5d42": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You say \"I can beat this.\"",
+    "order": null
+  },
+  "0a83f60": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You feel like shit, but screw it. You've felt like shit.",
+    "order": null
+  },
+  "0b4ef9d": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "This isn't anything new.",
+    "order": null
+  },
+  "0e072f3": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "This is baby stuff.",
+    "order": null
+  },
+  "0b26d8a": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You can push yourself for the sudden bursts,",
+    "order": null
+  },
+  "07c6bca": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "the jumps up,",
+    "order": null
+  },
+  "043892e": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "the small sprints.",
+    "order": null
+  },
+  "0137261": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You shadowbox the air to prove it to yourself.",
+    "order": null
+  },
+  "0b0cc84": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You do everything big and loud and awesome because you're better than this,",
+    "order": null
+  },
+  "07b4795": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "...because you can beat this.",
+    "order": null
+  },
+  "0926203": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "But it's-",
+    "order": null
+  },
+  "0eb24c0": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "The diagnosis isn't good. But you can beat this.",
+    "order": null
+  },
+  "0cf44cf": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "And everything is great, and you're ordering Chinese food and saying screw it, this is nothing,",
+    "order": null
+  },
+  "0d0a79d": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "and telling your friend she's silly to worry,",
+    "order": null
+  },
+  "01beaff": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "and that this will be nothing in a month and less than nothing in a year.",
+    "order": null
+  },
+  "0f229f6": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "But the chemo hurts.",
+    "order": null
+  },
+  "0695732": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "But you're stronger than the chemo.",
+    "order": null
+  },
+  "0dd397a": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "But.",
+    "order": null
+  },
+  "00f7411": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "It does hurt. It really hurts.",
+    "order": null
+  },
+  "060cacb": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "In some ways it's harder to tell if it hurts worse than the thing it's supposed to be fixing.",
+    "order": null
+  },
+  "0729c45": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "But you smile through it, even if the smile betrays a wince, because...",
+    "order": null
+  },
+  "03de211": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "...well, you know. I'm not gonna keep saying it.",
+    "order": null
+  },
+  "01867bf": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "I can't keep saying it.",
+    "order": null
+  },
+  "072bb86": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You've always known.",
+    "order": null
+  },
+  "096a920": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You've been a defiant little bitch your whole life,",
+    "order": null
+  },
+  "05ad867": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You know it for a fact as much as you know how the dirt would feel beneath the wet grass on your toes-",
+    "order": null
+  },
+  "04ed239": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "-without needing to take your shoes off to check.",
+    "order": null
+  },
+  "07bcedc": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "But one day you get curious.",
+    "order": null
+  },
+  "0665a09": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You shouldn't be curious.",
+    "order": null
+  },
+  "0f16653": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You are. You check.",
+    "order": null
+  },
+  "0039695": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "And the ground is colder than it should be, and the grass is dry as a bone,",
+    "order": null
+  },
+  "0b722ff": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "And the bottom of your foot is bleeding, and it hurts a lot.",
+    "order": null
+  },
+  "020d75a": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "Too much?",
+    "order": null
+  },
+  "0022224": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "And you aren't even afraid to die.",
+    "order": null
+  },
+  "0b1092d": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You're past that.",
+    "order": null
+  },
+  "038aa4d": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You got over being afraid to die when you were told the diagnosis.",
+    "order": null
+  },
+  "0c6db34": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "Death doesn't scare you.",
+    "order": null
+  },
+  "07444b1": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "Suffering does, though. Suffering scares you a lot.",
+    "order": null
+  },
+  "033a3d6": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "Suffering the way you keep feeling on the edges, the way you're getting a sense of it...",
+    "order": null
+  },
+  "09cecf0": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "...it's the scariest thing you can imagine, and it only gets worse.",
+    "order": null
+  },
+  "0f8e063": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "There is so much pain in this world and-",
+    "order": null
+  },
+  "07d38de": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "Beating this means becoming a machine designed to feel that forever and ever for even just a chance at more,",
+    "order": null
+  },
+  "0334ef3": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "And the more might just be more of this.",
+    "order": null
+  },
+  "02ccbef": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "You need to do that every single day.",
+    "order": null
+  },
+  "0dac03b": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "And you've always known it was going to be like this.",
+    "order": null
+  },
+  "0a3f083": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "And you've got fight in you!",
+    "order": null
+  },
+  "015f0af": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "But maybe not that much fight.",
+    "order": null
+  },
+  "0a63ff0": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "The thing about cancer is that, if it goes long enough...",
+    "order": null
+  },
+  "04221d0": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "...at some point the rallying just stops.",
+    "order": null
+  },
+  "07e0736": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "Once you realize you can't actually win,",
+    "order": null
+  },
+  "026ba6f": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "Your only two choices are to lose slowly or lose now.",
+    "order": null
+  },
+  "0ff3ab1": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "The \"you\" in this is me, of course.",
+    "order": null
+  },
+  "0af1090": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "I'm not sure how else to talk about this.",
+    "order": null
+  },
+  "0e06e37": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "It's even harder to talk about than it is to feel it.",
+    "order": null
+  },
+  "0f5e216": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "I just wish I had a few more years left.",
+    "order": null
+  },
+  "0de7b30": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "I wish you had them with me.",
+    "order": null
+  },
+  "08fd7a1": {
+    "speaker": "BeatsMomVoicemail",
+    "line": "I'm sick of losing slowly.",
+    "order": null
+  },
+  "0423417": {
+    "speaker": "BeatsMom",
+    "line": "To Beat-",
+    "order": null
+  },
+  "049c9d2": {
+    "speaker": "BeatsMom",
+    "line": "You know I love you?",
+    "order": null
+  },
+  "0579523": {
+    "speaker": "BeatsMom",
+    "line": "Obviously.",
+    "order": null
+  },
+  "0c7ba52": {
+    "speaker": "Beat",
+    "line": "I love you too, mom.",
+    "order": null
+  },
+  "0ad1858": {
+    "speaker": "Beat",
+    "line": "...obviously.",
+    "order": null
+  },
+  "0bc003c": {
+    "speaker": "Mirror",
+    "line": "Are you scared?",
+    "order": null
+  },
+  "07ac91c": {
+    "speaker": "Mirror",
+    "line": "You can talk, you know.",
+    "order": null
+  },
+  "019a735": {
+    "speaker": "Beat",
+    "line": "Sorry, I'm thinking.",
+    "order": null
+  },
+  "033a18e": {
+    "speaker": "Beat",
+    "line": "...I don't think I am.",
+    "order": null
+  },
+  "0bcc70d": {
+    "speaker": "Beat",
+    "line": "What's the worst that could happen?",
+    "order": null
+  },
+  "089570e": {
+    "speaker": "Mirror",
+    "line": "Death, for one.",
+    "order": null
+  },
+  "038074f": {
+    "speaker": "Beat",
+    "line": "...I don't really want to be alive.",
+    "order": null
+  },
+  "097ebbd": {
+    "speaker": "Beat",
+    "line": "I mean, I'm...not...",
+    "order": null
+  },
+  "0b4175f": {
+    "speaker": "Beat",
+    "line": "I'm not suicidal.",
+    "order": null
+  },
+  "03fae7a": {
+    "speaker": "Beat",
+    "line": "I don't want to die.",
+    "order": null
+  },
+  "0122fc7": {
+    "speaker": "Beat",
+    "line": "But I don't want to be alive.",
+    "order": null
+  },
+  "0ad18a0": {
+    "speaker": "Beat",
+    "line": "It's a Christmas gift that wasn't on my list.",
+    "order": null
+  },
+  "09303dc": {
+    "speaker": "Beat",
+    "line": "And I'm grateful, even, that it was given to me.",
+    "order": null
+  },
+  "0d49c77": {
+    "speaker": "Beat",
+    "line": "That I have time at all. But...",
+    "order": null
+  },
+  "0ec08ad": {
+    "speaker": "Beat",
+    "line": "But I don't know what to do with it.",
+    "order": null
+  },
+  "0600486": {
+    "speaker": "Beat",
+    "line": "This might be the quietest my head has ever been in my entire life.",
+    "order": null
+  },
+  "0a52b2b": {
+    "speaker": "Mirror",
+    "line": "Closest you can remember, at least.",
+    "order": null
+  },
+  "0383cdf": {
+    "speaker": "Mirror",
+    "line": "Do you love this person?",
+    "order": null
+  },
+  "0406923": {
+    "speaker": "Beat",
+    "line": "The only time I've ever liked myself is when I'm on stage.",
+    "order": null
+  },
+  "00c400d": {
+    "speaker": "Mirror",
+    "line": "That's not what the question was.",
+    "order": null
+  },
+  "0511e0a": {
+    "speaker": "Beat",
+    "line": "I don't know who this person is.",
+    "order": null
+  },
+  "04fa085": {
+    "speaker": "Beat",
+    "line": "Or her, either...",
+    "order": null
+  },
+  "0f39203": {
+    "speaker": "Beat",
+    "line": "I-",
+    "order": null
+  },
+  "08fcfa1": {
+    "speaker": "Beat",
+    "line": "I felt sick.",
+    "order": null
+  },
+  "012768b": {
+    "speaker": "Mirror",
+    "line": "It wasn't your song anymore.",
+    "order": null
+  },
+  "07bd2ca": {
+    "speaker": "Beat",
+    "line": "It never really was mine.",
+    "order": null
+  },
+  "04313ba": {
+    "speaker": "Beat",
+    "line": "I just sang it.",
+    "order": null
+  },
+  "08d03a3": {
+    "speaker": "Beat",
+    "line": "But there it was, with his voice,",
+    "order": null
+  },
+  "00f0d47": {
+    "speaker": "Beat",
+    "line": "and he had made it,",
+    "order": null
+  },
+  "0c4c339": {
+    "speaker": "Beat",
+    "line": "and I hadn't,",
+    "order": null
+  },
+  "0fa0ddf": {
+    "speaker": "Beat",
+    "line": "and I just wished I was something at all.",
+    "order": null
+  },
+  "088749f": {
+    "speaker": "Beat",
+    "line": "Not even the best! Just something.",
+    "order": null
+  },
+  "01f750c": {
+    "speaker": "Beat",
+    "line": "And it was too much.",
+    "order": null
+  },
+  "040d200": {
+    "speaker": "Beat",
+    "line": "The same thing happened to my mom's songs, and then the same thing happened to my mom.",
+    "order": null
+  },
+  "085255b": {
+    "speaker": "Beat",
+    "line": "And it felt like I was just vanishing as the same thing happened to me.",
+    "order": null
+  },
+  "0d099be": {
+    "speaker": "Mirror",
+    "line": "Is he the person you hate most?",
+    "order": null
+  },
+  "01e7a24": {
+    "speaker": "Beat",
+    "line": "No. I should hate him. I wish I did.",
+    "order": null
+  },
+  "0c8d767": {
+    "speaker": "Beat",
+    "line": "He gave me the best advice I've ever heard.",
+    "order": null
+  },
+  "0023764": {
+    "speaker": "question",
+    "line": "Be sad and speak plainly.",
+    "order": null
+  },
+  "08ae45d": {
+    "speaker": "Beat",
+    "line": "You make this sound so simple.",
+    "order": null
+  },
+  "08ae084": {
+    "speaker": "question",
+    "line": "It is.",
+    "order": null
+  },
+  "0260d2e": {
+    "speaker": "question",
+    "line": "Ask yourself what hits the gut more and just say it like that.",
+    "order": null
+  },
+  "0a8883f": {
+    "speaker": "question",
+    "line": "You don't say to someone \"I don't like you and what you stand for.\"",
+    "order": null
+  },
+  "0e5509d": {
+    "speaker": "question",
+    "line": "You tell them to eat shit.",
+    "order": null
+  },
+  "06f5fc7": {
+    "speaker": "Mirror",
+    "line": "You never forgot this.",
+    "order": null
+  },
+  "021da97": {
+    "speaker": "Beat",
+    "line": "I didn't forget any of it.",
+    "order": null
+  },
+  "09b6f38": {
+    "speaker": "exclamation",
+    "line": "Sorry. She's a goddamn sperg.",
+    "order": null
+  },
+  "0a00c95": {
+    "speaker": "question",
+    "line": "She's the only woman who puts up with you.",
+    "order": null
+  },
+  "0aa7b0e": {
+    "speaker": "exclamation",
+    "line": "She doesn't put up with me.",
+    "order": null
+  },
+  "0ec5e6a": {
+    "speaker": "Beat",
+    "line": "Hi. It's me. The sperg.",
+    "order": null
+  },
+  "014ff24": {
+    "speaker": "question",
+    "line": "Hey, Bee.",
+    "order": null
+  },
+  "0c5bf3f": {
+    "speaker": "Beat",
+    "line": "Just call me a bitch next time. It'd be more honest.",
+    "order": null
+  },
+  "0f1dd37": {
+    "speaker": "Beat",
+    "line": "Christ. You're a ridiculous caricature of a human being.",
+    "order": null
+  },
+  "06c5fb6": {
+    "speaker": "dot",
+    "line": "\"You're a ridiculous caricature of a human being.\"",
+    "order": null
+  },
+  "0873718": {
+    "speaker": "Beat",
+    "line": "Whatever.",
+    "order": null
+  },
+  "089d794": {
+    "speaker": "Beat",
+    "line": "What did you even want to talk about?",
+    "order": null
+  },
+  "0212b02": {
+    "speaker": "dot",
+    "line": "Yer out, shit-for-brain. We need someone in.",
+    "order": null
+  },
+  "040f443": {
+    "speaker": "dot",
+    "line": "Someone who's actually good.",
+    "order": null
+  },
+  "0464353": {
+    "speaker": "exclamation",
+    "line": "I'll be polite. Look, you gotta understand.",
+    "order": null
+  },
+  "0ab03ac": {
+    "speaker": "exclamation",
+    "line": "You dont have that much going for you.",
+    "order": null
+  },
+  "088de75": {
+    "speaker": "exclamation",
+    "line": "and this band could.",
+    "order": null
+  },
+  "0ef5426": {
+    "speaker": "exclamation",
+    "line": "But you don't. You don't got it.",
+    "order": null
+  },
+  "045a09a": {
+    "speaker": "exclamation",
+    "line": "Plus you're not hot.",
+    "order": null
+  },
+  "089bb28": {
+    "speaker": "dot",
+    "line": "Gotta be hot.",
+    "order": null
+  },
+  "08da393": {
+    "speaker": "exclamation",
+    "line": "We'll fix the songs you did stuff for to make them work without you.",
+    "order": null
+  },
+  "05231dc": {
+    "speaker": "exclamation",
+    "line": "Shouldn't be too much work.",
+    "order": null
+  },
+  "04f771c": {
+    "speaker": "Beat",
+    "line": "What the shit, guys?",
+    "order": null
+  },
+  "01b6eef": {
+    "speaker": "Beat",
+    "line": "Did everyone agree to this?",
+    "order": null
+  },
+  "0972d1f": {
+    "speaker": "Beat",
+    "line": "Seriously? Not even you've got my back?",
+    "order": null
+  },
+  "0a2f3c6": {
+    "speaker": "question",
+    "line": "Bee, I'm...",
+    "order": null
+  },
+  "0ad5881": {
+    "speaker": "question",
+    "line": "Some people just don't have it.",
+    "order": null
+  },
+  "0c63d85": {
+    "speaker": "question",
+    "line": "I'm sorry. I hope you...",
+    "order": null
+  },
+  "0ed3d29": {
+    "speaker": "question",
+    "line": "...I hope you figure yourself out.",
+    "order": null
+  },
+  "0a71846": {
+    "speaker": "Mirror",
+    "line": "You keep dwelling on them.",
+    "order": null
+  },
+  "00e4165": {
+    "speaker": "Mirror",
+    "line": "They drive you out of spite, maybe.",
+    "order": null
+  },
+  "0206fda": {
+    "speaker": "Beat",
+    "line": "Not maybe.",
+    "order": null
+  },
+  "0f09bf4": {
+    "speaker": "Beat",
+    "line": "I want to be on stage and in front of them, and I want to spit in their hair from a microphone.",
+    "order": null
+  },
+  "0e06392": {
+    "speaker": "Beat",
+    "line": "I still want to make them sweat with the kind of jealousy that you get from not understanding why everyone else understands something.",
+    "order": null
+  },
+  "0a30724": {
+    "speaker": "Mirror",
+    "line": "Is that what pushes you?",
+    "order": null
+  },
+  "0e28895": {
+    "speaker": "Beat",
+    "line": "It would be easy to say yes, but...",
+    "order": null
+  },
+  "022aedd": {
+    "speaker": "Beat",
+    "line": "...it's not why I think about these things.",
+    "order": null
+  },
+  "0afc414": {
+    "speaker": "Beat",
+    "line": "I keep-",
+    "order": null
+  },
+  "0344ea0": {
+    "speaker": "Beat",
+    "line": "If my dreams are unrealistic I want to change reality.",
+    "order": null
+  },
+  "0289886": {
+    "speaker": "exclamation",
+    "line": "God, I hope you don't think that's profound.",
+    "order": null
+  },
+  "02d97d5": {
+    "speaker": "dot",
+    "line": "\"If my dreams are unrealistic I want to change reality.\"",
+    "order": null
+  },
+  "0f007d4": {
+    "speaker": "Beat",
+    "line": "I keep thinking about every time I could have made one fewer mistake or looked slightly cooler.",
+    "order": null
+  },
+  "018c5a4": {
+    "speaker": "Beat",
+    "line": "I wake up in a cold sweat thinking about those moments,",
+    "order": null
+  },
+  "04962a5": {
+    "speaker": "Beat",
+    "line": "thinking that they don't think about me at all except to think about those moments.",
+    "order": null
+  },
+  "094a290": {
+    "speaker": "Mirror",
+    "line": "Does it hurt to think about your old friends like that?",
+    "order": null
+  },
+  "0a7ac64": {
+    "speaker": "Beat",
+    "line": "I don't know if they ever were friends. They were coworkers.",
+    "order": null
+  },
+  "0c14321": {
+    "speaker": "Beat",
+    "line": "If that.",
+    "order": null
+  },
+  "044a109": {
+    "speaker": "Beat",
+    "line": "They weren't friends.",
+    "order": null
+  },
+  "0dfdcd8": {
+    "speaker": "Mirror",
+    "line": "But now you-",
+    "order": null
+  },
+  "09d2eb9": {
+    "speaker": "Beat",
+    "line": "Now I have new ones. And they haven't let me down.",
+    "order": null
+  },
+  "0b93419": {
+    "speaker": "Beat",
+    "line": "Maybe not for a lack of trying",
+    "order": null
+  },
+  "0e5a49f": {
+    "speaker": "Clef",
+    "line": "I'm so freaking serious I could shit blood, Beat.",
+    "order": null
+  },
+  "0943703": {
+    "speaker": "Clef",
+    "line": "I'm so real.",
+    "order": null
+  },
+  "0493d5c": {
+    "speaker": "Clef",
+    "line": "I do not think you need a third chorus.",
+    "order": null
+  },
+  "0509579": {
+    "speaker": "Clef",
+    "line": "I don't think any song needs a third chorus.",
+    "order": null
+  },
+  "08f0c1f": {
+    "speaker": "Clef",
+    "line": "Two choruses only.",
+    "order": null
+  },
+  "0c44625": {
+    "speaker": "Clef",
+    "line": "Cap it at two.",
+    "order": null
+  },
+  "07dd205": {
+    "speaker": "Clef",
+    "line": "Doing three choruses is like shooting a guy you just gave life-saving surgery to so you can give him surgery again.",
+    "order": null
+  },
+  "022cb79": {
+    "speaker": "Clef",
+    "line": "CUT THE THIRD CHORUS.",
+    "order": null
+  },
+  "0b28398": {
+    "speaker": "Clef",
+    "line": "Give it a solo or something, or a weird break, instead.",
+    "order": null
+  },
+  "02b9fb2": {
+    "speaker": "Beat",
+    "line": "Even if I can't not think about-",
+    "order": null
+  },
+  "0638d01": {
+    "speaker": "question",
+    "line": "Bee, you did great out there.",
+    "order": null
+  },
+  "0c5476f": {
+    "speaker": "Beat",
+    "line": "...thanks.",
+    "order": null
+  },
+  "078f5b3": {
+    "speaker": "Beat",
+    "line": "The small kindnesses, too.",
+    "order": null
+  },
+  "0308f0e": {
+    "speaker": "Mirror",
+    "line": "But why do you do this?",
+    "order": null
+  },
+  "06090b0": {
+    "speaker": "Mirror",
+    "line": "What pushes you?",
+    "order": null
+  },
+  "06f535f": {
+    "speaker": "Beat",
+    "line": "I don't...",
+    "order": null
+  },
+  "0312611": {
+    "speaker": "Beat",
+    "line": "I can't talk about it.",
+    "order": null
+  },
+  "0d02086": {
+    "speaker": "Mirror",
+    "line": "Too painful?",
+    "order": null
+  },
+  "073e8c2": {
+    "speaker": "Beat",
+    "line": "I... I actually can't. I don't even know what I want.",
+    "order": null
+  },
+  "0b51aef": {
+    "speaker": "Beat",
+    "line": "Not because I haven't thought about it.",
+    "order": null
+  },
+  "0ff8137": {
+    "speaker": "Beat",
+    "line": "I don't even really understand what it is.",
+    "order": null
+  },
+  "0d9a31d": {
+    "speaker": "Beat",
+    "line": "I only understand the space around it.",
+    "order": null
+  },
+  "048ce04": {
+    "speaker": "Beat",
+    "line": "I can kind of see the shape the space around it forms, maybe.",
+    "order": null
+  },
+  "086a17f": {
+    "speaker": "Beat",
+    "line": "I can almost tell you what it almost feels like.",
+    "order": null
+  },
+  "05ee11e": {
+    "speaker": "Beat",
+    "line": "It's like...",
+    "order": null
+  },
+  "052b874": {
+    "speaker": "Beat",
+    "line": "There's this sudden small burning between my eyes like I'm going to cry,",
+    "order": null
+  },
+  "031a7ef": {
+    "speaker": "Beat",
+    "line": "but it's dry,",
+    "order": null
+  },
+  "055a50d": {
+    "speaker": "Beat",
+    "line": "then it's gone.",
+    "order": null
+  },
+  "03c8970": {
+    "speaker": "Beat",
+    "line": "It's in the space between my chin and my throat.",
+    "order": null
+  },
+  "07883ce": {
+    "speaker": "Beat",
+    "line": "It's a lightness that reminds me of something I can't even remember I forgot.",
+    "order": null
+  },
+  "0007eaf": {
+    "speaker": "Beat",
+    "line": "It's all the things I've ever thought about.",
+    "order": null
+  },
+  "0d3e812": {
+    "speaker": "Beat",
+    "line": "It's just who I always have been, somehow.",
+    "order": null
+  },
+  "0a43bd1": {
+    "speaker": "Beat",
+    "line": "And for those small quick flashes it's like I know what my soul looks like.",
+    "order": null
+  },
+  "0aa38cd": {
+    "speaker": "Beat",
+    "line": "Like I can connect with the person I know I can be.",
+    "order": null
+  },
+  "0571134": {
+    "speaker": "Beat",
+    "line": "The person other people like.",
+    "order": null
+  },
+  "012ad6b": {
+    "speaker": "Beat",
+    "line": "And my brain can suddenly understand something bigger than it can think about.",
+    "order": null
+  },
+  "0850747": {
+    "speaker": "Beat",
+    "line": "Bigger than the small container I live in.",
+    "order": null
+  },
+  "08e0d46": {
+    "speaker": "Beat",
+    "line": "And how do you...I'm trying...and I can't-",
+    "order": null
+  },
+  "0c4c585": {
+    "speaker": "Beat",
+    "line": "...you can't just use direct language to say it because words aren't enough.",
+    "order": null
+  },
+  "0f4ba4d": {
+    "speaker": "Beat",
+    "line": "There's a shape around a space that you can't understand.",
+    "order": null
+  },
+  "073551c": {
+    "speaker": "Beat",
+    "line": "You can't even think at it right.",
+    "order": null
+  },
+  "089e442": {
+    "speaker": "Beat",
+    "line": "And there aren't words for that.",
+    "order": null
+  },
+  "0c0e29d": {
+    "speaker": "Mirror",
+    "line": "You just said some.",
+    "order": null
+  },
+  "04d1074": {
+    "speaker": "Beat",
+    "line": "Not any good ones.",
+    "order": null
+  },
+  "0a33c2f": {
+    "speaker": "Beat",
+    "line": "What did you think, mom?",
+    "order": null
+  },
+  "0c87b16": {
+    "speaker": "BeatsMom",
+    "line": "That was pretty good, sweetie!",
+    "order": null
+  },
+  "0662f97": {
+    "speaker": "Beat",
+    "line": "...pretty good? Come on, that was amazing!",
+    "order": null
+  },
+  "03f9011": {
+    "speaker": "BeatsMom",
+    "line": "Alright, hey now. Let's not get cocky.",
+    "order": null
+  },
+  "01151fa": {
+    "speaker": "Beat",
+    "line": "I'm not cocky!",
+    "order": null
+  },
+  "06122a1": {
+    "speaker": "Brianna",
+    "line": "Ha!",
+    "order": null
+  },
+  "0600bbe": {
+    "speaker": "Brianna",
+    "line": "I can't believe she actually said that.",
+    "order": null
+  },
+  "0622a07": {
+    "speaker": "BeatsMom",
+    "line": "Look, now. You know I love you, right?",
+    "order": null
+  },
+  "036b177": {
+    "speaker": "Beat",
+    "line": "Obviously.",
+    "order": null
+  },
+  "0d20c49": {
+    "speaker": "BeatsMom",
+    "line": "Obviously. So do you want me to be nice or do you want me to be honest?",
+    "order": null
+  },
+  "09375b4": {
+    "speaker": "BeatsMom",
+    "line": "You've got spirit.",
+    "order": null
+  },
+  "0ef80ba": {
+    "speaker": "BeatsMom",
+    "line": "I love, love, love that you're putting so much effort into this.",
+    "order": null
+  },
+  "0e1b0a4": {
+    "speaker": "Beat",
+    "line": "What did I do wrong? I was on key!",
+    "order": null
+  },
+  "068b777": {
+    "speaker": "BeatsMom",
+    "line": "You were! But singing the right notes isn't all of it. Tone isn't even all of it.",
+    "order": null
+  },
+  "0e660ac": {
+    "speaker": "BeatsMom",
+    "line": "It's a hard thing to figure out. It takes a lot of time.",
+    "order": null
+  },
+  "0500e70": {
+    "speaker": "BeatsMom",
+    "line": "I used to be really, really bad at it.",
+    "order": null
+  },
+  "0ede42d": {
+    "speaker": "Beat",
+    "line": "I don't believe you!",
+    "order": null
+  },
+  "06e9162": {
+    "speaker": "Brianna",
+    "line": "Oh, I definitely do. I've heard the tapes.",
+    "order": null
+  },
+  "03acb3b": {
+    "speaker": "BeatsMom",
+    "line": "We're circling back to that later.",
+    "order": null
+  },
+  "05c64f1": {
+    "speaker": "BeatsMom",
+    "line": "Look, how do I put this?",
+    "order": null
+  },
+  "0972635": {
+    "speaker": "BeatsMom",
+    "line": "It's like you're...",
+    "order": null
+  },
+  "05271ab": {
+    "speaker": "BeatsMom",
+    "line": "...singing like a prize-fighter.",
+    "order": null
+  },
+  "0537c76": {
+    "speaker": "Beat",
+    "line": "A prize-fighter?",
+    "order": null
+  },
+  "0118327": {
+    "speaker": "Beat",
+    "line": "What the heck does that even mean?",
+    "order": null
+  },
+  "07614ee": {
+    "speaker": "BeatsMom",
+    "line": "You're acting like you just want it to be over.",
+    "order": null
+  },
+  "001f822": {
+    "speaker": "BeatsMom",
+    "line": "You're trying really, really hard, but...",
+    "order": null
+  },
+  "08c7ad2": {
+    "speaker": "BeatsMom",
+    "line": "...at the wrong bits.",
+    "order": null
+  },
+  "0d06cf2": {
+    "speaker": "BeatsMom",
+    "line": "You can't just sing the moments in the music.",
+    "order": null
+  },
+  "02b3ad6": {
+    "speaker": "BeatsMom",
+    "line": "You have to let the moments sing for you.",
+    "order": null
+  },
+  "0771d56": {
+    "speaker": "Beat",
+    "line": "I don't get it...",
+    "order": null
+  },
+  "060b270": {
+    "speaker": "Beat",
+    "line": "...I guess I'm just stupid.",
+    "order": null
+  },
+  "0a164da": {
+    "speaker": "BeatsMom",
+    "line": "You're not, sweetie.",
+    "order": null
+  },
+  "01761c2": {
+    "speaker": "BeatsMom",
+    "line": "You're twelve.",
+    "order": null
+  },
+  "036ff21": {
+    "speaker": "Brianna",
+    "line": "Everyone twelve is stupid.",
+    "order": null
+  },
+  "079a407": {
+    "speaker": "BeatsMom",
+    "line": "Beatrice, sweetheart, think of it this way.",
+    "order": null
+  },
+  "08e5e08": {
+    "speaker": "BeatsMom",
+    "line": "Say you're watching a movie. Like an action movie, right?",
+    "order": null
+  },
+  "08481fd": {
+    "speaker": "BeatsMom",
+    "line": "There's this big moment at the end where the hero realizes he has something up his sleeve he forgot about.",
+    "order": null
+  },
+  "0342b44": {
+    "speaker": "BeatsMom",
+    "line": "And the audience realizes it at the same time he does!",
+    "order": null
+  },
+  "0e71354": {
+    "speaker": "Beat",
+    "line": "Okay...",
+    "order": null
+  },
+  "019e401": {
+    "speaker": "BeatsMom",
+    "line": "That's always cool, right?",
+    "order": null
+  },
+  "0bcffd5": {
+    "speaker": "Beat",
+    "line": "Sure, I guess.",
+    "order": null
+  },
+  "030d071": {
+    "speaker": "BeatsMom",
+    "line": "Now, is it cool if he does it really fast after he tells us, or someone else tells us, what's going on,",
+    "order": null
+  },
+  "08e514b": {
+    "speaker": "BeatsMom",
+    "line": "Or is it cooler if we sort of sit with him for a bit, and kind of figure it out along with him?",
+    "order": null
+  },
+  "049cc20": {
+    "speaker": "BeatsMom",
+    "line": "That's what great music is.",
+    "order": null
+  },
+  "0453f05": {
+    "speaker": "BeatsMom",
+    "line": "Music is finding those moments, and letting them breathe.",
+    "order": null
+  },
+  "0137e91": {
+    "speaker": "BeatsMom",
+    "line": "You're so, so talented.",
+    "order": null
+  },
+  "0d76342": {
+    "speaker": "BeatsMom",
+    "line": "Mama's little baby makes me proud, okay?",
+    "order": null
+  },
+  "00a6450": {
+    "speaker": "Beat",
+    "line": "I'm... not a baby.",
+    "order": null
+  },
+  "02e9c7e": {
+    "speaker": "BeatsMom",
+    "line": "Yes you are, come here. Give me a hug.",
+    "order": null
+  },
+  "0d42a1d": {
+    "speaker": "BeatsMom",
+    "line": "This...this is how singing should feel.",
+    "order": null
+  },
+  "0c96a7b": {
+    "speaker": "BeatsMom",
+    "line": "Learn to love it like you love me.",
+    "order": null
+  },
+  "050ca84": {
+    "speaker": "BeatsMom",
+    "line": "...you do love me, right?",
+    "order": null
+  },
+  "074fea0": {
+    "speaker": "Beat",
+    "line": "...obviously.",
+    "order": null
+  },
+  "007c6df": {
+    "speaker": "BeatsMom",
+    "line": "Obviously.",
+    "order": null
+  },
+  "03a6e05": {
+    "speaker": "Beat",
+    "line": "...a thought I'm obsessed with is that it takes seven years for your body to completely remake itself.",
+    "order": null
+  },
+  "0a6a7a4": {
+    "speaker": "Beat",
+    "line": "And the reason I can't stop thinking about it,",
+    "order": null
+  },
+  "0ca97a1": {
+    "speaker": "Beat",
+    "line": "is that that the person I was seven years ago is gone.",
+    "order": null
+  },
+  "0cd86f1": {
+    "speaker": "Beat",
+    "line": "And I'm terrified that I don't know who she is. That I've lost touch with that person.",
+    "order": null
+  },
+  "00333c0": {
+    "speaker": "Beat",
+    "line": "That I've failed her.",
+    "order": null
+  },
+  "036c457": {
+    "speaker": "Mirror",
+    "line": "Maybe the kindest thing you can do for that version of you is to be better than they were.",
+    "order": null
+  },
+  "02542e0": {
+    "speaker": "Mirror",
+    "line": "You just have to keep doing the best you can.",
+    "order": null
+  },
+  "096aa5c": {
+    "speaker": "Mirror",
+    "line": "And you'll get better at it.",
+    "order": null
+  },
+  "03680e0": {
+    "speaker": "Mirror",
+    "line": "And it'll take forever.",
+    "order": null
+  },
+  "0987a13": {
+    "speaker": "Mirror",
+    "line": "But you will get better at it.",
+    "order": null
+  },
+  "0191580": {
+    "speaker": "Mirror",
+    "line": "And I don't know who I am right now,",
+    "order": null
+  },
+  "0fc19b2": {
+    "speaker": "Beat",
+    "line": "And I don't know who I am right now,",
+    "order": null
+  },
+  "0dacbec": {
+    "speaker": "Mirror",
+    "line": "But I am better than who I was before.",
+    "order": null
+  },
+  "09903f4": {
+    "speaker": "Mirror",
+    "line": "I am seven years different.",
+    "order": null
+  },
+  "0aeb6d6": {
+    "speaker": "Beat",
+    "line": "And I am seven years better.",
+    "order": null
+  },
+  "00bc15d": {
+    "speaker": "Beat",
+    "line": "And I refuse",
+    "order": null
+  },
+  "00496db": {
+    "speaker": "Mirror",
+    "line": "To be worse",
+    "order": null
+  },
+  "0d369aa": {
+    "speaker": "Mirror",
+    "line": "Than who I was before",
+    "order": null
+  },
+  "05f28b4": {
+    "speaker": "Beat",
+    "line": "That bow was your mom's, wasn't it?",
+    "order": null
+  },
+  "034bd29": {
+    "speaker": "Beat",
+    "line": "...you know, everyone, and I mean everyone, says it doesn't stop being hard.",
+    "order": null
+  },
+  "0b4b12b": {
+    "speaker": "Beat",
+    "line": "But I wish that was actually true.",
+    "order": null
+  },
+  "0cf986f": {
+    "speaker": "Quaver",
+    "line": "Just leave me alone.",
+    "order": null
+  },
+  "07fc9ca": {
+    "speaker": "Beat",
+    "line": "I would if I could, Quaver.",
+    "order": null
+  },
+  "05cf90e": {
+    "speaker": "Beat",
+    "line": "But I have to be here for both of us, and for, uh. Everyone else.",
+    "order": null
+  },
+  "0407dbd": {
+    "speaker": "Quaver",
+    "line": "It's not fair that that's getting shoved onto me.",
+    "order": null
+  },
+  "0d66662": {
+    "speaker": "Beat",
+    "line": "No it isn't.",
+    "order": null
+  },
+  "049a453": {
+    "speaker": "Beat",
+    "line": "Listen.",
+    "order": null
+  },
+  "0109835": {
+    "speaker": "Beat",
+    "line": "For a long time I thought my mom was the only good thing in my life.",
+    "order": null
+  },
+  "05ae8fd": {
+    "speaker": "Beat",
+    "line": "Without her, I had my sister and I had me. And I hated both of us.",
+    "order": null
+  },
+  "0d88cd1": {
+    "speaker": "Beat",
+    "line": "I hated my sister because she tried to take care of me and she wasn't my mom.",
+    "order": null
+  },
+  "05b7e4b": {
+    "speaker": "Beat",
+    "line": "And I hated me because my mom wasn't there to stop me.",
+    "order": null
+  },
+  "059ce6c": {
+    "speaker": "Beat",
+    "line": "And then that made it hard to do anything else. So I just... didn't.",
+    "order": null
+  },
+  "0165ff1": {
+    "speaker": "Quaver",
+    "line": "You don't... you don't have to do this. It's not helping.",
+    "order": null
+  },
+  "00365dd": {
+    "speaker": "Beat",
+    "line": "You would do this for me.",
+    "order": null
+  },
+  "0752be4": {
+    "speaker": "Quaver",
+    "line": "I couldn't...",
+    "order": null
+  },
+  "0dc4a62": {
+    "speaker": "Quaver",
+    "line": "I...",
+    "order": null
+  },
+  "01f1ace": {
+    "speaker": "Quaver",
+    "line": "...I don't want this. You're just...",
+    "order": null
+  },
+  "014f59b": {
+    "speaker": "Quaver",
+    "line": "...this just feels mean.",
+    "order": null
+  },
+  "05ae17d": {
+    "speaker": "Beat",
+    "line": "Quaver, I'm not...",
+    "order": null
+  },
+  "0de25f5": {
+    "speaker": "Beat",
+    "line": "...I'm not good with these things. I'm not good at being a person.",
+    "order": null
+  },
+  "04e207a": {
+    "speaker": "Beat",
+    "line": "I don't know how to make this better for you.",
+    "order": null
+  },
+  "09fbf08": {
+    "speaker": "Beat",
+    "line": "I just know what I've dealt with. And I know...",
+    "order": null
+  },
+  "0e7516d": {
+    "speaker": "Beat",
+    "line": "None of this is your fault. But this doesn't stop without you.",
+    "order": null
+  },
+  "0de6d60": {
+    "speaker": "Beat",
+    "line": "I need you to help me, here.",
+    "order": null
+  },
+  "06bc5e1": {
+    "speaker": "Quaver",
+    "line": "I'd just screw it up. I've screwed up everything.",
+    "order": null
+  },
+  "03e5acc": {
+    "speaker": "Quaver",
+    "line": "I'm tired.",
+    "order": null
+  },
+  "068baa5": {
+    "speaker": "Quaver",
+    "line": "And I don't care about whatever you're trying to do,",
+    "order": null
+  },
+  "094cd63": {
+    "speaker": "Quaver",
+    "line": "And I don't care about anything else right now.",
+    "order": null
+  },
+  "0063158": {
+    "speaker": "Quaver",
+    "line": "I miss her, Beat. I keep missing her.",
+    "order": null
+  },
+  "0f27b70": {
+    "speaker": "Quaver",
+    "line": "And it hurts. I just want to forget how it feels.",
+    "order": null
+  },
+  "0422591": {
+    "speaker": "Quaver",
+    "line": "I used to be so good at just not thinking about it.",
+    "order": null
+  },
+  "01d64da": {
+    "speaker": "Quaver",
+    "line": "I can't stop thinking about it!",
+    "order": null
+  },
+  "0e9fd97": {
+    "speaker": "Quaver",
+    "line": "And I'm trying so hard to just feel nothing but it's impossible.",
+    "order": null
+  },
+  "0324479": {
+    "speaker": "Quaver",
+    "line": "It's everywhere I look.",
+    "order": null
+  },
+  "05b5257": {
+    "speaker": "Beat",
+    "line": "I know.",
+    "order": null
+  },
+  "04d351e": {
+    "speaker": "Beat",
+    "line": "I was horrible to her, the last time we talked.",
+    "order": null
+  },
+  "039e54f": {
+    "speaker": "Beat",
+    "line": "We fought over the stupidest thing.",
+    "order": null
+  },
+  "0fcd4ad": {
+    "speaker": "Beat",
+    "line": "...The worst thing for me was the voicemails.",
+    "order": null
+  },
+  "06df4c8": {
+    "speaker": "Beat",
+    "line": "You hear them, and... and you're on the phone with her, again.",
+    "order": null
+  },
+  "0be0ed7": {
+    "speaker": "Beat",
+    "line": "You're on the phone with her, but she's not on the phone with you.",
+    "order": null
+  },
+  "0c34adb": {
+    "speaker": "Beat",
+    "line": "And yet I still have this phone. It's almost twenty years old now.",
+    "order": null
+  },
+  "028cccb": {
+    "speaker": "Beat",
+    "line": "But I don't want to get rid of it because if I get rid of it then I'll get rid of those.",
+    "order": null
+  },
+  "09d345d": {
+    "speaker": "Beat",
+    "line": "I hate listening to them...",
+    "order": null
+  },
+  "0034785": {
+    "speaker": "Beat",
+    "line": "...but I do not want to live in a world where I don't have them anymore.",
+    "order": null
+  },
+  "0c07b45": {
+    "speaker": "Beat",
+    "line": "Some people just take up more space.",
+    "order": null
+  },
+  "0dfddc5": {
+    "speaker": "Beat",
+    "line": "I always wanted to be one of those people.",
+    "order": null
+  },
+  "025be64": {
+    "speaker": "Beat",
+    "line": "I try really hard to be.",
+    "order": null
+  },
+  "0400de6": {
+    "speaker": "Beat",
+    "line": "I carry a goddamn chip on my shoulder and I try to make that shoulder wider than it is.",
+    "order": null
+  },
+  "0c5b9c7": {
+    "speaker": "Beat",
+    "line": "But I don't think I fit in that box.",
+    "order": null
+  },
+  "0d9dbac": {
+    "speaker": "Beat",
+    "line": "Or maybe I do and I'm just worried I don't.",
+    "order": null
+  },
+  "0d68b35": {
+    "speaker": "Beat",
+    "line": "Sometimes I'm worried I fit in there too easily...",
+    "order": null
+  },
+  "08177f5": {
+    "speaker": "Beat",
+    "line": "...whatever. Whatever! None of this matters.",
+    "order": null
+  },
+  "0e00ac2": {
+    "speaker": "Beat",
+    "line": "My mom took up all the space in the world without even trying.",
+    "order": null
+  },
+  "075a7a1": {
+    "speaker": "Beat",
+    "line": "And, maybe that's not good.",
+    "order": null
+  },
+  "062105d": {
+    "speaker": "Beat",
+    "line": "Maybe it's just neutral.",
+    "order": null
+  },
+  "06aa080": {
+    "speaker": "Beat",
+    "line": "I don't know. I'm not equipped to think about that.",
+    "order": null
+  },
+  "0cd666f": {
+    "speaker": "Beat",
+    "line": "But it felt good to be around her.",
+    "order": null
+  },
+  "0e0e9ae": {
+    "speaker": "Beat",
+    "line": "And when she died, all of that space was suddenly filled with nothing.",
+    "order": null
+  },
+  "07bcad2": {
+    "speaker": "Beat",
+    "line": "And that's a lot of nothing.",
+    "order": null
+  },
+  "054b7a5": {
+    "speaker": "Beat",
+    "line": "It's heavy. And I can't grab it all.",
+    "order": null
+  },
+  "0e61160": {
+    "speaker": "Beat",
+    "line": "I have too much trouble carrying my own life.",
+    "order": null
+  },
+  "01958ba": {
+    "speaker": "Beat",
+    "line": "I have no space to carry death, too.",
+    "order": null
+  },
+  "03c6991": {
+    "speaker": "Beat",
+    "line": "So I don't even think about her anymore.",
+    "order": null
+  },
+  "090ab3f": {
+    "speaker": "Beat",
+    "line": "I loved her more than I think I've been able to love anything or anyone since.",
+    "order": null
+  },
+  "0e41b77": {
+    "speaker": "Beat",
+    "line": "And I don't even think about her anymore.",
+    "order": null
+  },
+  "0a81385": {
+    "speaker": "Beat",
+    "line": "And I don't want that to happen to you.",
+    "order": null
+  },
+  "06d223f": {
+    "speaker": "Beat",
+    "line": "That's... that's what I'm trying to say. That's all I mean.",
+    "order": null
+  },
+  "08f1543": {
+    "speaker": "Beat",
+    "line": "I think, sometimes, feeling hurt is better than feeling nothing.",
+    "order": null
+  },
+  "0e5357e": {
+    "speaker": "Beat",
+    "line": "It means things were real.",
+    "order": null
+  },
+  "076e78e": {
+    "speaker": "Beat",
+    "line": "Are real.",
+    "order": null
+  },
+  "05e0cd0": {
+    "speaker": "Beat",
+    "line": "It hurts to remember, but the remembering is the thing you've got.",
+    "order": null
+  },
+  "0bf6630": {
+    "speaker": "Brianna",
+    "line": "I don't want to lose you, Beat.",
+    "order": null
+  },
+  "077b100": {
+    "speaker": "Brianna",
+    "line": "I'm so scared.",
+    "order": null
+  },
+  "0db3f04": {
+    "speaker": "Brianna",
+    "line": "I- you know I get mad.",
+    "order": null
+  },
+  "0ca4d65": {
+    "speaker": "Brianna",
+    "line": "I know you know I get mad.",
+    "order": null
+  },
+  "0cd22aa": {
+    "speaker": "Brianna",
+    "line": "And I hate when I get mad at you.",
+    "order": null
+  },
+  "01f9e70": {
+    "speaker": "Brianna",
+    "line": "But I'm so scared, and you're so reckless, and it makes me feel crazy.",
+    "order": null
+  },
+  "02b4ec1": {
+    "speaker": "Brianna",
+    "line": "Sometimes I get worried that you have some kind of god complex.",
+    "order": null
+  },
+  "0f51280": {
+    "speaker": "Brianna",
+    "line": "You act like you can't die.",
+    "order": null
+  },
+  "0a995a4": {
+    "speaker": "Brianna",
+    "line": "But here you are, and you...",
+    "order": null
+  },
+  "0728720": {
+    "speaker": "Brianna",
+    "line": "You're not unbeatable, no matter how much I want you to be.",
+    "order": null
+  },
+  "067ea68": {
+    "speaker": "Brianna",
+    "line": "The last thing we did before all of this was fight.",
+    "order": null
+  },
+  "0f56366": {
+    "speaker": "Brianna",
+    "line": "And it was your fault, and I hate that.",
+    "order": null
+  },
+  "00a931e": {
+    "speaker": "Brianna",
+    "line": "I really wish it wasn't your fault.",
+    "order": null
+  },
+  "0eb9bcf": {
+    "speaker": "Brianna",
+    "line": "Because then I'd be mad at myself and not you, and you're the one...",
+    "order": null
+  },
+  "097fb4a": {
+    "speaker": "Brianna",
+    "line": "I don't know if you can even hear anything I'm saying.",
+    "order": null
+  },
+  "0f2b89d": {
+    "speaker": "Brianna",
+    "line": "But I say it because if I keep talking to you, you're still here.",
+    "order": null
+  },
+  "044e7b7": {
+    "speaker": "Brianna",
+    "line": "And if you're still here, I can get you back, maybe.",
+    "order": null
+  },
+  "0a89249": {
+    "speaker": "Brianna",
+    "line": "And if I lose you, I'll never stop being mad.",
+    "order": null
+  },
+  "039ad0b": {
+    "speaker": "Brianna",
+    "line": "And I don't want that to be the last thing between us that-",
+    "order": null
+  },
+  "0e852d2": {
+    "speaker": "Brianna",
+    "line": "Oh,",
+    "order": null
+  },
+  "0caabe3": {
+    "speaker": "Brianna",
+    "line": "Oh. Hi.",
+    "order": null
+  },
+  "008126e": {
+    "speaker": "Brianna",
+    "line": "You too.",
+    "order": null
+  }
+}
