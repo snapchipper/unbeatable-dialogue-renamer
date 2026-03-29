@@ -275,162 +275,162 @@
   },
   "08_IntroMinigameEnd": {
     "00eab8b": {
-      "speaker": "BeatLeft",
+      "speaker": "Beat",
       "line": "We can't worry about this! I'm sure those two will be fine.",
       "order": 1
     },
     "0061197": {
-      "speaker": "QuaverLeft",
+      "speaker": "Quaver",
       "line": "That's not how this works. That's not how HARM works.",
       "order": 2
     },
     "03802ab": {
-      "speaker": "QuaverLeft",
+      "speaker": "Quaver",
       "line": "They're never getting out of there.",
       "order": 3
     },
     "06a9013": {
-      "speaker": "BeatLeft",
+      "speaker": "Beat",
       "line": "Calm down. \"Never\" is prison, not jail. There hasn't even been a trial yet.",
       "order": 4
     },
     "0d8d2a2": {
-      "speaker": "QuaverLeft",
+      "speaker": "Quaver",
       "line": "HARM doesn't see a difference.",
       "order": 5
     },
     "066868c": {
-      "speaker": "QuaverLeft",
+      "speaker": "Quaver",
       "line": "There will be no trial. That was Site 14. Which makes sense, they're repeat offenders.",
       "order": 6
     },
     "0016026": {
-      "speaker": "BeatLeft",
+      "speaker": "Beat",
       "line": "Oh, yeah, that makes tons of sense and everyone knows this.",
       "order": 7
     },
     "0f5abcd": {
-      "speaker": "BeatLeft",
+      "speaker": "Beat",
       "line": "Very common knowledge.",
       "order": 8
     },
     "0fb103f": {
-      "speaker": "QuaverLeft",
+      "speaker": "Quaver",
       "line": "We have to help them.",
       "order": 9
     },
     "0c18782": {
-      "speaker": "BeatLeft",
+      "speaker": "Beat",
       "line": "...look, I get it. But no.",
       "order": 10
     },
     "0d341dd": {
-      "speaker": "QuaverLeft",
+      "speaker": "Quaver",
       "line": "Beat...",
       "order": 11
     },
     "0c3bd17": {
-      "speaker": "BeatLeft",
+      "speaker": "Beat",
       "line": "Quaver, Hours ago we were being chased by cops.",
       "order": 12
     },
     "0c18490": {
-      "speaker": "BeatLeft",
+      "speaker": "Beat",
       "line": "We are literally on the run right now.",
       "order": 13
     },
     "0c881d0": {
-      "speaker": "BeatCenter",
+      "speaker": "Beat",
       "line": "Us being anywhere is stupid.",
       "order": 14
     },
     "04a63e1": {
-      "speaker": "BeatCenter",
+      "speaker": "Beat",
       "line": "Us being here is stupid.",
       "order": 15
     },
     "0e9568e": {
-      "speaker": "BeatCenter",
+      "speaker": "Beat",
       "line": "And us being at some black site is double stupid.",
       "order": 16
     },
     "0289491": {
-      "speaker": "QuaverCenter",
+      "speaker": "Quaver",
       "line": "No, it's not-",
       "order": 17
     },
     "05aa0dd": {
-      "speaker": "BeatCenter",
+      "speaker": "Beat",
       "line": "No?",
       "order": 18
     },
     "0dda0cf": {
-      "speaker": "QuaverCenter",
+      "speaker": "Quaver",
       "line": "...it's not a black site. Black sites are off the books.",
       "order": 19
     },
     "0a6c128": {
-      "speaker": "BeatCenter",
+      "speaker": "Beat",
       "line": "What?",
       "order": 20
     },
     "0d945d5": {
-      "speaker": "QuaverCenter",
+      "speaker": "Quaver",
       "line": "Those prisons are... financially logged. So it's more, uh, grey, I-",
       "order": 21
     },
     "05cc570": {
-      "speaker": "BeatCenter",
+      "speaker": "Beat",
       "line": "Because, sure, that's what matters. How do you know all this?",
       "order": 22
     },
     "06ed639": {
-      "speaker": "QuaverMatch",
+      "speaker": "Quaver",
       "line": "I learn things. And because I know this stuff, I know we should help.",
       "order": 23
     },
     "0936530": {
-      "speaker": "BeatMatch",
+      "speaker": "Beat",
       "line": "You're going to do this regardless of if I come along, aren't you.",
       "order": 24
     },
     "0828f5b": {
-      "speaker": "QuaverMatch",
+      "speaker": "Quaver",
       "line": "Of course I am.",
       "order": 25
     },
     "0c2f57c": {
-      "speaker": "BeatMatch",
+      "speaker": "Beat",
       "line": "And you know I'm not comfortable with physically restraining you.",
       "order": 26
     },
     "01dec45": {
-      "speaker": "QuaverMatch",
+      "speaker": "Quaver",
       "line": "Most adults wouldn't be.",
       "order": 27
     },
     "0ae5fa9": {
-      "speaker": "BeatMatch",
+      "speaker": "Beat",
       "line": "But that means if I don't go along with this you're going to be in danger.",
       "order": 28
     },
     "04146b8": {
-      "speaker": "BeatMatch",
+      "speaker": "Beat",
       "line": "From cops.",
       "order": 29
     },
     "03618c9": {
-      "speaker": "BeatMatch",
+      "speaker": "Beat",
       "line": "Because you're going to the cops.",
       "order": 30
     },
     "0defdda": {
-      "speaker": "BeatMatch",
+      "speaker": "Beat",
       "line": "On purpose.",
       "order": 31
     },
     "0b754bb": {
-      "speaker": "QuaverMatch",
+      "speaker": "Quaver",
       "line": "I think I'm ready to go if you are.",
       "order": 32
     },
