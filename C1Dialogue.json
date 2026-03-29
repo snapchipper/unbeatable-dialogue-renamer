@@ -67,80 +67,85 @@
     }
   },
   "02_C1_Start_Twins_Arrested": {
-    "0383c29_removed": {
+    "0ae093b_removed": {
       "speaker": "Guard",
       "line": "Well, I can't hear them, but they LOOK like they sound good.",
       "order": 1
     },
+    "0383c29_removed": {
+      "speaker": "Guard",
+      "line": "Oh man, woah! You guys are on the TV! That's crazy!",
+      "order": 2
+    },
     "07b926f_removed": {
       "speaker": "Guard",
       "line": "Hey, man, did you know these guys are famous?",
-      "order": 2
+      "order": 3
     },
     "0b65f86": {
       "speaker": "Guard2",
       "line": "Uh. Yes?",
-      "order": 3
+      "order": 4
     },
     "0c2f40d_removed": {
       "speaker": "Guard",
       "line": "Okay, well, I didn't.",
-      "order": 4
+      "order": 5
     },
     "0edd3e2_removed": {
       "speaker": "Guard",
       "line": "The TV says you guys were really good!",
-      "order": 5
+      "order": 6
     },
     "08ec60e": {
       "speaker": "Guard2",
       "line": "Eh.",
-      "order": 6
+      "order": 7
     },
     "0d788cd": {
       "speaker": "Treble",
       "line": "wow",
-      "order": 7
+      "order": 8
     },
     "027a0f6": {
       "speaker": "Guard2",
       "line": "They were okay.",
-      "order": 8
+      "order": 9
     },
     "0733706": {
       "speaker": "Treble",
       "line": "honestly i'd rather you hated us",
-      "order": 9
+      "order": 10
     },
     "0fb248f": {
       "speaker": "Guard2",
       "line": "Were. They should have known better.",
-      "order": 10
+      "order": 11
     },
     "0dd3eb2": {
       "speaker": "Clef",
       "line": "You say \"they\" like we're not right HERE.",
-      "order": 11
+      "order": 12
     },
     "0c5cc46": {
       "speaker": "Guard2",
       "line": "They just got out of prison from their last stint.",
-      "order": 12
+      "order": 13
     },
     "08c768a_removed": {
       "speaker": "Guard",
       "line": "Stupid. Gonna spend your whole lives in here at this rate, numbskulls.",
-      "order": 13
+      "order": 14
     },
     "0ec711e": {
       "speaker": "Clef",
       "line": "YEAH? Well, if you're working here so much, you, same thing!",
-      "order": 14
+      "order": 15
     },
     "0880dfe": {
       "speaker": "Treble",
       "line": "i have a migrane can you wait before you start doing this",
-      "order": 15
+      "order": 16
     }
   },
   "03_C1_News": {
