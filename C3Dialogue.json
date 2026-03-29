@@ -3012,7 +3012,7 @@
       "order": 6
     },
     "0142ce8": {
-      "speaker": "BeatGround",
+      "speaker": "Beat",
       "line": "...her?",
       "order": 7
     },
@@ -3022,22 +3022,22 @@
       "order": 8
     },
     "07f62b5": {
-      "speaker": "BeatGround",
+      "speaker": "Beat",
       "line": "I can barely move at all.",
       "order": 9
     },
     "0c22707": {
-      "speaker": "restCenter",
+      "speaker": "Rest",
       "line": "You're under arrest for...",
       "order": 10
     },
     "0b4a2d9": {
-      "speaker": "restCenter",
+      "speaker": "Rest",
       "line": "...far too many things to list. You must remain silent.",
       "order": 11
     },
     "07c1385": {
-      "speaker": "restCenter",
+      "speaker": "Rest",
       "line": "If you do not, your safety cannot-",
       "order": 12
     },
