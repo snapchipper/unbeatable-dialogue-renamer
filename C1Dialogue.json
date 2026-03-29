@@ -3937,52 +3937,52 @@
   },
   "34_ClefBeatRound2Aftermath": {
     "014b3fc": {
-      "speaker": "ClefPostFight",
+      "speaker": "Clef",
       "line": "Ugh.",
       "order": 1
     },
     "0ca975d": {
-      "speaker": "GuardPostFight",
+      "speaker": "Guard",
       "line": "The hell are you two up to?",
       "order": 2
     },
     "06c9f95": {
-      "speaker": "BeatPostFight",
+      "speaker": "Beat",
       "line": "Sh-",
       "order": 3
     },
     "05f55dc": {
-      "speaker": "ClefPostFight",
+      "speaker": "Clef",
       "line": "We found the place like this.",
       "order": 4
     },
     "0c4cac2": {
-      "speaker": "BeatPostFight",
+      "speaker": "Beat",
       "line": "Uh-",
       "order": 5
     },
     "0d01b9b": {
-      "speaker": "ClefPostFight",
+      "speaker": "Clef",
       "line": "Dunno what happened.",
       "order": 6
     },
     "09d503e": {
-      "speaker": "ClefPostFight",
+      "speaker": "Clef",
       "line": "Anyway, I think we were late to work?",
       "order": 7
     },
     "08ba0cc": {
-      "speaker": "GuardPostFight",
+      "speaker": "Guard",
       "line": "...",
       "order": 8
     },
     "0d70be4": {
-      "speaker": "ClefPostFight",
+      "speaker": "Clef",
       "line": "Can we go now?",
       "order": 9
     },
     "09cc0c9": {
-      "speaker": "GuardPostFight",
+      "speaker": "Guard",
       "line": "Be quick about it.",
       "order": 10
     },
